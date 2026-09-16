@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 4,
-  "updatedAt": "2026-09-16T19:50:36.132Z",
+  "totalPulls": 5,
+  "updatedAt": "2026-09-16T22:28:28.329Z",
   "lastPull": {
-    "id": 820,
-    "name": "greedent",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+    "id": 149,
+    "name": "dragonite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
     "types": [
-      "normal"
+      "dragon",
+      "flying"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-09-16T19:50:36.132Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-16T22:28:28.329Z"
   },
   "pulls": [
+    {
+      "id": 149,
+      "name": "dragonite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T22:28:28.329Z"
+    },
     {
       "id": 820,
       "name": "greedent",
@@ -62,6 +75,22 @@
     }
   ],
   "pokemon": {
+    "149": {
+      "id": 149,
+      "name": "dragonite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T22:28:28.329Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T22:28:28.329Z",
+      "lastPulledAt": "2026-09-16T22:28:28.329Z"
+    },
     "441": {
       "id": 441,
       "name": "chatot",
