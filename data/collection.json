@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-16T01:52:06.360Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-16T12:10:29.088Z",
   "lastPull": {
-    "id": 441,
-    "name": "chatot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
+    "id": 645,
+    "name": "landorus-incarnate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
     "types": [
-      "normal",
+      "ground",
       "flying"
     ],
-    "totalStats": 411,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:52:06.360Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-16T12:10:29.088Z"
   },
   "pulls": [
+    {
+      "id": 645,
+      "name": "landorus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T12:10:29.088Z"
+    },
     {
       "id": 441,
       "name": "chatot",
@@ -44,6 +56,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:52:06.360Z",
       "lastPulledAt": "2026-09-16T01:52:06.360Z"
+    },
+    "645": {
+      "id": 645,
+      "name": "landorus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T12:10:29.088Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T12:10:29.088Z",
+      "lastPulledAt": "2026-09-16T12:10:29.088Z"
     }
   },
   "typeTotals": {
