@@ -57,7 +57,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: 사이트 파일 업로드
-        uses: action/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v4
         with:
           path: "_site"
 
