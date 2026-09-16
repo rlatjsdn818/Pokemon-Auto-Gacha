@@ -39,7 +39,7 @@ jobs:
 
       # TODO-6: 변경된 JSON과 README를 자동 커밋하는 단계를 여기에 추가하세요.
       - name: 변경된 데이터 자동 커밋
-        run : 
+        run: 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/collection.json README.md
