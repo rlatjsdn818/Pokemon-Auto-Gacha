@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 11,
-  "updatedAt": "2026-09-17T21:53:50.045Z",
+  "totalPulls": 12,
+  "updatedAt": "2026-09-17T23:47:27.019Z",
   "lastPull": {
-    "id": 123,
-    "name": "scyther",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "id": 466,
+    "name": "electivire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
     "types": [
-      "bug",
-      "flying"
+      "electric"
     ],
-    "totalStats": 500,
+    "totalStats": 540,
     "grade": "SR",
-    "pulledAt": "2026-09-17T21:53:50.045Z"
+    "pulledAt": "2026-09-17T23:47:27.019Z"
   },
   "pulls": [
+    {
+      "id": 466,
+      "name": "electivire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T23:47:27.019Z"
+    },
     {
       "id": 123,
       "name": "scyther",
@@ -118,18 +128,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-09-16T16:58:35.084Z"
-    },
-    {
-      "id": 645,
-      "name": "landorus-incarnate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
-      "types": [
-        "ground",
-        "flying"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-16T12:10:29.088Z"
     }
   ],
   "pokemon": {
@@ -211,6 +209,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:52:06.360Z",
       "lastPulledAt": "2026-09-16T01:52:06.360Z"
+    },
+    "466": {
+      "id": 466,
+      "name": "electivire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T23:47:27.019Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T23:47:27.019Z",
+      "lastPulledAt": "2026-09-17T23:47:27.019Z"
     },
     "566": {
       "id": 566,
