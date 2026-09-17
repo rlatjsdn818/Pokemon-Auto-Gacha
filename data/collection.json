@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 8,
-  "updatedAt": "2026-09-17T10:16:38.704Z",
+  "totalPulls": 9,
+  "updatedAt": "2026-09-17T15:03:27.731Z",
   "lastPull": {
-    "id": 582,
-    "name": "vanillite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+    "id": 566,
+    "name": "archen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
     "types": [
-      "ice"
+      "rock",
+      "flying"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-17T10:16:38.704Z"
+    "totalStats": 401,
+    "grade": "R",
+    "pulledAt": "2026-09-17T15:03:27.731Z"
   },
   "pulls": [
+    {
+      "id": 566,
+      "name": "archen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 401,
+      "grade": "R",
+      "pulledAt": "2026-09-17T15:03:27.731Z"
+    },
     {
       "id": 582,
       "name": "vanillite",
@@ -156,6 +169,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:52:06.360Z",
       "lastPulledAt": "2026-09-16T01:52:06.360Z"
+    },
+    "566": {
+      "id": 566,
+      "name": "archen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 401,
+      "grade": "R",
+      "pulledAt": "2026-09-17T15:03:27.731Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T15:03:27.731Z",
+      "lastPulledAt": "2026-09-17T15:03:27.731Z"
     },
     "582": {
       "id": 582,
