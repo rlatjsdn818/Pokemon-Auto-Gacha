@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 9,
-  "updatedAt": "2026-09-17T15:03:27.731Z",
+  "totalPulls": 10,
+  "updatedAt": "2026-09-17T18:57:38.749Z",
   "lastPull": {
-    "id": 566,
-    "name": "archen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+    "id": 317,
+    "name": "swalot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
     "types": [
-      "rock",
-      "flying"
+      "poison"
     ],
-    "totalStats": 401,
+    "totalStats": 467,
     "grade": "R",
-    "pulledAt": "2026-09-17T15:03:27.731Z"
+    "pulledAt": "2026-09-17T18:57:38.749Z"
   },
   "pulls": [
+    {
+      "id": 317,
+      "name": "swalot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 467,
+      "grade": "R",
+      "pulledAt": "2026-09-17T18:57:38.749Z"
+    },
     {
       "id": 566,
       "name": "archen",
@@ -137,6 +147,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:28:28.329Z",
       "lastPulledAt": "2026-09-16T22:28:28.329Z"
+    },
+    "317": {
+      "id": 317,
+      "name": "swalot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 467,
+      "grade": "R",
+      "pulledAt": "2026-09-17T18:57:38.749Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T18:57:38.749Z",
+      "lastPulledAt": "2026-09-17T18:57:38.749Z"
     },
     "322": {
       "id": 322,
