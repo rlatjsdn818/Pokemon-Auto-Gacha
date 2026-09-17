@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 6,
-  "updatedAt": "2026-09-17T00:46:09.331Z",
+  "totalPulls": 7,
+  "updatedAt": "2026-09-17T05:28:48.402Z",
   "lastPull": {
-    "id": 752,
-    "name": "araquanid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
+    "id": 322,
+    "name": "numel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
     "types": [
-      "water",
-      "bug"
+      "fire",
+      "ground"
     ],
-    "totalStats": 454,
-    "grade": "R",
-    "pulledAt": "2026-09-17T00:46:09.331Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-09-17T05:28:48.402Z"
   },
   "pulls": [
+    {
+      "id": 322,
+      "name": "numel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-17T05:28:48.402Z"
+    },
     {
       "id": 752,
       "name": "araquanid",
@@ -102,6 +114,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:28:28.329Z",
       "lastPulledAt": "2026-09-16T22:28:28.329Z"
+    },
+    "322": {
+      "id": 322,
+      "name": "numel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-17T05:28:48.402Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T05:28:48.402Z",
+      "lastPulledAt": "2026-09-17T05:28:48.402Z"
     },
     "441": {
       "id": 441,
