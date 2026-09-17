@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 5,
-  "updatedAt": "2026-09-16T22:28:28.329Z",
+  "totalPulls": 6,
+  "updatedAt": "2026-09-17T00:46:09.331Z",
   "lastPull": {
-    "id": 149,
-    "name": "dragonite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "id": 752,
+    "name": "araquanid",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
     "types": [
-      "dragon",
-      "flying"
+      "water",
+      "bug"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-16T22:28:28.329Z"
+    "totalStats": 454,
+    "grade": "R",
+    "pulledAt": "2026-09-17T00:46:09.331Z"
   },
   "pulls": [
+    {
+      "id": 752,
+      "name": "araquanid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 454,
+      "grade": "R",
+      "pulledAt": "2026-09-17T00:46:09.331Z"
+    },
     {
       "id": 149,
       "name": "dragonite",
@@ -137,6 +149,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:10:29.088Z",
       "lastPulledAt": "2026-09-16T12:10:29.088Z"
+    },
+    "752": {
+      "id": 752,
+      "name": "araquanid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 454,
+      "grade": "R",
+      "pulledAt": "2026-09-17T00:46:09.331Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T00:46:09.331Z",
+      "lastPulledAt": "2026-09-17T00:46:09.331Z"
     },
     "820": {
       "id": 820,
