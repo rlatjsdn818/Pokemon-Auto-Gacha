@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 7,
-  "updatedAt": "2026-09-17T05:28:48.402Z",
+  "totalPulls": 8,
+  "updatedAt": "2026-09-17T10:16:38.704Z",
   "lastPull": {
-    "id": 322,
-    "name": "numel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+    "id": 582,
+    "name": "vanillite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
     "types": [
-      "fire",
-      "ground"
+      "ice"
     ],
     "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-09-17T05:28:48.402Z"
+    "pulledAt": "2026-09-17T10:16:38.704Z"
   },
   "pulls": [
+    {
+      "id": 582,
+      "name": "vanillite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-17T10:16:38.704Z"
+    },
     {
       "id": 322,
       "name": "numel",
@@ -146,6 +156,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:52:06.360Z",
       "lastPulledAt": "2026-09-16T01:52:06.360Z"
+    },
+    "582": {
+      "id": 582,
+      "name": "vanillite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-17T10:16:38.704Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T10:16:38.704Z",
+      "lastPulledAt": "2026-09-17T10:16:38.704Z"
     },
     "583": {
       "id": 583,
