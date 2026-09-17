@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 10,
-  "updatedAt": "2026-09-17T18:57:38.749Z",
+  "totalPulls": 11,
+  "updatedAt": "2026-09-17T21:53:50.045Z",
   "lastPull": {
-    "id": 317,
-    "name": "swalot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+    "id": 123,
+    "name": "scyther",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
     "types": [
-      "poison"
+      "bug",
+      "flying"
     ],
-    "totalStats": 467,
-    "grade": "R",
-    "pulledAt": "2026-09-17T18:57:38.749Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-17T21:53:50.045Z"
   },
   "pulls": [
+    {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T21:53:50.045Z"
+    },
     {
       "id": 317,
       "name": "swalot",
@@ -117,21 +130,25 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-16T12:10:29.088Z"
-    },
-    {
-      "id": 441,
-      "name": "chatot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 411,
-      "grade": "R",
-      "pulledAt": "2026-09-16T01:52:06.360Z"
     }
   ],
   "pokemon": {
+    "123": {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T21:53:50.045Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T21:53:50.045Z",
+      "lastPulledAt": "2026-09-17T21:53:50.045Z"
+    },
     "149": {
       "id": 149,
       "name": "dragonite",
