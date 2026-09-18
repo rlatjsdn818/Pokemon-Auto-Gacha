@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 18,
-  "updatedAt": "2026-09-18T21:11:29.056Z",
+  "totalPulls": 19,
+  "updatedAt": "2026-09-18T23:19:09.371Z",
   "lastPull": {
-    "id": 728,
-    "name": "popplio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+    "id": 943,
+    "name": "mabosstiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
     "types": [
-      "water"
+      "dark"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-09-18T21:11:29.056Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-09-18T23:19:09.371Z"
   },
   "pulls": [
+    {
+      "id": 943,
+      "name": "mabosstiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T23:19:09.371Z"
+    },
     {
       "id": 728,
       "name": "popplio",
@@ -114,18 +125,6 @@
       "totalStats": 467,
       "grade": "R",
       "pulledAt": "2026-09-17T18:57:38.749Z"
-    },
-    {
-      "id": 566,
-      "name": "archen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
-      "types": [
-        "rock",
-        "flying"
-      ],
-      "totalStats": 401,
-      "grade": "R",
-      "pulledAt": "2026-09-17T15:03:27.731Z"
     }
   ],
   "pokemon": {
@@ -406,6 +405,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:50:36.132Z",
       "lastPulledAt": "2026-09-16T19:50:36.132Z"
+    },
+    "943": {
+      "id": 943,
+      "name": "mabosstiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T23:19:09.371Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T23:19:09.371Z",
+      "lastPulledAt": "2026-09-18T23:19:09.371Z"
     }
   },
   "typeTotals": {
