@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 17,
-  "updatedAt": "2026-09-18T18:30:28.133Z",
+  "totalPulls": 18,
+  "updatedAt": "2026-09-18T21:11:29.056Z",
   "lastPull": {
-    "id": 22,
-    "name": "fearow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "id": 728,
+    "name": "popplio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
     "types": [
-      "normal",
-      "flying"
+      "water"
     ],
-    "totalStats": 442,
-    "grade": "R",
-    "pulledAt": "2026-09-18T18:30:28.133Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-09-18T21:11:29.056Z"
   },
   "pulls": [
+    {
+      "id": 728,
+      "name": "popplio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-18T21:11:29.056Z"
+    },
     {
       "id": 22,
       "name": "fearow",
@@ -116,17 +126,6 @@
       "totalStats": 401,
       "grade": "R",
       "pulledAt": "2026-09-17T15:03:27.731Z"
-    },
-    {
-      "id": 582,
-      "name": "vanillite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-17T10:16:38.704Z"
     }
   ],
   "pokemon": {
@@ -361,6 +360,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T06:35:03.956Z",
       "lastPulledAt": "2026-09-18T06:35:03.956Z"
+    },
+    "728": {
+      "id": 728,
+      "name": "popplio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-18T21:11:29.056Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T21:11:29.056Z",
+      "lastPulledAt": "2026-09-18T21:11:29.056Z"
     },
     "752": {
       "id": 752,
