@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 15,
-  "updatedAt": "2026-09-18T11:43:51.740Z",
+  "totalPulls": 16,
+  "updatedAt": "2026-09-18T15:10:37.552Z",
   "lastPull": {
-    "id": 99,
-    "name": "kingler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+    "id": 10,
+    "name": "caterpie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
     "types": [
-      "water"
+      "bug"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-09-18T11:43:51.740Z"
+    "totalStats": 195,
+    "grade": "N",
+    "pulledAt": "2026-09-18T15:10:37.552Z"
   },
   "pulls": [
+    {
+      "id": 10,
+      "name": "caterpie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-09-18T15:10:37.552Z"
+    },
     {
       "id": 99,
       "name": "kingler",
@@ -115,21 +126,24 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-17T05:28:48.402Z"
-    },
-    {
-      "id": 752,
-      "name": "araquanid",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
-      "types": [
-        "water",
-        "bug"
-      ],
-      "totalStats": 454,
-      "grade": "R",
-      "pulledAt": "2026-09-17T00:46:09.331Z"
     }
   ],
   "pokemon": {
+    "10": {
+      "id": 10,
+      "name": "caterpie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-09-18T15:10:37.552Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T15:10:37.552Z",
+      "lastPulledAt": "2026-09-18T15:10:37.552Z"
+    },
     "99": {
       "id": 99,
       "name": "kingler",
