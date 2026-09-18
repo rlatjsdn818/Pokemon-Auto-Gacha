@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 12,
-  "updatedAt": "2026-09-17T23:47:27.019Z",
+  "totalPulls": 13,
+  "updatedAt": "2026-09-18T01:35:07.367Z",
   "lastPull": {
-    "id": 466,
-    "name": "electivire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "id": 115,
+    "name": "kangaskhan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
     "types": [
-      "electric"
+      "normal"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-09-17T23:47:27.019Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-09-18T01:35:07.367Z"
   },
   "pulls": [
+    {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-18T01:35:07.367Z"
+    },
     {
       "id": 466,
       "name": "electivire",
@@ -117,20 +128,24 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-09-16T19:50:36.132Z"
-    },
-    {
-      "id": 583,
-      "name": "vanillish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-09-16T16:58:35.084Z"
     }
   ],
   "pokemon": {
+    "115": {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-18T01:35:07.367Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T01:35:07.367Z",
+      "lastPulledAt": "2026-09-18T01:35:07.367Z"
+    },
     "123": {
       "id": 123,
       "name": "scyther",
