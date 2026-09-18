@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 13,
-  "updatedAt": "2026-09-18T01:35:07.367Z",
+  "totalPulls": 14,
+  "updatedAt": "2026-09-18T06:35:03.956Z",
   "lastPull": {
-    "id": 115,
-    "name": "kangaskhan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "id": 653,
+    "name": "fennekin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
     "types": [
-      "normal"
+      "fire"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-18T01:35:07.367Z"
+    "totalStats": 307,
+    "grade": "N",
+    "pulledAt": "2026-09-18T06:35:03.956Z"
   },
   "pulls": [
+    {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-09-18T06:35:03.956Z"
+    },
     {
       "id": 115,
       "name": "kangaskhan",
@@ -117,17 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-16T22:28:28.329Z"
-    },
-    {
-      "id": 820,
-      "name": "greedent",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-16T19:50:36.132Z"
     }
   ],
   "pokemon": {
@@ -301,6 +301,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:10:29.088Z",
       "lastPulledAt": "2026-09-16T12:10:29.088Z"
+    },
+    "653": {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-09-18T06:35:03.956Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T06:35:03.956Z",
+      "lastPulledAt": "2026-09-18T06:35:03.956Z"
     },
     "752": {
       "id": 752,
