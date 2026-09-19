@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 26,
-  "updatedAt": "2026-09-19T21:26:06.719Z",
+  "totalPulls": 27,
+  "updatedAt": "2026-09-19T23:17:13.602Z",
   "lastPull": {
-    "id": 820,
-    "name": "greedent",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+    "id": 230,
+    "name": "kingdra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
     "types": [
-      "normal"
+      "water",
+      "dragon"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-09-19T21:26:06.719Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T23:17:13.602Z"
   },
   "pulls": [
+    {
+      "id": 230,
+      "name": "kingdra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T23:17:13.602Z"
+    },
     {
       "id": 820,
       "name": "greedent",
@@ -113,18 +126,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-09-18T21:11:29.056Z"
-    },
-    {
-      "id": 22,
-      "name": "fearow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 442,
-      "grade": "R",
-      "pulledAt": "2026-09-18T18:30:28.133Z"
     }
   ],
   "pokemon": {
@@ -220,6 +221,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:28:28.329Z",
       "lastPulledAt": "2026-09-16T22:28:28.329Z"
+    },
+    "230": {
+      "id": 230,
+      "name": "kingdra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T23:17:13.602Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T23:17:13.602Z",
+      "lastPulledAt": "2026-09-19T23:17:13.602Z"
     },
     "317": {
       "id": 317,
