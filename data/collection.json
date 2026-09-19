@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-19T10:06:02.679Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-19T13:53:17.109Z",
   "lastPull": {
-    "id": 845,
-    "name": "cramorant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+    "id": 465,
+    "name": "tangrowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
     "types": [
-      "flying",
-      "water"
+      "grass"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-09-19T10:06:02.679Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T13:53:17.109Z"
   },
   "pulls": [
+    {
+      "id": 465,
+      "name": "tangrowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T13:53:17.109Z"
+    },
     {
       "id": 845,
       "name": "cramorant",
@@ -115,17 +125,6 @@
       "totalStats": 307,
       "grade": "N",
       "pulledAt": "2026-09-18T06:35:03.956Z"
-    },
-    {
-      "id": 115,
-      "name": "kangaskhan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-18T01:35:07.367Z"
     }
   ],
   "pokemon": {
@@ -268,6 +267,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:52:06.360Z",
       "lastPulledAt": "2026-09-16T01:52:06.360Z"
+    },
+    "465": {
+      "id": 465,
+      "name": "tangrowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T13:53:17.109Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T13:53:17.109Z",
+      "lastPulledAt": "2026-09-19T13:53:17.109Z"
     },
     "466": {
       "id": 466,
