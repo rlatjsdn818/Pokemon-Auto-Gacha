@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 23,
-  "updatedAt": "2026-09-19T13:53:17.109Z",
+  "totalPulls": 24,
+  "updatedAt": "2026-09-19T16:53:03.276Z",
   "lastPull": {
-    "id": 465,
-    "name": "tangrowth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+    "id": 683,
+    "name": "aromatisse",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
     "types": [
-      "grass"
+      "fairy"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-09-19T13:53:17.109Z"
+    "totalStats": 462,
+    "grade": "R",
+    "pulledAt": "2026-09-19T16:53:03.276Z"
   },
   "pulls": [
+    {
+      "id": 683,
+      "name": "aromatisse",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 462,
+      "grade": "R",
+      "pulledAt": "2026-09-19T16:53:03.276Z"
+    },
     {
       "id": 465,
       "name": "tangrowth",
@@ -114,17 +125,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-18T11:43:51.740Z"
-    },
-    {
-      "id": 653,
-      "name": "fennekin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 307,
-      "grade": "N",
-      "pulledAt": "2026-09-18T06:35:03.956Z"
     }
   ],
   "pokemon": {
@@ -389,6 +389,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:16:22.069Z",
       "lastPulledAt": "2026-09-19T01:16:22.069Z"
+    },
+    "683": {
+      "id": 683,
+      "name": "aromatisse",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 462,
+      "grade": "R",
+      "pulledAt": "2026-09-19T16:53:03.276Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T16:53:03.276Z",
+      "lastPulledAt": "2026-09-19T16:53:03.276Z"
     },
     "728": {
       "id": 728,
