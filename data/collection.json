@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 24,
-  "updatedAt": "2026-09-19T16:53:03.276Z",
+  "totalPulls": 25,
+  "updatedAt": "2026-09-19T19:03:38.840Z",
   "lastPull": {
-    "id": 683,
-    "name": "aromatisse",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
+    "id": 366,
+    "name": "clamperl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
     "types": [
-      "fairy"
+      "water"
     ],
-    "totalStats": 462,
-    "grade": "R",
-    "pulledAt": "2026-09-19T16:53:03.276Z"
+    "totalStats": 345,
+    "grade": "N",
+    "pulledAt": "2026-09-19T19:03:38.840Z"
   },
   "pulls": [
+    {
+      "id": 366,
+      "name": "clamperl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-09-19T19:03:38.840Z"
+    },
     {
       "id": 683,
       "name": "aromatisse",
@@ -114,17 +125,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-09-18T15:10:37.552Z"
-    },
-    {
-      "id": 99,
-      "name": "kingler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-09-18T11:43:51.740Z"
     }
   ],
   "pokemon": {
@@ -251,6 +251,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:28:48.402Z",
       "lastPulledAt": "2026-09-17T05:28:48.402Z"
+    },
+    "366": {
+      "id": 366,
+      "name": "clamperl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-09-19T19:03:38.840Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T19:03:38.840Z",
+      "lastPulledAt": "2026-09-19T19:03:38.840Z"
     },
     "441": {
       "id": 441,
