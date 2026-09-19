@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 20,
-  "updatedAt": "2026-09-19T01:16:22.069Z",
+  "totalPulls": 21,
+  "updatedAt": "2026-09-19T05:57:06.338Z",
   "lastPull": {
-    "id": 682,
-    "name": "spritzee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+    "id": 950,
+    "name": "klawf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
     "types": [
-      "fairy"
+      "rock"
     ],
-    "totalStats": 341,
-    "grade": "N",
-    "pulledAt": "2026-09-19T01:16:22.069Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-09-19T05:57:06.338Z"
   },
   "pulls": [
+    {
+      "id": 950,
+      "name": "klawf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-19T05:57:06.338Z"
+    },
     {
       "id": 682,
       "name": "spritzee",
@@ -113,18 +124,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-09-17T23:47:27.019Z"
-    },
-    {
-      "id": 123,
-      "name": "scyther",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T21:53:50.045Z"
     }
   ],
   "pokemon": {
@@ -435,6 +434,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:19:09.371Z",
       "lastPulledAt": "2026-09-18T23:19:09.371Z"
+    },
+    "950": {
+      "id": 950,
+      "name": "klawf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-19T05:57:06.338Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T05:57:06.338Z",
+      "lastPulledAt": "2026-09-19T05:57:06.338Z"
     }
   },
   "typeTotals": {
