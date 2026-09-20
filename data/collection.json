@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 31,
-  "updatedAt": "2026-09-20T14:49:09.319Z",
+  "totalPulls": 32,
+  "updatedAt": "2026-09-20T17:42:37.663Z",
   "lastPull": {
-    "id": 461,
-    "name": "weavile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "id": 344,
+    "name": "claydol",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
     "types": [
-      "dark",
-      "ice"
+      "ground",
+      "psychic"
     ],
-    "totalStats": 510,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-09-20T14:49:09.319Z"
+    "pulledAt": "2026-09-20T17:42:37.663Z"
   },
   "pulls": [
+    {
+      "id": 344,
+      "name": "claydol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T17:42:37.663Z"
+    },
     {
       "id": 461,
       "name": "weavile",
@@ -118,18 +130,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-09-19T13:53:17.109Z"
-    },
-    {
-      "id": 845,
-      "name": "cramorant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
-      "types": [
-        "flying",
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-09-19T10:06:02.679Z"
     }
   ],
   "pokemon": {
@@ -288,6 +288,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:28:48.402Z",
       "lastPulledAt": "2026-09-17T05:28:48.402Z"
+    },
+    "344": {
+      "id": 344,
+      "name": "claydol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T17:42:37.663Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T17:42:37.663Z",
+      "lastPulledAt": "2026-09-20T17:42:37.663Z"
     },
     "366": {
       "id": 366,
