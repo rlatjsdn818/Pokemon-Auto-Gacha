@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 34,
-  "updatedAt": "2026-09-20T21:52:44.106Z",
+  "totalPulls": 35,
+  "updatedAt": "2026-09-20T23:41:40.147Z",
   "lastPull": {
-    "id": 812,
-    "name": "rillaboom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+    "id": 506,
+    "name": "lillipup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
     "types": [
-      "grass"
+      "normal"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-20T21:52:44.106Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-09-20T23:41:40.147Z"
   },
   "pulls": [
+    {
+      "id": 506,
+      "name": "lillipup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-20T23:41:40.147Z"
+    },
     {
       "id": 812,
       "name": "rillaboom",
@@ -119,17 +130,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-09-19T21:26:06.719Z"
-    },
-    {
-      "id": 366,
-      "name": "clamperl",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 345,
-      "grade": "N",
-      "pulledAt": "2026-09-19T19:03:38.840Z"
     }
   ],
   "pokemon": {
@@ -397,6 +397,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T23:47:27.019Z",
       "lastPulledAt": "2026-09-17T23:47:27.019Z"
+    },
+    "506": {
+      "id": 506,
+      "name": "lillipup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-20T23:41:40.147Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T23:41:40.147Z",
+      "lastPulledAt": "2026-09-20T23:41:40.147Z"
     },
     "566": {
       "id": 566,
