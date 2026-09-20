@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 30,
-  "updatedAt": "2026-09-20T11:34:15.485Z",
+  "totalPulls": 31,
+  "updatedAt": "2026-09-20T14:49:09.319Z",
   "lastPull": {
-    "id": 899,
-    "name": "wyrdeer",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+    "id": 461,
+    "name": "weavile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
     "types": [
-      "normal",
-      "psychic"
+      "dark",
+      "ice"
     ],
-    "totalStats": 525,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-09-20T11:34:15.485Z"
+    "pulledAt": "2026-09-20T14:49:09.319Z"
   },
   "pulls": [
+    {
+      "id": 461,
+      "name": "weavile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T14:49:09.319Z"
+    },
     {
       "id": 899,
       "name": "wyrdeer",
@@ -118,17 +130,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-19T10:06:02.679Z"
-    },
-    {
-      "id": 950,
-      "name": "klawf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-19T05:57:06.338Z"
     }
   ],
   "pokemon": {
@@ -318,6 +319,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:52:06.360Z",
       "lastPulledAt": "2026-09-16T01:52:06.360Z"
+    },
+    "461": {
+      "id": 461,
+      "name": "weavile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T14:49:09.319Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T14:49:09.319Z",
+      "lastPulledAt": "2026-09-20T14:49:09.319Z"
     },
     "465": {
       "id": 465,
