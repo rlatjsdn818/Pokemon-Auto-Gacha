@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 27,
-  "updatedAt": "2026-09-19T23:17:13.602Z",
+  "totalPulls": 28,
+  "updatedAt": "2026-09-20T01:13:44.804Z",
   "lastPull": {
-    "id": 230,
-    "name": "kingdra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+    "id": 882,
+    "name": "dracovish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
     "types": [
       "water",
       "dragon"
     ],
-    "totalStats": 540,
+    "totalStats": 505,
     "grade": "SR",
-    "pulledAt": "2026-09-19T23:17:13.602Z"
+    "pulledAt": "2026-09-20T01:13:44.804Z"
   },
   "pulls": [
+    {
+      "id": 882,
+      "name": "dracovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T01:13:44.804Z"
+    },
     {
       "id": 230,
       "name": "kingdra",
@@ -115,17 +127,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-18T23:19:09.371Z"
-    },
-    {
-      "id": 728,
-      "name": "popplio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-09-18T21:11:29.056Z"
     }
   ],
   "pokemon": {
@@ -498,6 +499,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T10:06:02.679Z",
       "lastPulledAt": "2026-09-19T10:06:02.679Z"
+    },
+    "882": {
+      "id": 882,
+      "name": "dracovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T01:13:44.804Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T01:13:44.804Z",
+      "lastPulledAt": "2026-09-20T01:13:44.804Z"
     },
     "943": {
       "id": 943,
