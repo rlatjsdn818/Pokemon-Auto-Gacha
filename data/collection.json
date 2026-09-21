@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 36,
-  "updatedAt": "2026-09-21T01:42:38.160Z",
+  "totalPulls": 37,
+  "updatedAt": "2026-09-21T07:13:08.704Z",
   "lastPull": {
-    "id": 140,
-    "name": "kabuto",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "id": 44,
+    "name": "gloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
     "types": [
-      "rock",
-      "water"
+      "grass",
+      "poison"
     ],
-    "totalStats": 355,
+    "totalStats": 395,
     "grade": "N",
-    "pulledAt": "2026-09-21T01:42:38.160Z"
+    "pulledAt": "2026-09-21T07:13:08.704Z"
   },
   "pulls": [
+    {
+      "id": 44,
+      "name": "gloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-09-21T07:13:08.704Z"
+    },
     {
       "id": 140,
       "name": "kabuto",
@@ -120,18 +132,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-20T01:13:44.804Z"
-    },
-    {
-      "id": 230,
-      "name": "kingdra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
-      "types": [
-        "water",
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T23:17:13.602Z"
     }
   ],
   "pokemon": {
@@ -165,6 +165,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T18:30:28.133Z",
       "lastPulledAt": "2026-09-18T18:30:28.133Z"
+    },
+    "44": {
+      "id": 44,
+      "name": "gloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-09-21T07:13:08.704Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T07:13:08.704Z",
+      "lastPulledAt": "2026-09-21T07:13:08.704Z"
     },
     "99": {
       "id": 99,
