@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 35,
-  "updatedAt": "2026-09-20T23:41:40.147Z",
+  "totalPulls": 36,
+  "updatedAt": "2026-09-21T01:42:38.160Z",
   "lastPull": {
-    "id": 506,
-    "name": "lillipup",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+    "id": 140,
+    "name": "kabuto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
     "types": [
-      "normal"
+      "rock",
+      "water"
     ],
-    "totalStats": 275,
+    "totalStats": 355,
     "grade": "N",
-    "pulledAt": "2026-09-20T23:41:40.147Z"
+    "pulledAt": "2026-09-21T01:42:38.160Z"
   },
   "pulls": [
+    {
+      "id": 140,
+      "name": "kabuto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-09-21T01:42:38.160Z"
+    },
     {
       "id": 506,
       "name": "lillipup",
@@ -119,17 +132,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-09-19T23:17:13.602Z"
-    },
-    {
-      "id": 820,
-      "name": "greedent",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-19T21:26:06.719Z"
     }
   ],
   "pokemon": {
@@ -225,6 +227,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T21:53:50.045Z",
       "lastPulledAt": "2026-09-17T21:53:50.045Z"
+    },
+    "140": {
+      "id": 140,
+      "name": "kabuto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-09-21T01:42:38.160Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T01:42:38.160Z",
+      "lastPulledAt": "2026-09-21T01:42:38.160Z"
     },
     "149": {
       "id": 149,
