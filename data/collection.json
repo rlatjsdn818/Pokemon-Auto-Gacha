@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 39,
-  "updatedAt": "2026-09-21T19:29:28.203Z",
+  "totalPulls": 40,
+  "updatedAt": "2026-09-21T22:44:06.168Z",
   "lastPull": {
-    "id": 825,
-    "name": "dottler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
+    "id": 866,
+    "name": "mr-rime",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
     "types": [
-      "bug",
+      "ice",
       "psychic"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-09-21T19:29:28.203Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-09-21T22:44:06.168Z"
   },
   "pulls": [
+    {
+      "id": 866,
+      "name": "mr-rime",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T22:44:06.168Z"
+    },
     {
       "id": 825,
       "name": "dottler",
@@ -120,18 +132,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-20T14:49:09.319Z"
-    },
-    {
-      "id": 899,
-      "name": "wyrdeer",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T11:34:15.485Z"
     }
   ],
   "pokemon": {
@@ -662,6 +662,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T10:06:02.679Z",
       "lastPulledAt": "2026-09-19T10:06:02.679Z"
+    },
+    "866": {
+      "id": 866,
+      "name": "mr-rime",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T22:44:06.168Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T22:44:06.168Z",
+      "lastPulledAt": "2026-09-21T22:44:06.168Z"
     },
     "882": {
       "id": 882,
