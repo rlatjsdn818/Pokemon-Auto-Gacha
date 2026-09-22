@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 40,
-  "updatedAt": "2026-09-21T22:44:06.168Z",
+  "totalPulls": 41,
+  "updatedAt": "2026-09-22T01:12:38.714Z",
   "lastPull": {
-    "id": 866,
-    "name": "mr-rime",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+    "id": 1004,
+    "name": "chi-yu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
     "types": [
-      "ice",
-      "psychic"
+      "dark",
+      "fire"
     ],
-    "totalStats": 520,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-09-21T22:44:06.168Z"
+    "pulledAt": "2026-09-22T01:12:38.714Z"
   },
   "pulls": [
+    {
+      "id": 1004,
+      "name": "chi-yu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T01:12:38.714Z"
+    },
     {
       "id": 866,
       "name": "mr-rime",
@@ -120,18 +132,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-20T17:42:37.663Z"
-    },
-    {
-      "id": 461,
-      "name": "weavile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
-      "types": [
-        "dark",
-        "ice"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T14:49:09.319Z"
     }
   ],
   "pokemon": {
@@ -740,6 +740,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:57:06.338Z",
       "lastPulledAt": "2026-09-19T05:57:06.338Z"
+    },
+    "1004": {
+      "id": 1004,
+      "name": "chi-yu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T01:12:38.714Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T01:12:38.714Z",
+      "lastPulledAt": "2026-09-22T01:12:38.714Z"
     }
   },
   "typeTotals": {
