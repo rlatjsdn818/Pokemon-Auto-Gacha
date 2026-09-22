@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 42,
-  "updatedAt": "2026-09-22T06:16:26.852Z",
+  "totalPulls": 43,
+  "updatedAt": "2026-09-22T11:43:48.628Z",
   "lastPull": {
-    "id": 190,
-    "name": "aipom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+    "id": 16,
+    "name": "pidgey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
     "types": [
-      "normal"
+      "normal",
+      "flying"
     ],
-    "totalStats": 360,
+    "totalStats": 251,
     "grade": "N",
-    "pulledAt": "2026-09-22T06:16:26.852Z"
+    "pulledAt": "2026-09-22T11:43:48.628Z"
   },
   "pulls": [
+    {
+      "id": 16,
+      "name": "pidgey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 251,
+      "grade": "N",
+      "pulledAt": "2026-09-22T11:43:48.628Z"
+    },
     {
       "id": 190,
       "name": "aipom",
@@ -118,18 +131,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-20T21:52:44.106Z"
-    },
-    {
-      "id": 164,
-      "name": "noctowl",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 452,
-      "grade": "R",
-      "pulledAt": "2026-09-20T19:46:21.870Z"
     }
   ],
   "pokemon": {
@@ -147,6 +148,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T15:10:37.552Z",
       "lastPulledAt": "2026-09-18T15:10:37.552Z"
+    },
+    "16": {
+      "id": 16,
+      "name": "pidgey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 251,
+      "grade": "N",
+      "pulledAt": "2026-09-22T11:43:48.628Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T11:43:48.628Z",
+      "lastPulledAt": "2026-09-22T11:43:48.628Z"
     },
     "22": {
       "id": 22,
