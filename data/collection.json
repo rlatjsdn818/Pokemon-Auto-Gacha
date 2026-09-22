@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 43,
-  "updatedAt": "2026-09-22T11:43:48.628Z",
+  "totalPulls": 44,
+  "updatedAt": "2026-09-22T15:43:36.840Z",
   "lastPull": {
-    "id": 16,
-    "name": "pidgey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+    "id": 684,
+    "name": "swirlix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
     "types": [
-      "normal",
-      "flying"
+      "fairy"
     ],
-    "totalStats": 251,
+    "totalStats": 341,
     "grade": "N",
-    "pulledAt": "2026-09-22T11:43:48.628Z"
+    "pulledAt": "2026-09-22T15:43:36.840Z"
   },
   "pulls": [
+    {
+      "id": 684,
+      "name": "swirlix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-09-22T15:43:36.840Z"
+    },
     {
       "id": 16,
       "name": "pidgey",
@@ -120,17 +130,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-09-20T23:41:40.147Z"
-    },
-    {
-      "id": 812,
-      "name": "rillaboom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T21:52:44.106Z"
     }
   ],
   "pokemon": {
@@ -599,6 +598,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T16:53:03.276Z",
       "lastPulledAt": "2026-09-19T16:53:03.276Z"
+    },
+    "684": {
+      "id": 684,
+      "name": "swirlix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-09-22T15:43:36.840Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T15:43:36.840Z",
+      "lastPulledAt": "2026-09-22T15:43:36.840Z"
     },
     "728": {
       "id": 728,
