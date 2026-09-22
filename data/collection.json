@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-22T19:13:32.040Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-22T22:10:41.475Z",
   "lastPull": {
-    "id": 961,
-    "name": "wugtrio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+    "id": 139,
+    "name": "omastar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
     "types": [
+      "rock",
       "water"
     ],
-    "totalStats": 425,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-09-22T19:13:32.040Z"
+    "pulledAt": "2026-09-22T22:10:41.475Z"
   },
   "pulls": [
+    {
+      "id": 139,
+      "name": "omastar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-22T22:10:41.475Z"
+    },
     {
       "id": 961,
       "name": "wugtrio",
@@ -118,18 +131,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-09-21T07:13:08.704Z"
-    },
-    {
-      "id": 140,
-      "name": "kabuto",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-09-21T01:42:38.160Z"
     }
   ],
   "pokemon": {
@@ -257,6 +258,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T21:53:50.045Z",
       "lastPulledAt": "2026-09-17T21:53:50.045Z"
+    },
+    "139": {
+      "id": 139,
+      "name": "omastar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-22T22:10:41.475Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T22:10:41.475Z",
+      "lastPulledAt": "2026-09-22T22:10:41.475Z"
     },
     "140": {
       "id": 140,
