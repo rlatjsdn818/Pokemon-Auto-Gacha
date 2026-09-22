@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 44,
-  "updatedAt": "2026-09-22T15:43:36.840Z",
+  "totalPulls": 45,
+  "updatedAt": "2026-09-22T19:13:32.040Z",
   "lastPull": {
-    "id": 684,
-    "name": "swirlix",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
+    "id": 961,
+    "name": "wugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
     "types": [
-      "fairy"
+      "water"
     ],
-    "totalStats": 341,
-    "grade": "N",
-    "pulledAt": "2026-09-22T15:43:36.840Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-09-22T19:13:32.040Z"
   },
   "pulls": [
+    {
+      "id": 961,
+      "name": "wugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-09-22T19:13:32.040Z"
+    },
     {
       "id": 684,
       "name": "swirlix",
@@ -119,17 +130,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-09-21T01:42:38.160Z"
-    },
-    {
-      "id": 506,
-      "name": "lillipup",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-09-20T23:41:40.147Z"
     }
   ],
   "pokemon": {
@@ -784,6 +784,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:57:06.338Z",
       "lastPulledAt": "2026-09-19T05:57:06.338Z"
+    },
+    "961": {
+      "id": 961,
+      "name": "wugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-09-22T19:13:32.040Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T19:13:32.040Z",
+      "lastPulledAt": "2026-09-22T19:13:32.040Z"
     },
     "1004": {
       "id": 1004,
