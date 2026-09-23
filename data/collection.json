@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 49,
-  "updatedAt": "2026-09-23T09:53:46.208Z",
+  "totalPulls": 50,
+  "updatedAt": "2026-09-23T14:31:10.729Z",
   "lastPull": {
-    "id": 312,
-    "name": "minun",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "id": 43,
+    "name": "oddish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
     "types": [
-      "electric"
+      "grass",
+      "poison"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-23T09:53:46.208Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-09-23T14:31:10.729Z"
   },
   "pulls": [
+    {
+      "id": 43,
+      "name": "oddish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-23T14:31:10.729Z"
+    },
     {
       "id": 312,
       "name": "minun",
@@ -116,18 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-22T01:12:38.714Z"
-    },
-    {
-      "id": 866,
-      "name": "mr-rime",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
-      "types": [
-        "ice",
-        "psychic"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-21T22:44:06.168Z"
     }
   ],
   "pokemon": {
@@ -177,6 +178,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T18:30:28.133Z",
       "lastPulledAt": "2026-09-18T18:30:28.133Z"
+    },
+    "43": {
+      "id": 43,
+      "name": "oddish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-23T14:31:10.729Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T14:31:10.729Z",
+      "lastPulledAt": "2026-09-23T14:31:10.729Z"
     },
     "44": {
       "id": 44,
