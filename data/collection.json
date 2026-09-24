@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 58,
-  "updatedAt": "2026-09-24T21:08:16.963Z",
+  "totalPulls": 59,
+  "updatedAt": "2026-09-24T23:51:20.977Z",
   "lastPull": {
-    "id": 804,
-    "name": "naganadel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+    "id": 112,
+    "name": "rhydon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
     "types": [
-      "poison",
-      "dragon"
+      "ground",
+      "rock"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-09-24T21:08:16.963Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-24T23:51:20.977Z"
   },
   "pulls": [
+    {
+      "id": 112,
+      "name": "rhydon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-24T23:51:20.977Z"
+    },
     {
       "id": 804,
       "name": "naganadel",
@@ -119,17 +131,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-09-23T14:31:10.729Z"
-    },
-    {
-      "id": 312,
-      "name": "minun",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-23T09:53:46.208Z"
     }
   ],
   "pokemon": {
@@ -289,6 +290,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T06:18:54.587Z",
       "lastPulledAt": "2026-09-20T06:18:54.587Z"
+    },
+    "112": {
+      "id": 112,
+      "name": "rhydon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-24T23:51:20.977Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T23:51:20.977Z",
+      "lastPulledAt": "2026-09-24T23:51:20.977Z"
     },
     "115": {
       "id": 115,
