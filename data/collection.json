@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 56,
-  "updatedAt": "2026-09-24T13:45:35.941Z",
+  "totalPulls": 57,
+  "updatedAt": "2026-09-24T17:58:07.594Z",
   "lastPull": {
-    "id": 445,
-    "name": "garchomp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "id": 934,
+    "name": "garganacl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
     "types": [
-      "dragon",
-      "ground"
+      "rock"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-24T13:45:35.941Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-24T17:58:07.594Z"
   },
   "pulls": [
+    {
+      "id": 934,
+      "name": "garganacl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T17:58:07.594Z"
+    },
     {
       "id": 445,
       "name": "garchomp",
@@ -119,17 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-23T05:06:01.443Z"
-    },
-    {
-      "id": 86,
-      "name": "seel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 325,
-      "grade": "N",
-      "pulledAt": "2026-09-23T00:35:08.646Z"
     }
   ],
   "pokemon": {
@@ -910,6 +909,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T08:36:35.405Z",
       "lastPulledAt": "2026-09-24T08:36:35.405Z"
+    },
+    "934": {
+      "id": 934,
+      "name": "garganacl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T17:58:07.594Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T17:58:07.594Z",
+      "lastPulledAt": "2026-09-24T17:58:07.594Z"
     },
     "943": {
       "id": 943,
