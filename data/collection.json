@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 55,
-  "updatedAt": "2026-09-24T08:36:35.405Z",
+  "totalPulls": 56,
+  "updatedAt": "2026-09-24T13:45:35.941Z",
   "lastPull": {
-    "id": 926,
-    "name": "fidough",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+    "id": 445,
+    "name": "garchomp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
     "types": [
-      "fairy"
+      "dragon",
+      "ground"
     ],
-    "totalStats": 312,
-    "grade": "N",
-    "pulledAt": "2026-09-24T08:36:35.405Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-24T13:45:35.941Z"
   },
   "pulls": [
+    {
+      "id": 445,
+      "name": "garchomp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-24T13:45:35.941Z"
+    },
     {
       "id": 926,
       "name": "fidough",
@@ -117,18 +130,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-23T00:35:08.646Z"
-    },
-    {
-      "id": 139,
-      "name": "omastar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-22T22:10:41.475Z"
     }
   ],
   "pokemon": {
@@ -538,6 +539,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:52:06.360Z",
       "lastPulledAt": "2026-09-16T01:52:06.360Z"
+    },
+    "445": {
+      "id": 445,
+      "name": "garchomp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-24T13:45:35.941Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T13:45:35.941Z",
+      "lastPulledAt": "2026-09-24T13:45:35.941Z"
     },
     "461": {
       "id": 461,
