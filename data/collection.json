@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 63,
-  "updatedAt": "2026-09-25T18:03:58.074Z",
+  "totalPulls": 64,
+  "updatedAt": "2026-09-25T21:29:10.614Z",
   "lastPull": {
-    "id": 710,
-    "name": "pumpkaboo-average",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
+    "id": 559,
+    "name": "scraggy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
     "types": [
-      "ghost",
-      "grass"
+      "dark",
+      "fighting"
     ],
-    "totalStats": 335,
+    "totalStats": 348,
     "grade": "N",
-    "pulledAt": "2026-09-25T18:03:58.074Z"
+    "pulledAt": "2026-09-25T21:29:10.614Z"
   },
   "pulls": [
+    {
+      "id": 559,
+      "name": "scraggy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-09-25T21:29:10.614Z"
+    },
     {
       "id": 710,
       "name": "pumpkaboo-average",
@@ -119,18 +131,6 @@
       "totalStats": 312,
       "grade": "N",
       "pulledAt": "2026-09-24T08:36:35.405Z"
-    },
-    {
-      "id": 46,
-      "name": "paras",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-09-24T03:24:09.270Z"
     }
   ],
   "pokemon": {
@@ -648,6 +648,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:41:40.147Z",
       "lastPulledAt": "2026-09-20T23:41:40.147Z"
+    },
+    "559": {
+      "id": 559,
+      "name": "scraggy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-09-25T21:29:10.614Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T21:29:10.614Z",
+      "lastPulledAt": "2026-09-25T21:29:10.614Z"
     },
     "566": {
       "id": 566,
