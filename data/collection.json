@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 61,
-  "updatedAt": "2026-09-25T08:01:13.540Z",
+  "totalPulls": 62,
+  "updatedAt": "2026-09-25T13:38:55.115Z",
   "lastPull": {
-    "id": 100,
-    "name": "voltorb",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "id": 801,
+    "name": "magearna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
     "types": [
-      "electric"
+      "steel",
+      "fairy"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-09-25T08:01:13.540Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-25T13:38:55.115Z"
   },
   "pulls": [
+    {
+      "id": 801,
+      "name": "magearna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-25T13:38:55.115Z"
+    },
     {
       "id": 100,
       "name": "voltorb",
@@ -118,18 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-23T23:58:52.155Z"
-    },
-    {
-      "id": 3,
-      "name": "venusaur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T21:43:44.845Z"
     }
   ],
   "pokemon": {
@@ -816,6 +817,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:46:09.331Z",
       "lastPulledAt": "2026-09-17T00:46:09.331Z"
+    },
+    "801": {
+      "id": 801,
+      "name": "magearna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-25T13:38:55.115Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T13:38:55.115Z",
+      "lastPulledAt": "2026-09-25T13:38:55.115Z"
     },
     "804": {
       "id": 804,
