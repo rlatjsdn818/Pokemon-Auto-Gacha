@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 64,
-  "updatedAt": "2026-09-25T21:29:10.614Z",
+  "totalPulls": 65,
+  "updatedAt": "2026-09-26T00:01:02.740Z",
   "lastPull": {
-    "id": 559,
-    "name": "scraggy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "id": 433,
+    "name": "chingling",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
     "types": [
-      "dark",
-      "fighting"
+      "psychic"
     ],
-    "totalStats": 348,
+    "totalStats": 285,
     "grade": "N",
-    "pulledAt": "2026-09-25T21:29:10.614Z"
+    "pulledAt": "2026-09-26T00:01:02.740Z"
   },
   "pulls": [
+    {
+      "id": 433,
+      "name": "chingling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-09-26T00:01:02.740Z"
+    },
     {
       "id": 559,
       "name": "scraggy",
@@ -120,17 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-24T13:45:35.941Z"
-    },
-    {
-      "id": 926,
-      "name": "fidough",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 312,
-      "grade": "N",
-      "pulledAt": "2026-09-24T08:36:35.405Z"
     }
   ],
   "pokemon": {
@@ -555,6 +554,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:03:38.840Z",
       "lastPulledAt": "2026-09-19T19:03:38.840Z"
+    },
+    "433": {
+      "id": 433,
+      "name": "chingling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-09-26T00:01:02.740Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T00:01:02.740Z",
+      "lastPulledAt": "2026-09-26T00:01:02.740Z"
     },
     "441": {
       "id": 441,
