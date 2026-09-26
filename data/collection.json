@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 67,
-  "updatedAt": "2026-09-26T09:33:02.464Z",
+  "totalPulls": 68,
+  "updatedAt": "2026-09-26T13:51:06.978Z",
   "lastPull": {
-    "id": 756,
-    "name": "shiinotic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png",
+    "id": 173,
+    "name": "cleffa",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
     "types": [
-      "grass",
       "fairy"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-26T09:33:02.464Z"
+    "totalStats": 218,
+    "grade": "N",
+    "pulledAt": "2026-09-26T13:51:06.978Z"
   },
   "pulls": [
+    {
+      "id": 173,
+      "name": "cleffa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 218,
+      "grade": "N",
+      "pulledAt": "2026-09-26T13:51:06.978Z"
+    },
     {
       "id": 756,
       "name": "shiinotic",
@@ -119,18 +129,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-24T23:51:20.977Z"
-    },
-    {
-      "id": 804,
-      "name": "naganadel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
-      "types": [
-        "poison",
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-09-24T21:08:16.963Z"
     }
   ],
   "pokemon": {
@@ -431,6 +429,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:46:21.870Z",
       "lastPulledAt": "2026-09-20T19:46:21.870Z"
+    },
+    "173": {
+      "id": 173,
+      "name": "cleffa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 218,
+      "grade": "N",
+      "pulledAt": "2026-09-26T13:51:06.978Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T13:51:06.978Z",
+      "lastPulledAt": "2026-09-26T13:51:06.978Z"
     },
     "176": {
       "id": 176,
