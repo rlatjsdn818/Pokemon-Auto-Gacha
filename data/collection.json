@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 65,
-  "updatedAt": "2026-09-26T00:01:02.740Z",
+  "totalPulls": 66,
+  "updatedAt": "2026-09-26T04:47:26.746Z",
   "lastPull": {
-    "id": 433,
-    "name": "chingling",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
+    "id": 573,
+    "name": "cinccino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
     "types": [
-      "psychic"
+      "normal"
     ],
-    "totalStats": 285,
-    "grade": "N",
-    "pulledAt": "2026-09-26T00:01:02.740Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-09-26T04:47:26.746Z"
   },
   "pulls": [
+    {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-26T04:47:26.746Z"
+    },
     {
       "id": 433,
       "name": "chingling",
@@ -118,18 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-24T17:58:07.594Z"
-    },
-    {
-      "id": 445,
-      "name": "garchomp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
-      "types": [
-        "dragon",
-        "ground"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-24T13:45:35.941Z"
     }
   ],
   "pokemon": {
@@ -694,6 +693,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:03:27.731Z",
       "lastPulledAt": "2026-09-17T15:03:27.731Z"
+    },
+    "573": {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-26T04:47:26.746Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T04:47:26.746Z",
+      "lastPulledAt": "2026-09-26T04:47:26.746Z"
     },
     "582": {
       "id": 582,
