@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 68,
-  "updatedAt": "2026-09-26T13:51:06.978Z",
+  "totalPulls": 69,
+  "updatedAt": "2026-09-26T17:27:56.736Z",
   "lastPull": {
-    "id": 173,
-    "name": "cleffa",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+    "id": 123,
+    "name": "scyther",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
     "types": [
-      "fairy"
+      "bug",
+      "flying"
     ],
-    "totalStats": 218,
-    "grade": "N",
-    "pulledAt": "2026-09-26T13:51:06.978Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-26T17:27:56.736Z"
   },
   "pulls": [
+    {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T17:27:56.736Z"
+    },
     {
       "id": 173,
       "name": "cleffa",
@@ -117,18 +130,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-25T02:25:14.781Z"
-    },
-    {
-      "id": 112,
-      "name": "rhydon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
-      "types": [
-        "ground",
-        "rock"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-24T23:51:20.977Z"
     }
   ],
   "pokemon": {
@@ -346,10 +347,10 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-17T21:53:50.045Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T21:53:50.045Z",
-      "lastPulledAt": "2026-09-17T21:53:50.045Z"
+      "lastPulledAt": "2026-09-26T17:27:56.736Z"
     },
     "139": {
       "id": 139,
