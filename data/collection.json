@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 69,
-  "updatedAt": "2026-09-26T17:27:56.736Z",
+  "totalPulls": 70,
+  "updatedAt": "2026-09-26T20:02:45.090Z",
   "lastPull": {
-    "id": 123,
-    "name": "scyther",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "id": 237,
+    "name": "hitmontop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
     "types": [
-      "bug",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-26T17:27:56.736Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-09-26T20:02:45.090Z"
   },
   "pulls": [
+    {
+      "id": 237,
+      "name": "hitmontop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-26T20:02:45.090Z"
+    },
     {
       "id": 123,
       "name": "scyther",
@@ -118,18 +128,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-09-25T08:01:13.540Z"
-    },
-    {
-      "id": 834,
-      "name": "drednaw",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
-      "types": [
-        "water",
-        "rock"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-25T02:25:14.781Z"
     }
   ],
   "pokemon": {
@@ -492,6 +490,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T23:17:13.602Z",
       "lastPulledAt": "2026-09-19T23:17:13.602Z"
+    },
+    "237": {
+      "id": 237,
+      "name": "hitmontop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-26T20:02:45.090Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T20:02:45.090Z",
+      "lastPulledAt": "2026-09-26T20:02:45.090Z"
     },
     "312": {
       "id": 312,
