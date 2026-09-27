@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 75,
-  "updatedAt": "2026-09-27T15:42:31.900Z",
+  "totalPulls": 76,
+  "updatedAt": "2026-09-27T19:18:02.756Z",
   "lastPull": {
-    "id": 237,
-    "name": "hitmontop",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+    "id": 621,
+    "name": "druddigon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
     "types": [
-      "fighting"
+      "dragon"
     ],
-    "totalStats": 455,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-09-27T15:42:31.900Z"
+    "pulledAt": "2026-09-27T19:18:02.756Z"
   },
   "pulls": [
+    {
+      "id": 621,
+      "name": "druddigon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-27T19:18:02.756Z"
+    },
     {
       "id": 237,
       "name": "hitmontop",
@@ -115,17 +126,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-26T09:33:02.464Z"
-    },
-    {
-      "id": 573,
-      "name": "cinccino",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-09-26T04:47:26.746Z"
     }
   ],
   "pokemon": {
@@ -795,6 +795,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:58:35.084Z",
       "lastPulledAt": "2026-09-16T16:58:35.084Z"
+    },
+    "621": {
+      "id": 621,
+      "name": "druddigon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-27T19:18:02.756Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T19:18:02.756Z",
+      "lastPulledAt": "2026-09-27T19:18:02.756Z"
     },
     "645": {
       "id": 645,
