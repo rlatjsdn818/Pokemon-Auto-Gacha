@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 74,
-  "updatedAt": "2026-09-27T11:23:28.862Z",
+  "totalPulls": 75,
+  "updatedAt": "2026-09-27T15:42:31.900Z",
   "lastPull": {
-    "id": 878,
-    "name": "cufant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
+    "id": 237,
+    "name": "hitmontop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
     "types": [
-      "steel"
+      "fighting"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-09-27T11:23:28.862Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-09-27T15:42:31.900Z"
   },
   "pulls": [
+    {
+      "id": 237,
+      "name": "hitmontop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-27T15:42:31.900Z"
+    },
     {
       "id": 878,
       "name": "cufant",
@@ -115,17 +126,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-09-26T04:47:26.746Z"
-    },
-    {
-      "id": 433,
-      "name": "chingling",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-09-26T00:01:02.740Z"
     }
   ],
   "pokemon": {
@@ -514,10 +514,10 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-26T20:02:45.090Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T20:02:45.090Z",
-      "lastPulledAt": "2026-09-26T20:02:45.090Z"
+      "lastPulledAt": "2026-09-27T15:42:31.900Z"
     },
     "312": {
       "id": 312,
