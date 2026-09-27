@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 76,
-  "updatedAt": "2026-09-27T19:18:02.756Z",
+  "totalPulls": 77,
+  "updatedAt": "2026-09-27T22:17:16.292Z",
   "lastPull": {
-    "id": 621,
-    "name": "druddigon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+    "id": 432,
+    "name": "purugly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
     "types": [
-      "dragon"
+      "normal"
     ],
-    "totalStats": 485,
+    "totalStats": 452,
     "grade": "R",
-    "pulledAt": "2026-09-27T19:18:02.756Z"
+    "pulledAt": "2026-09-27T22:17:16.292Z"
   },
   "pulls": [
+    {
+      "id": 432,
+      "name": "purugly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-09-27T22:17:16.292Z"
+    },
     {
       "id": 621,
       "name": "druddigon",
@@ -114,18 +125,6 @@
       "totalStats": 218,
       "grade": "N",
       "pulledAt": "2026-09-26T13:51:06.978Z"
-    },
-    {
-      "id": 756,
-      "name": "shiinotic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png",
-      "types": [
-        "grass",
-        "fairy"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-26T09:33:02.464Z"
     }
   ],
   "pokemon": {
@@ -595,6 +594,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:03:38.840Z",
       "lastPulledAt": "2026-09-19T19:03:38.840Z"
+    },
+    "432": {
+      "id": 432,
+      "name": "purugly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-09-27T22:17:16.292Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T22:17:16.292Z",
+      "lastPulledAt": "2026-09-27T22:17:16.292Z"
     },
     "433": {
       "id": 433,
