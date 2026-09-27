@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 71,
-  "updatedAt": "2026-09-26T22:41:03.343Z",
+  "totalPulls": 72,
+  "updatedAt": "2026-09-27T00:54:33.801Z",
   "lastPull": {
-    "id": 780,
-    "name": "drampa",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
+    "id": 568,
+    "name": "trubbish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
     "types": [
-      "normal",
-      "dragon"
+      "poison"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-09-26T22:41:03.343Z"
+    "totalStats": 329,
+    "grade": "N",
+    "pulledAt": "2026-09-27T00:54:33.801Z"
   },
   "pulls": [
+    {
+      "id": 568,
+      "name": "trubbish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 329,
+      "grade": "N",
+      "pulledAt": "2026-09-27T00:54:33.801Z"
+    },
     {
       "id": 780,
       "name": "drampa",
@@ -118,18 +128,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-09-25T18:03:58.074Z"
-    },
-    {
-      "id": 801,
-      "name": "magearna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
-      "types": [
-        "steel",
-        "fairy"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-25T13:38:55.115Z"
     }
   ],
   "pokemon": {
@@ -724,6 +722,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:03:27.731Z",
       "lastPulledAt": "2026-09-17T15:03:27.731Z"
+    },
+    "568": {
+      "id": 568,
+      "name": "trubbish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 329,
+      "grade": "N",
+      "pulledAt": "2026-09-27T00:54:33.801Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T00:54:33.801Z",
+      "lastPulledAt": "2026-09-27T00:54:33.801Z"
     },
     "573": {
       "id": 573,
