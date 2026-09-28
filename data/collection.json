@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 77,
-  "updatedAt": "2026-09-27T22:17:16.292Z",
+  "totalPulls": 78,
+  "updatedAt": "2026-09-28T00:50:50.081Z",
   "lastPull": {
-    "id": 432,
-    "name": "purugly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+    "id": 210,
+    "name": "granbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
     "types": [
-      "normal"
+      "fairy"
     ],
-    "totalStats": 452,
+    "totalStats": 450,
     "grade": "R",
-    "pulledAt": "2026-09-27T22:17:16.292Z"
+    "pulledAt": "2026-09-28T00:50:50.081Z"
   },
   "pulls": [
+    {
+      "id": 210,
+      "name": "granbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-28T00:50:50.081Z"
+    },
     {
       "id": 432,
       "name": "purugly",
@@ -114,17 +125,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-26T17:27:56.736Z"
-    },
-    {
-      "id": 173,
-      "name": "cleffa",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 218,
-      "grade": "N",
-      "pulledAt": "2026-09-26T13:51:06.978Z"
     }
   ],
   "pokemon": {
@@ -486,6 +486,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:16:26.852Z",
       "lastPulledAt": "2026-09-22T06:16:26.852Z"
+    },
+    "210": {
+      "id": 210,
+      "name": "granbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-28T00:50:50.081Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T00:50:50.081Z",
+      "lastPulledAt": "2026-09-28T00:50:50.081Z"
     },
     "230": {
       "id": 230,
