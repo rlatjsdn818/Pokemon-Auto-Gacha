@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 78,
-  "updatedAt": "2026-09-28T00:50:50.081Z",
+  "totalPulls": 79,
+  "updatedAt": "2026-09-28T06:05:39.197Z",
   "lastPull": {
-    "id": 210,
-    "name": "granbull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "id": 860,
+    "name": "morgrem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
     "types": [
+      "dark",
       "fairy"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-09-28T00:50:50.081Z"
+    "totalStats": 370,
+    "grade": "N",
+    "pulledAt": "2026-09-28T06:05:39.197Z"
   },
   "pulls": [
+    {
+      "id": 860,
+      "name": "morgrem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
+      "types": [
+        "dark",
+        "fairy"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-09-28T06:05:39.197Z"
+    },
     {
       "id": 210,
       "name": "granbull",
@@ -113,18 +126,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-26T20:02:45.090Z"
-    },
-    {
-      "id": 123,
-      "name": "scyther",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-26T17:27:56.736Z"
     }
   ],
   "pokemon": {
@@ -1120,6 +1121,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T10:06:02.679Z",
       "lastPulledAt": "2026-09-19T10:06:02.679Z"
+    },
+    "860": {
+      "id": 860,
+      "name": "morgrem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
+      "types": [
+        "dark",
+        "fairy"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-09-28T06:05:39.197Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T06:05:39.197Z",
+      "lastPulledAt": "2026-09-28T06:05:39.197Z"
     },
     "866": {
       "id": 866,
