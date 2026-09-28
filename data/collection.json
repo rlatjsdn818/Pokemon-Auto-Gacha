@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 80,
-  "updatedAt": "2026-09-28T13:43:53.366Z",
+  "totalPulls": 81,
+  "updatedAt": "2026-09-28T20:14:19.860Z",
   "lastPull": {
-    "id": 943,
-    "name": "mabosstiff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+    "id": 696,
+    "name": "tyrunt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
     "types": [
-      "dark"
+      "rock",
+      "dragon"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-09-28T13:43:53.366Z"
+    "totalStats": 362,
+    "grade": "N",
+    "pulledAt": "2026-09-28T20:14:19.860Z"
   },
   "pulls": [
+    {
+      "id": 696,
+      "name": "tyrunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 362,
+      "grade": "N",
+      "pulledAt": "2026-09-28T20:14:19.860Z"
+    },
     {
       "id": 943,
       "name": "mabosstiff",
@@ -113,18 +126,6 @@
       "totalStats": 329,
       "grade": "N",
       "pulledAt": "2026-09-27T00:54:33.801Z"
-    },
-    {
-      "id": 780,
-      "name": "drampa",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
-      "types": [
-        "normal",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-26T22:41:03.343Z"
     }
   ],
   "pokemon": {
@@ -915,6 +916,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T15:43:36.840Z",
       "lastPulledAt": "2026-09-22T15:43:36.840Z"
+    },
+    "696": {
+      "id": 696,
+      "name": "tyrunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 362,
+      "grade": "N",
+      "pulledAt": "2026-09-28T20:14:19.860Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T20:14:19.860Z",
+      "lastPulledAt": "2026-09-28T20:14:19.860Z"
     },
     "710": {
       "id": 710,
