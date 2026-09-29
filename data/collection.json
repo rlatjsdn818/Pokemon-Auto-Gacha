@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 82,
-  "updatedAt": "2026-09-29T00:22:44.746Z",
+  "totalPulls": 83,
+  "updatedAt": "2026-09-29T05:55:15.051Z",
   "lastPull": {
-    "id": 856,
-    "name": "hatenna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+    "id": 355,
+    "name": "duskull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
     "types": [
-      "psychic"
+      "ghost"
     ],
-    "totalStats": 265,
+    "totalStats": 295,
     "grade": "N",
-    "pulledAt": "2026-09-29T00:22:44.746Z"
+    "pulledAt": "2026-09-29T05:55:15.051Z"
   },
   "pulls": [
+    {
+      "id": 355,
+      "name": "duskull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-09-29T05:55:15.051Z"
+    },
     {
       "id": 856,
       "name": "hatenna",
@@ -114,17 +125,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-09-27T11:23:28.862Z"
-    },
-    {
-      "id": 26,
-      "name": "raichu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-27T05:58:03.897Z"
     }
   ],
   "pokemon": {
@@ -594,6 +594,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:42:37.663Z",
       "lastPulledAt": "2026-09-20T17:42:37.663Z"
+    },
+    "355": {
+      "id": 355,
+      "name": "duskull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-09-29T05:55:15.051Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T05:55:15.051Z",
+      "lastPulledAt": "2026-09-29T05:55:15.051Z"
     },
     "366": {
       "id": 366,
