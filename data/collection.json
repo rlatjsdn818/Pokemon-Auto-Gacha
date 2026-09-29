@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 81,
-  "updatedAt": "2026-09-28T20:14:19.860Z",
+  "totalPulls": 82,
+  "updatedAt": "2026-09-29T00:22:44.746Z",
   "lastPull": {
-    "id": 696,
-    "name": "tyrunt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+    "id": 856,
+    "name": "hatenna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
     "types": [
-      "rock",
-      "dragon"
+      "psychic"
     ],
-    "totalStats": 362,
+    "totalStats": 265,
     "grade": "N",
-    "pulledAt": "2026-09-28T20:14:19.860Z"
+    "pulledAt": "2026-09-29T00:22:44.746Z"
   },
   "pulls": [
+    {
+      "id": 856,
+      "name": "hatenna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-09-29T00:22:44.746Z"
+    },
     {
       "id": 696,
       "name": "tyrunt",
@@ -115,17 +125,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-27T05:58:03.897Z"
-    },
-    {
-      "id": 568,
-      "name": "trubbish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 329,
-      "grade": "N",
-      "pulledAt": "2026-09-27T00:54:33.801Z"
     }
   ],
   "pokemon": {
@@ -1137,6 +1136,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T10:06:02.679Z",
       "lastPulledAt": "2026-09-19T10:06:02.679Z"
+    },
+    "856": {
+      "id": 856,
+      "name": "hatenna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-09-29T00:22:44.746Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T00:22:44.746Z",
+      "lastPulledAt": "2026-09-29T00:22:44.746Z"
     },
     "860": {
       "id": 860,
