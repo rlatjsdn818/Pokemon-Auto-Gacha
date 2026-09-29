@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 83,
-  "updatedAt": "2026-09-29T05:55:15.051Z",
+  "totalPulls": 84,
+  "updatedAt": "2026-09-29T11:46:50.641Z",
   "lastPull": {
-    "id": 355,
-    "name": "duskull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "id": 761,
+    "name": "bounsweet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
     "types": [
-      "ghost"
+      "grass"
     ],
-    "totalStats": 295,
+    "totalStats": 210,
     "grade": "N",
-    "pulledAt": "2026-09-29T05:55:15.051Z"
+    "pulledAt": "2026-09-29T11:46:50.641Z"
   },
   "pulls": [
+    {
+      "id": 761,
+      "name": "bounsweet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-09-29T11:46:50.641Z"
+    },
     {
       "id": 355,
       "name": "duskull",
@@ -114,17 +125,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-27T15:42:31.900Z"
-    },
-    {
-      "id": 878,
-      "name": "cufant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-09-27T11:23:28.862Z"
     }
   ],
   "pokemon": {
@@ -1025,6 +1025,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T09:33:02.464Z",
       "lastPulledAt": "2026-09-26T09:33:02.464Z"
+    },
+    "761": {
+      "id": 761,
+      "name": "bounsweet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-09-29T11:46:50.641Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T11:46:50.641Z",
+      "lastPulledAt": "2026-09-29T11:46:50.641Z"
     },
     "780": {
       "id": 780,
