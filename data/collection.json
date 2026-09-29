@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 85,
-  "updatedAt": "2026-09-29T17:02:49.169Z",
+  "totalPulls": 86,
+  "updatedAt": "2026-09-29T21:21:33.071Z",
   "lastPull": {
-    "id": 739,
-    "name": "crabrawler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "id": 34,
+    "name": "nidoking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
     "types": [
-      "fighting"
+      "poison",
+      "ground"
     ],
-    "totalStats": 338,
-    "grade": "N",
-    "pulledAt": "2026-09-29T17:02:49.169Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-09-29T21:21:33.071Z"
   },
   "pulls": [
+    {
+      "id": 34,
+      "name": "nidoking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T21:21:33.071Z"
+    },
     {
       "id": 739,
       "name": "crabrawler",
@@ -114,17 +127,6 @@
       "totalStats": 452,
       "grade": "R",
       "pulledAt": "2026-09-27T22:17:16.292Z"
-    },
-    {
-      "id": 621,
-      "name": "druddigon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-27T19:18:02.756Z"
     }
   ],
   "pokemon": {
@@ -205,6 +207,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T05:58:03.897Z",
       "lastPulledAt": "2026-09-27T05:58:03.897Z"
+    },
+    "34": {
+      "id": 34,
+      "name": "nidoking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T21:21:33.071Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T21:21:33.071Z",
+      "lastPulledAt": "2026-09-29T21:21:33.071Z"
     },
     "43": {
       "id": 43,
