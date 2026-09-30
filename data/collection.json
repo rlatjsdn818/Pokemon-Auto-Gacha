@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 87,
-  "updatedAt": "2026-09-30T00:36:30.353Z",
+  "totalPulls": 88,
+  "updatedAt": "2026-09-30T05:55:08.782Z",
   "lastPull": {
-    "id": 17,
-    "name": "pidgeotto",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "id": 205,
+    "name": "forretress",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
     "types": [
-      "normal",
-      "flying"
+      "bug",
+      "steel"
     ],
-    "totalStats": 349,
-    "grade": "N",
-    "pulledAt": "2026-09-30T00:36:30.353Z"
+    "totalStats": 465,
+    "grade": "R",
+    "pulledAt": "2026-09-30T05:55:08.782Z"
   },
   "pulls": [
+    {
+      "id": 205,
+      "name": "forretress",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-09-30T05:55:08.782Z"
+    },
     {
       "id": 17,
       "name": "pidgeotto",
@@ -117,17 +129,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-09-28T06:05:39.197Z"
-    },
-    {
-      "id": 210,
-      "name": "granbull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-28T00:50:50.081Z"
     }
   ],
   "pokemon": {
@@ -521,6 +522,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:16:26.852Z",
       "lastPulledAt": "2026-09-22T06:16:26.852Z"
+    },
+    "205": {
+      "id": 205,
+      "name": "forretress",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-09-30T05:55:08.782Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T05:55:08.782Z",
+      "lastPulledAt": "2026-09-30T05:55:08.782Z"
     },
     "210": {
       "id": 210,
