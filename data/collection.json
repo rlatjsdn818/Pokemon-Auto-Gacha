@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 88,
-  "updatedAt": "2026-09-30T05:55:08.782Z",
+  "totalPulls": 89,
+  "updatedAt": "2026-09-30T11:32:58.020Z",
   "lastPull": {
-    "id": 205,
-    "name": "forretress",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "id": 680,
+    "name": "doublade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
     "types": [
-      "bug",
-      "steel"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 465,
+    "totalStats": 448,
     "grade": "R",
-    "pulledAt": "2026-09-30T05:55:08.782Z"
+    "pulledAt": "2026-09-30T11:32:58.020Z"
   },
   "pulls": [
+    {
+      "id": 680,
+      "name": "doublade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-09-30T11:32:58.020Z"
+    },
     {
       "id": 205,
       "name": "forretress",
@@ -117,18 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-28T13:43:53.366Z"
-    },
-    {
-      "id": 860,
-      "name": "morgrem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
-      "types": [
-        "dark",
-        "fairy"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-09-28T06:05:39.197Z"
     }
   ],
   "pokemon": {
@@ -937,6 +937,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T06:35:03.956Z",
       "lastPulledAt": "2026-09-18T06:35:03.956Z"
+    },
+    "680": {
+      "id": 680,
+      "name": "doublade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-09-30T11:32:58.020Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T11:32:58.020Z",
+      "lastPulledAt": "2026-09-30T11:32:58.020Z"
     },
     "682": {
       "id": 682,
