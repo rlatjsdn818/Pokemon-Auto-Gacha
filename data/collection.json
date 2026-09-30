@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 89,
-  "updatedAt": "2026-09-30T11:32:58.020Z",
+  "totalPulls": 90,
+  "updatedAt": "2026-09-30T16:58:50.055Z",
   "lastPull": {
-    "id": 680,
-    "name": "doublade",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+    "id": 294,
+    "name": "loudred",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
     "types": [
-      "steel",
-      "ghost"
+      "normal"
     ],
-    "totalStats": 448,
-    "grade": "R",
-    "pulledAt": "2026-09-30T11:32:58.020Z"
+    "totalStats": 360,
+    "grade": "N",
+    "pulledAt": "2026-09-30T16:58:50.055Z"
   },
   "pulls": [
+    {
+      "id": 294,
+      "name": "loudred",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-09-30T16:58:50.055Z"
+    },
     {
       "id": 680,
       "name": "doublade",
@@ -118,17 +128,6 @@
       "totalStats": 362,
       "grade": "N",
       "pulledAt": "2026-09-28T20:14:19.860Z"
-    },
-    {
-      "id": 943,
-      "name": "mabosstiff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T13:43:53.366Z"
     }
   ],
   "pokemon": {
@@ -584,6 +583,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T20:02:45.090Z",
       "lastPulledAt": "2026-09-27T15:42:31.900Z"
+    },
+    "294": {
+      "id": 294,
+      "name": "loudred",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-09-30T16:58:50.055Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T16:58:50.055Z",
+      "lastPulledAt": "2026-09-30T16:58:50.055Z"
     },
     "312": {
       "id": 312,
