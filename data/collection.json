@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 90,
-  "updatedAt": "2026-09-30T16:58:50.055Z",
+  "totalPulls": 91,
+  "updatedAt": "2026-09-30T21:13:03.643Z",
   "lastPull": {
-    "id": 294,
-    "name": "loudred",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+    "id": 350,
+    "name": "milotic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-09-30T16:58:50.055Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-09-30T21:13:03.643Z"
   },
   "pulls": [
+    {
+      "id": 350,
+      "name": "milotic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T21:13:03.643Z"
+    },
     {
       "id": 294,
       "name": "loudred",
@@ -116,18 +127,6 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-09-29T00:22:44.746Z"
-    },
-    {
-      "id": 696,
-      "name": "tyrunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
-      "types": [
-        "rock",
-        "dragon"
-      ],
-      "totalStats": 362,
-      "grade": "N",
-      "pulledAt": "2026-09-28T20:14:19.860Z"
     }
   ],
   "pokemon": {
@@ -660,6 +659,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:42:37.663Z",
       "lastPulledAt": "2026-09-20T17:42:37.663Z"
+    },
+    "350": {
+      "id": 350,
+      "name": "milotic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T21:13:03.643Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T21:13:03.643Z",
+      "lastPulledAt": "2026-09-30T21:13:03.643Z"
     },
     "355": {
       "id": 355,
