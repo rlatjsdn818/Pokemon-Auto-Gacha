@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 91,
-  "updatedAt": "2026-09-30T21:13:03.643Z",
+  "totalPulls": 92,
+  "updatedAt": "2026-10-01T00:34:18.115Z",
   "lastPull": {
-    "id": 350,
-    "name": "milotic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+    "id": 867,
+    "name": "runerigus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
     "types": [
-      "water"
+      "ground",
+      "ghost"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-09-30T21:13:03.643Z"
+    "totalStats": 483,
+    "grade": "R",
+    "pulledAt": "2026-10-01T00:34:18.115Z"
   },
   "pulls": [
+    {
+      "id": 867,
+      "name": "runerigus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-10-01T00:34:18.115Z"
+    },
     {
       "id": 350,
       "name": "milotic",
@@ -116,17 +129,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-09-29T05:55:15.051Z"
-    },
-    {
-      "id": 856,
-      "name": "hatenna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-09-29T00:22:44.746Z"
     }
   ],
   "pokemon": {
@@ -1324,6 +1326,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T22:44:06.168Z",
       "lastPulledAt": "2026-09-21T22:44:06.168Z"
+    },
+    "867": {
+      "id": 867,
+      "name": "runerigus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-10-01T00:34:18.115Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T00:34:18.115Z",
+      "lastPulledAt": "2026-10-01T00:34:18.115Z"
     },
     "878": {
       "id": 878,
