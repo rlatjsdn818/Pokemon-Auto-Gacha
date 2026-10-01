@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 92,
-  "updatedAt": "2026-10-01T00:34:18.115Z",
+  "totalPulls": 93,
+  "updatedAt": "2026-10-01T06:28:13.897Z",
   "lastPull": {
-    "id": 867,
-    "name": "runerigus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
+    "id": 836,
+    "name": "boltund",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
     "types": [
-      "ground",
-      "ghost"
+      "electric"
     ],
-    "totalStats": 483,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-10-01T00:34:18.115Z"
+    "pulledAt": "2026-10-01T06:28:13.897Z"
   },
   "pulls": [
+    {
+      "id": 836,
+      "name": "boltund",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-01T06:28:13.897Z"
+    },
     {
       "id": 867,
       "name": "runerigus",
@@ -118,17 +128,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-09-29T11:46:50.641Z"
-    },
-    {
-      "id": 355,
-      "name": "duskull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-09-29T05:55:15.051Z"
     }
   ],
   "pokemon": {
@@ -1263,6 +1262,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T02:25:14.781Z",
       "lastPulledAt": "2026-09-25T02:25:14.781Z"
+    },
+    "836": {
+      "id": 836,
+      "name": "boltund",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-01T06:28:13.897Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T06:28:13.897Z",
+      "lastPulledAt": "2026-10-01T06:28:13.897Z"
     },
     "845": {
       "id": 845,
