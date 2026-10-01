@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 95,
-  "updatedAt": "2026-10-01T19:03:15.883Z",
+  "totalPulls": 96,
+  "updatedAt": "2026-10-01T23:05:47.759Z",
   "lastPull": {
-    "id": 453,
-    "name": "croagunk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+    "id": 231,
+    "name": "phanpy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
     "types": [
-      "poison",
-      "fighting"
+      "ground"
     ],
-    "totalStats": 300,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-10-01T19:03:15.883Z"
+    "pulledAt": "2026-10-01T23:05:47.759Z"
   },
   "pulls": [
+    {
+      "id": 231,
+      "name": "phanpy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-01T23:05:47.759Z"
+    },
     {
       "id": 453,
       "name": "croagunk",
@@ -119,18 +129,6 @@
       "totalStats": 349,
       "grade": "N",
       "pulledAt": "2026-09-30T00:36:30.353Z"
-    },
-    {
-      "id": 34,
-      "name": "nidoking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
-      "types": [
-        "poison",
-        "ground"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-29T21:21:33.071Z"
     }
   ],
   "pokemon": {
@@ -571,6 +569,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T23:17:13.602Z",
       "lastPulledAt": "2026-09-19T23:17:13.602Z"
+    },
+    "231": {
+      "id": 231,
+      "name": "phanpy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-01T23:05:47.759Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T23:05:47.759Z",
+      "lastPulledAt": "2026-10-01T23:05:47.759Z"
     },
     "237": {
       "id": 237,
