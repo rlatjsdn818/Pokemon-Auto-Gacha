@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 105,
-  "updatedAt": "2026-10-03T16:44:40.787Z",
+  "totalPulls": 106,
+  "updatedAt": "2026-10-03T19:28:24.517Z",
   "lastPull": {
-    "id": 247,
-    "name": "pupitar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "id": 391,
+    "name": "monferno",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
     "types": [
-      "rock",
-      "ground"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 410,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-03T16:44:40.787Z"
+    "pulledAt": "2026-10-03T19:28:24.517Z"
   },
   "pulls": [
+    {
+      "id": 391,
+      "name": "monferno",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-03T19:28:24.517Z"
+    },
     {
       "id": 247,
       "name": "pupitar",
@@ -117,17 +129,6 @@
       "totalStats": 487,
       "grade": "R",
       "pulledAt": "2026-10-02T02:08:58.961Z"
-    },
-    {
-      "id": 231,
-      "name": "phanpy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-01T23:05:47.759Z"
     }
   ],
   "pokemon": {
@@ -751,6 +752,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T08:25:32.414Z",
       "lastPulledAt": "2026-10-02T08:25:32.414Z"
+    },
+    "391": {
+      "id": 391,
+      "name": "monferno",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-03T19:28:24.517Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T19:28:24.517Z",
+      "lastPulledAt": "2026-10-03T19:28:24.517Z"
     },
     "397": {
       "id": 397,
