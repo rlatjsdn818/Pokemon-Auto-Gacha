@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 106,
-  "updatedAt": "2026-10-03T19:28:24.517Z",
+  "totalPulls": 107,
+  "updatedAt": "2026-10-03T22:17:58.858Z",
   "lastPull": {
-    "id": 391,
-    "name": "monferno",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+    "id": 430,
+    "name": "honchkrow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
     "types": [
-      "fire",
-      "fighting"
+      "dark",
+      "flying"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-03T19:28:24.517Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-03T22:17:58.858Z"
   },
   "pulls": [
+    {
+      "id": 430,
+      "name": "honchkrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T22:17:58.858Z"
+    },
     {
       "id": 391,
       "name": "monferno",
@@ -118,17 +130,6 @@
       "totalStats": 309,
       "grade": "N",
       "pulledAt": "2026-10-02T08:25:32.414Z"
-    },
-    {
-      "id": 745,
-      "name": "lycanroc-midday",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 487,
-      "grade": "R",
-      "pulledAt": "2026-10-02T02:08:58.961Z"
     }
   ],
   "pokemon": {
@@ -799,6 +800,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T23:14:10.511Z",
       "lastPulledAt": "2026-10-02T23:14:10.511Z"
+    },
+    "430": {
+      "id": 430,
+      "name": "honchkrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T22:17:58.858Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T22:17:58.858Z",
+      "lastPulledAt": "2026-10-03T22:17:58.858Z"
     },
     "432": {
       "id": 432,
