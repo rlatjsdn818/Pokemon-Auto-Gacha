@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 102,
-  "updatedAt": "2026-10-03T01:59:31.738Z",
+  "totalPulls": 103,
+  "updatedAt": "2026-10-03T07:43:57.298Z",
   "lastPull": {
-    "id": 738,
-    "name": "vikavolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
+    "id": 497,
+    "name": "serperior",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
     "types": [
-      "bug",
-      "electric"
+      "grass"
     ],
-    "totalStats": 500,
+    "totalStats": 528,
     "grade": "SR",
-    "pulledAt": "2026-10-03T01:59:31.738Z"
+    "pulledAt": "2026-10-03T07:43:57.298Z"
   },
   "pulls": [
+    {
+      "id": 497,
+      "name": "serperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T07:43:57.298Z"
+    },
     {
       "id": 738,
       "name": "vikavolt",
@@ -117,17 +127,6 @@
       "totalStats": 507,
       "grade": "SR",
       "pulledAt": "2026-10-01T13:43:46.339Z"
-    },
-    {
-      "id": 836,
-      "name": "boltund",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-01T06:28:13.897Z"
     }
   ],
   "pokemon": {
@@ -874,6 +873,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T23:47:27.019Z",
       "lastPulledAt": "2026-09-17T23:47:27.019Z"
+    },
+    "497": {
+      "id": 497,
+      "name": "serperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T07:43:57.298Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T07:43:57.298Z",
+      "lastPulledAt": "2026-10-03T07:43:57.298Z"
     },
     "506": {
       "id": 506,
