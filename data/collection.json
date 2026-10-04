@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 108,
-  "updatedAt": "2026-10-04T00:43:11.295Z",
+  "totalPulls": 109,
+  "updatedAt": "2026-10-04T06:23:05.133Z",
   "lastPull": {
-    "id": 636,
-    "name": "larvesta",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "id": 272,
+    "name": "ludicolo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
     "types": [
-      "bug",
-      "fire"
+      "water",
+      "grass"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-10-04T00:43:11.295Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-04T06:23:05.133Z"
   },
   "pulls": [
+    {
+      "id": 272,
+      "name": "ludicolo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-04T06:23:05.133Z"
+    },
     {
       "id": 636,
       "name": "larvesta",
@@ -119,18 +131,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-02T19:39:08.660Z"
-    },
-    {
-      "id": 567,
-      "name": "archeops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
-      "types": [
-        "rock",
-        "flying"
-      ],
-      "totalStats": 567,
-      "grade": "SR",
-      "pulledAt": "2026-10-02T14:50:19.011Z"
     }
   ],
   "pokemon": {
@@ -617,6 +617,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T16:44:40.787Z",
       "lastPulledAt": "2026-10-03T16:44:40.787Z"
+    },
+    "272": {
+      "id": 272,
+      "name": "ludicolo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-04T06:23:05.133Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T06:23:05.133Z",
+      "lastPulledAt": "2026-10-04T06:23:05.133Z"
     },
     "294": {
       "id": 294,
