@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 109,
-  "updatedAt": "2026-10-04T06:23:05.133Z",
+  "totalPulls": 110,
+  "updatedAt": "2026-10-04T12:36:54.347Z",
   "lastPull": {
-    "id": 272,
-    "name": "ludicolo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "id": 795,
+    "name": "pheromosa",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
     "types": [
-      "water",
-      "grass"
+      "bug",
+      "fighting"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-04T06:23:05.133Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-04T12:36:54.347Z"
   },
   "pulls": [
+    {
+      "id": 795,
+      "name": "pheromosa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T12:36:54.347Z"
+    },
     {
       "id": 272,
       "name": "ludicolo",
@@ -120,17 +132,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-10-02T23:14:10.511Z"
-    },
-    {
-      "id": 651,
-      "name": "quilladin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-02T19:39:08.660Z"
     }
   ],
   "pokemon": {
@@ -1405,6 +1406,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T22:41:03.343Z",
       "lastPulledAt": "2026-09-26T22:41:03.343Z"
+    },
+    "795": {
+      "id": 795,
+      "name": "pheromosa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T12:36:54.347Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T12:36:54.347Z",
+      "lastPulledAt": "2026-10-04T12:36:54.347Z"
     },
     "801": {
       "id": 801,
