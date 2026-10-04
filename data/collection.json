@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 110,
-  "updatedAt": "2026-10-04T12:36:54.347Z",
+  "totalPulls": 111,
+  "updatedAt": "2026-10-04T16:59:30.784Z",
   "lastPull": {
-    "id": 795,
-    "name": "pheromosa",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+    "id": 340,
+    "name": "whiscash",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
     "types": [
-      "bug",
-      "fighting"
+      "water",
+      "ground"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-04T12:36:54.347Z"
+    "totalStats": 468,
+    "grade": "R",
+    "pulledAt": "2026-10-04T16:59:30.784Z"
   },
   "pulls": [
+    {
+      "id": 340,
+      "name": "whiscash",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 468,
+      "grade": "R",
+      "pulledAt": "2026-10-04T16:59:30.784Z"
+    },
     {
       "id": 795,
       "name": "pheromosa",
@@ -121,17 +133,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-03T01:59:31.738Z"
-    },
-    {
-      "id": 399,
-      "name": "bidoof",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-10-02T23:14:10.511Z"
     }
   ],
   "pokemon": {
@@ -695,6 +696,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:28:48.402Z",
       "lastPulledAt": "2026-09-17T05:28:48.402Z"
+    },
+    "340": {
+      "id": 340,
+      "name": "whiscash",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 468,
+      "grade": "R",
+      "pulledAt": "2026-10-04T16:59:30.784Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T16:59:30.784Z",
+      "lastPulledAt": "2026-10-04T16:59:30.784Z"
     },
     "344": {
       "id": 344,
