@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 115,
-  "updatedAt": "2026-10-05T07:04:33.667Z",
+  "totalPulls": 116,
+  "updatedAt": "2026-10-05T15:54:00.905Z",
   "lastPull": {
-    "id": 100,
-    "name": "voltorb",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "id": 146,
+    "name": "moltres",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
     "types": [
-      "electric"
+      "fire",
+      "flying"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-05T07:04:33.667Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-05T15:54:00.905Z"
   },
   "pulls": [
+    {
+      "id": 146,
+      "name": "moltres",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-05T15:54:00.905Z"
+    },
     {
       "id": 100,
       "name": "voltorb",
@@ -119,18 +132,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-03T22:17:58.858Z"
-    },
-    {
-      "id": 391,
-      "name": "monferno",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-03T19:28:24.517Z"
     }
   ],
   "pokemon": {
@@ -446,6 +447,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T18:35:13.835Z",
       "lastPulledAt": "2026-09-23T18:35:13.835Z"
+    },
+    "146": {
+      "id": 146,
+      "name": "moltres",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-05T15:54:00.905Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T15:54:00.905Z",
+      "lastPulledAt": "2026-10-05T15:54:00.905Z"
     },
     "149": {
       "id": 149,
