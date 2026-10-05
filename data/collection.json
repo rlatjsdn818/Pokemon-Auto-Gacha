@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 116,
-  "updatedAt": "2026-10-05T15:54:00.905Z",
+  "totalPulls": 117,
+  "updatedAt": "2026-10-05T22:14:51.934Z",
   "lastPull": {
-    "id": 146,
-    "name": "moltres",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "id": 546,
+    "name": "cottonee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
     "types": [
-      "fire",
-      "flying"
+      "grass",
+      "fairy"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-05T15:54:00.905Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-10-05T22:14:51.934Z"
   },
   "pulls": [
+    {
+      "id": 546,
+      "name": "cottonee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-05T22:14:51.934Z"
+    },
     {
       "id": 146,
       "name": "moltres",
@@ -120,18 +132,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-10-04T00:43:11.295Z"
-    },
-    {
-      "id": 430,
-      "name": "honchkrow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T22:17:58.858Z"
     }
   ],
   "pokemon": {
@@ -1020,6 +1020,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:41:40.147Z",
       "lastPulledAt": "2026-09-20T23:41:40.147Z"
+    },
+    "546": {
+      "id": 546,
+      "name": "cottonee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-05T22:14:51.934Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T22:14:51.934Z",
+      "lastPulledAt": "2026-10-05T22:14:51.934Z"
     },
     "559": {
       "id": 559,
