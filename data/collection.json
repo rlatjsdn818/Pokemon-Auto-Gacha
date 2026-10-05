@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-10-05T01:13:45.747Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-10-05T07:04:33.667Z",
   "lastPull": {
-    "id": 862,
-    "name": "obstagoon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
+    "id": 100,
+    "name": "voltorb",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
     "types": [
-      "dark",
-      "normal"
+      "electric"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-10-05T01:13:45.747Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-05T07:04:33.667Z"
   },
   "pulls": [
+    {
+      "id": 100,
+      "name": "voltorb",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-05T07:04:33.667Z"
+    },
     {
       "id": 862,
       "name": "obstagoon",
@@ -121,18 +131,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-03T19:28:24.517Z"
-    },
-    {
-      "id": 247,
-      "name": "pupitar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-03T16:44:40.787Z"
     }
   ],
   "pokemon": {
@@ -334,10 +332,10 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-09-25T08:01:13.540Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T08:01:13.540Z",
-      "lastPulledAt": "2026-09-25T08:01:13.540Z"
+      "lastPulledAt": "2026-10-05T07:04:33.667Z"
     },
     "102": {
       "id": 102,
