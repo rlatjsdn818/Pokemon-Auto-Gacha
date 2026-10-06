@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 117,
-  "updatedAt": "2026-10-05T22:14:51.934Z",
+  "totalPulls": 118,
+  "updatedAt": "2026-10-06T02:19:00.210Z",
   "lastPull": {
-    "id": 546,
-    "name": "cottonee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
+    "id": 907,
+    "name": "floragato",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
     "types": [
-      "grass",
-      "fairy"
+      "grass"
     ],
-    "totalStats": 280,
-    "grade": "N",
-    "pulledAt": "2026-10-05T22:14:51.934Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-06T02:19:00.210Z"
   },
   "pulls": [
+    {
+      "id": 907,
+      "name": "floragato",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-06T02:19:00.210Z"
+    },
     {
       "id": 546,
       "name": "cottonee",
@@ -120,18 +130,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-04T06:23:05.133Z"
-    },
-    {
-      "id": 636,
-      "name": "larvesta",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
-      "types": [
-        "bug",
-        "fire"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-04T00:43:11.295Z"
     }
   ],
   "pokemon": {
@@ -1752,6 +1750,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T11:34:15.485Z",
       "lastPulledAt": "2026-09-20T11:34:15.485Z"
+    },
+    "907": {
+      "id": 907,
+      "name": "floragato",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-06T02:19:00.210Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T02:19:00.210Z",
+      "lastPulledAt": "2026-10-06T02:19:00.210Z"
     },
     "926": {
       "id": 926,
