@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 123,
-  "updatedAt": "2026-10-07T05:46:40.467Z",
+  "totalPulls": 124,
+  "updatedAt": "2026-10-07T12:02:36.441Z",
   "lastPull": {
-    "id": 63,
-    "name": "abra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "id": 449,
+    "name": "hippopotas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
     "types": [
-      "psychic"
+      "ground"
     ],
-    "totalStats": 310,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-10-07T05:46:40.467Z"
+    "pulledAt": "2026-10-07T12:02:36.441Z"
   },
   "pulls": [
+    {
+      "id": 449,
+      "name": "hippopotas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-07T12:02:36.441Z"
+    },
     {
       "id": 63,
       "name": "abra",
@@ -115,18 +126,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-05T07:04:33.667Z"
-    },
-    {
-      "id": 862,
-      "name": "obstagoon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
-      "types": [
-        "dark",
-        "normal"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-10-05T01:13:45.747Z"
     }
   ],
   "pokemon": {
@@ -968,6 +967,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T13:45:35.941Z",
       "lastPulledAt": "2026-09-24T13:45:35.941Z"
+    },
+    "449": {
+      "id": 449,
+      "name": "hippopotas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-07T12:02:36.441Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T12:02:36.441Z",
+      "lastPulledAt": "2026-10-07T12:02:36.441Z"
     },
     "453": {
       "id": 453,
