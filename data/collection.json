@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 122,
-  "updatedAt": "2026-10-07T00:05:30.099Z",
+  "totalPulls": 123,
+  "updatedAt": "2026-10-07T05:46:40.467Z",
   "lastPull": {
-    "id": 510,
-    "name": "liepard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+    "id": 63,
+    "name": "abra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
     "types": [
-      "dark"
+      "psychic"
     ],
-    "totalStats": 446,
-    "grade": "R",
-    "pulledAt": "2026-10-07T00:05:30.099Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-07T05:46:40.467Z"
   },
   "pulls": [
+    {
+      "id": 63,
+      "name": "abra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-07T05:46:40.467Z"
+    },
     {
       "id": 510,
       "name": "liepard",
@@ -116,17 +127,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-05T01:13:45.747Z"
-    },
-    {
-      "id": 835,
-      "name": "yamper",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-04T22:36:18.029Z"
     }
   ],
   "pokemon": {
@@ -287,6 +287,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T03:24:09.270Z",
       "lastPulledAt": "2026-09-24T03:24:09.270Z"
+    },
+    "63": {
+      "id": 63,
+      "name": "abra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-07T05:46:40.467Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T05:46:40.467Z",
+      "lastPulledAt": "2026-10-07T05:46:40.467Z"
     },
     "86": {
       "id": 86,
