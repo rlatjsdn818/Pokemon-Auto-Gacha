@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 127,
-  "updatedAt": "2026-10-08T02:47:17.757Z",
+  "totalPulls": 128,
+  "updatedAt": "2026-10-08T09:31:19.689Z",
   "lastPull": {
-    "id": 824,
-    "name": "blipbug",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png",
+    "id": 984,
+    "name": "great-tusk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
     "types": [
-      "bug"
+      "ground",
+      "fighting"
     ],
-    "totalStats": 180,
-    "grade": "N",
-    "pulledAt": "2026-10-08T02:47:17.757Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-08T09:31:19.689Z"
   },
   "pulls": [
+    {
+      "id": 984,
+      "name": "great-tusk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+      "types": [
+        "ground",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-08T09:31:19.689Z"
+    },
     {
       "id": 824,
       "name": "blipbug",
@@ -115,17 +128,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-06T09:05:42.330Z"
-    },
-    {
-      "id": 907,
-      "name": "floragato",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-06T02:19:00.210Z"
     }
   ],
   "pokemon": {
@@ -1974,6 +1976,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T19:13:32.040Z",
       "lastPulledAt": "2026-09-22T19:13:32.040Z"
+    },
+    "984": {
+      "id": 984,
+      "name": "great-tusk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+      "types": [
+        "ground",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-08T09:31:19.689Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T09:31:19.689Z",
+      "lastPulledAt": "2026-10-08T09:31:19.689Z"
     },
     "1002": {
       "id": 1002,
