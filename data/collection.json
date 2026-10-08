@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 128,
-  "updatedAt": "2026-10-08T09:31:19.689Z",
+  "totalPulls": 129,
+  "updatedAt": "2026-10-08T16:52:51.245Z",
   "lastPull": {
-    "id": 984,
-    "name": "great-tusk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+    "id": 611,
+    "name": "fraxure",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
     "types": [
-      "ground",
-      "fighting"
+      "dragon"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-08T09:31:19.689Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-08T16:52:51.245Z"
   },
   "pulls": [
+    {
+      "id": 611,
+      "name": "fraxure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-08T16:52:51.245Z"
+    },
     {
       "id": 984,
       "name": "great-tusk",
@@ -117,17 +127,6 @@
       "totalStats": 237,
       "grade": "N",
       "pulledAt": "2026-10-06T15:51:56.576Z"
-    },
-    {
-      "id": 418,
-      "name": "buizel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-06T09:05:42.330Z"
     }
   ],
   "pokemon": {
@@ -1231,6 +1230,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:58:35.084Z",
       "lastPulledAt": "2026-09-16T16:58:35.084Z"
+    },
+    "611": {
+      "id": 611,
+      "name": "fraxure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-08T16:52:51.245Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T16:52:51.245Z",
+      "lastPulledAt": "2026-10-08T16:52:51.245Z"
     },
     "621": {
       "id": 621,
