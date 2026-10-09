@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 131,
-  "updatedAt": "2026-10-09T01:24:26.860Z",
+  "totalPulls": 132,
+  "updatedAt": "2026-10-09T07:34:50.858Z",
   "lastPull": {
-    "id": 860,
-    "name": "morgrem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
+    "id": 1014,
+    "name": "okidogi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
     "types": [
-      "dark",
-      "fairy"
+      "poison",
+      "fighting"
     ],
-    "totalStats": 370,
-    "grade": "N",
-    "pulledAt": "2026-10-09T01:24:26.860Z"
+    "totalStats": 555,
+    "grade": "SR",
+    "pulledAt": "2026-10-09T07:34:50.858Z"
   },
   "pulls": [
+    {
+      "id": 1014,
+      "name": "okidogi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T07:34:50.858Z"
+    },
     {
       "id": 860,
       "name": "morgrem",
@@ -118,17 +130,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-07T05:46:40.467Z"
-    },
-    {
-      "id": 510,
-      "name": "liepard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 446,
-      "grade": "R",
-      "pulledAt": "2026-10-07T00:05:30.099Z"
     }
   ],
   "pokemon": {
@@ -2040,6 +2041,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:12:38.714Z",
       "lastPulledAt": "2026-09-22T01:12:38.714Z"
+    },
+    "1014": {
+      "id": 1014,
+      "name": "okidogi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T07:34:50.858Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T07:34:50.858Z",
+      "lastPulledAt": "2026-10-09T07:34:50.858Z"
     }
   },
   "typeTotals": {
