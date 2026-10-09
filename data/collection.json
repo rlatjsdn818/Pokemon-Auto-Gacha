@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-09T19:42:32.289Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-09T23:32:50.721Z",
   "lastPull": {
-    "id": 382,
-    "name": "kyogre",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "id": 209,
+    "name": "snubbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
     "types": [
-      "water"
+      "fairy"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-10-09T19:42:32.289Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-09T23:32:50.721Z"
   },
   "pulls": [
+    {
+      "id": 209,
+      "name": "snubbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-09T23:32:50.721Z"
+    },
     {
       "id": 382,
       "name": "kyogre",
@@ -118,18 +129,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-10-07T23:23:08.212Z"
-    },
-    {
-      "id": 454,
-      "name": "toxicroak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
-      "types": [
-        "poison",
-        "fighting"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-07T18:51:22.051Z"
     }
   ],
   "pokemon": {
@@ -570,6 +569,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T05:55:08.782Z",
       "lastPulledAt": "2026-09-30T05:55:08.782Z"
+    },
+    "209": {
+      "id": 209,
+      "name": "snubbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-09T23:32:50.721Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T23:32:50.721Z",
+      "lastPulledAt": "2026-10-09T23:32:50.721Z"
     },
     "210": {
       "id": 210,
