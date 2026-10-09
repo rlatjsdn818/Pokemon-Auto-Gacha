@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 133,
-  "updatedAt": "2026-10-09T14:37:12.920Z",
+  "totalPulls": 134,
+  "updatedAt": "2026-10-09T19:42:32.289Z",
   "lastPull": {
-    "id": 948,
-    "name": "toedscool",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+    "id": 382,
+    "name": "kyogre",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
     "types": [
-      "ground",
-      "grass"
+      "water"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-10-09T14:37:12.920Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-10-09T19:42:32.289Z"
   },
   "pulls": [
+    {
+      "id": 382,
+      "name": "kyogre",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-10-09T19:42:32.289Z"
+    },
     {
       "id": 948,
       "name": "toedscool",
@@ -120,17 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-07T18:51:22.051Z"
-    },
-    {
-      "id": 449,
-      "name": "hippopotas",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-07T12:02:36.441Z"
     }
   ],
   "pokemon": {
@@ -817,6 +816,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:03:38.840Z",
       "lastPulledAt": "2026-09-19T19:03:38.840Z"
+    },
+    "382": {
+      "id": 382,
+      "name": "kyogre",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-10-09T19:42:32.289Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T19:42:32.289Z",
+      "lastPulledAt": "2026-10-09T19:42:32.289Z"
     },
     "390": {
       "id": 390,
