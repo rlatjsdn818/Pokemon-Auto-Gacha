@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 135,
-  "updatedAt": "2026-10-09T23:32:50.721Z",
+  "totalPulls": 136,
+  "updatedAt": "2026-10-10T02:40:39.546Z",
   "lastPull": {
-    "id": 209,
-    "name": "snubbull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
+    "id": 899,
+    "name": "wyrdeer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
     "types": [
-      "fairy"
+      "normal",
+      "psychic"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-09T23:32:50.721Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-10T02:40:39.546Z"
   },
   "pulls": [
+    {
+      "id": 899,
+      "name": "wyrdeer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T02:40:39.546Z"
+    },
     {
       "id": 209,
       "name": "snubbull",
@@ -117,18 +130,6 @@
       "totalStats": 180,
       "grade": "N",
       "pulledAt": "2026-10-08T02:47:17.757Z"
-    },
-    {
-      "id": 655,
-      "name": "delphox",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
-      "types": [
-        "fire",
-        "psychic"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T23:23:08.212Z"
     }
   ],
   "pokemon": {
@@ -1912,10 +1913,10 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-20T11:34:15.485Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T11:34:15.485Z",
-      "lastPulledAt": "2026-09-20T11:34:15.485Z"
+      "lastPulledAt": "2026-10-10T02:40:39.546Z"
     },
     "907": {
       "id": 907,
