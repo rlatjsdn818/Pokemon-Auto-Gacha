@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 137,
-  "updatedAt": "2026-10-10T09:03:32.529Z",
+  "totalPulls": 138,
+  "updatedAt": "2026-10-10T15:15:33.617Z",
   "lastPull": {
-    "id": 965,
-    "name": "varoom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+    "id": 995,
+    "name": "iron-thorns",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
     "types": [
-      "steel",
-      "poison"
+      "rock",
+      "electric"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-10T09:03:32.529Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-10T15:15:33.617Z"
   },
   "pulls": [
+    {
+      "id": 995,
+      "name": "iron-thorns",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T15:15:33.617Z"
+    },
     {
       "id": 965,
       "name": "varoom",
@@ -119,18 +131,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-08T16:52:51.245Z"
-    },
-    {
-      "id": 984,
-      "name": "great-tusk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
-      "types": [
-        "ground",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-08T09:31:19.689Z"
     }
   ],
   "pokemon": {
@@ -2072,6 +2072,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T09:31:19.689Z",
       "lastPulledAt": "2026-10-08T09:31:19.689Z"
+    },
+    "995": {
+      "id": 995,
+      "name": "iron-thorns",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T15:15:33.617Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T15:15:33.617Z",
+      "lastPulledAt": "2026-10-10T15:15:33.617Z"
     },
     "1002": {
       "id": 1002,
