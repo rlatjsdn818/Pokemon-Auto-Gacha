@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 138,
-  "updatedAt": "2026-10-10T15:15:33.617Z",
+  "totalPulls": 139,
+  "updatedAt": "2026-10-10T19:17:49.574Z",
   "lastPull": {
-    "id": 995,
-    "name": "iron-thorns",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+    "id": 834,
+    "name": "drednaw",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
     "types": [
-      "rock",
-      "electric"
+      "water",
+      "rock"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-10T15:15:33.617Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-10T19:17:49.574Z"
   },
   "pulls": [
+    {
+      "id": 834,
+      "name": "drednaw",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-10T19:17:49.574Z"
+    },
     {
       "id": 995,
       "name": "iron-thorns",
@@ -120,17 +132,6 @@
       "totalStats": 417,
       "grade": "R",
       "pulledAt": "2026-10-08T21:37:35.944Z"
-    },
-    {
-      "id": 611,
-      "name": "fraxure",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-08T16:52:51.245Z"
     }
   ],
   "pokemon": {
@@ -1742,10 +1743,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-25T02:25:14.781Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T02:25:14.781Z",
-      "lastPulledAt": "2026-09-25T02:25:14.781Z"
+      "lastPulledAt": "2026-10-10T19:17:49.574Z"
     },
     "835": {
       "id": 835,
