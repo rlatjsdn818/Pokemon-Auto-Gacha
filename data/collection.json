@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 143,
-  "updatedAt": "2026-10-11T14:04:11.825Z",
+  "totalPulls": 144,
+  "updatedAt": "2026-10-11T18:47:39.043Z",
   "lastPull": {
-    "id": 363,
-    "name": "spheal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+    "id": 440,
+    "name": "happiny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
     "types": [
-      "ice",
-      "water"
+      "normal"
     ],
-    "totalStats": 290,
+    "totalStats": 220,
     "grade": "N",
-    "pulledAt": "2026-10-11T14:04:11.825Z"
+    "pulledAt": "2026-10-11T18:47:39.043Z"
   },
   "pulls": [
+    {
+      "id": 440,
+      "name": "happiny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 220,
+      "grade": "N",
+      "pulledAt": "2026-10-11T18:47:39.043Z"
+    },
     {
       "id": 363,
       "name": "spheal",
@@ -120,17 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-09T23:32:50.721Z"
-    },
-    {
-      "id": 382,
-      "name": "kyogre",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-10-09T19:42:32.289Z"
     }
   ],
   "pokemon": {
@@ -1001,6 +1000,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T00:01:02.740Z",
       "lastPulledAt": "2026-09-26T00:01:02.740Z"
+    },
+    "440": {
+      "id": 440,
+      "name": "happiny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 220,
+      "grade": "N",
+      "pulledAt": "2026-10-11T18:47:39.043Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T18:47:39.043Z",
+      "lastPulledAt": "2026-10-11T18:47:39.043Z"
     },
     "441": {
       "id": 441,
