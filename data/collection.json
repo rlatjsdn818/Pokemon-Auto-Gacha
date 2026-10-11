@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 142,
-  "updatedAt": "2026-10-11T07:13:47.813Z",
+  "totalPulls": 143,
+  "updatedAt": "2026-10-11T14:04:11.825Z",
   "lastPull": {
-    "id": 1013,
-    "name": "sinistcha",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+    "id": 363,
+    "name": "spheal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
     "types": [
-      "grass",
-      "ghost"
+      "ice",
+      "water"
     ],
-    "totalStats": 508,
-    "grade": "SR",
-    "pulledAt": "2026-10-11T07:13:47.813Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-11T14:04:11.825Z"
   },
   "pulls": [
+    {
+      "id": 363,
+      "name": "spheal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-11T14:04:11.825Z"
+    },
     {
       "id": 1013,
       "name": "sinistcha",
@@ -119,18 +131,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-10-09T19:42:32.289Z"
-    },
-    {
-      "id": 948,
-      "name": "toedscool",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
-      "types": [
-        "ground",
-        "grass"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-10-09T14:37:12.920Z"
     }
   ],
   "pokemon": {
@@ -832,6 +832,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T05:55:15.051Z",
       "lastPulledAt": "2026-09-29T05:55:15.051Z"
+    },
+    "363": {
+      "id": 363,
+      "name": "spheal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-11T14:04:11.825Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T14:04:11.825Z",
+      "lastPulledAt": "2026-10-11T14:04:11.825Z"
     },
     "366": {
       "id": 366,
