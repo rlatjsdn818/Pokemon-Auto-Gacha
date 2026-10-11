@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 144,
-  "updatedAt": "2026-10-11T18:47:39.043Z",
+  "totalPulls": 145,
+  "updatedAt": "2026-10-11T22:30:24.773Z",
   "lastPull": {
-    "id": 440,
-    "name": "happiny",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
+    "id": 377,
+    "name": "regirock",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
     "types": [
-      "normal"
+      "rock"
     ],
-    "totalStats": 220,
-    "grade": "N",
-    "pulledAt": "2026-10-11T18:47:39.043Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-11T22:30:24.773Z"
   },
   "pulls": [
+    {
+      "id": 377,
+      "name": "regirock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T22:30:24.773Z"
+    },
     {
       "id": 440,
       "name": "happiny",
@@ -119,17 +130,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-10T02:40:39.546Z"
-    },
-    {
-      "id": 209,
-      "name": "snubbull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-09T23:32:50.721Z"
     }
   ],
   "pokemon": {
@@ -862,6 +862,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:03:38.840Z",
       "lastPulledAt": "2026-09-19T19:03:38.840Z"
+    },
+    "377": {
+      "id": 377,
+      "name": "regirock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T22:30:24.773Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T22:30:24.773Z",
+      "lastPulledAt": "2026-10-11T22:30:24.773Z"
     },
     "382": {
       "id": 382,
