@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 145,
-  "updatedAt": "2026-10-11T22:30:24.773Z",
+  "totalPulls": 146,
+  "updatedAt": "2026-10-12T01:42:04.135Z",
   "lastPull": {
-    "id": 377,
-    "name": "regirock",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+    "id": 264,
+    "name": "linoone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
     "types": [
-      "rock"
+      "normal"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-11T22:30:24.773Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-12T01:42:04.135Z"
   },
   "pulls": [
+    {
+      "id": 264,
+      "name": "linoone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-12T01:42:04.135Z"
+    },
     {
       "id": 377,
       "name": "regirock",
@@ -118,18 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-10T09:03:32.529Z"
-    },
-    {
-      "id": 899,
-      "name": "wyrdeer",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-10T02:40:39.546Z"
     }
   ],
   "pokemon": {
@@ -677,6 +676,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T22:37:34.425Z",
       "lastPulledAt": "2026-10-10T22:37:34.425Z"
+    },
+    "264": {
+      "id": 264,
+      "name": "linoone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-12T01:42:04.135Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T01:42:04.135Z",
+      "lastPulledAt": "2026-10-12T01:42:04.135Z"
     },
     "272": {
       "id": 272,
