@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 146,
-  "updatedAt": "2026-10-12T01:42:04.135Z",
+  "totalPulls": 147,
+  "updatedAt": "2026-10-12T08:02:27.799Z",
   "lastPull": {
-    "id": 264,
-    "name": "linoone",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+    "id": 588,
+    "name": "karrablast",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
     "types": [
-      "normal"
+      "bug"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-12T01:42:04.135Z"
+    "totalStats": 315,
+    "grade": "N",
+    "pulledAt": "2026-10-12T08:02:27.799Z"
   },
   "pulls": [
+    {
+      "id": 588,
+      "name": "karrablast",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-12T08:02:27.799Z"
+    },
     {
       "id": 264,
       "name": "linoone",
@@ -117,18 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-10T15:15:33.617Z"
-    },
-    {
-      "id": 965,
-      "name": "varoom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
-      "types": [
-        "steel",
-        "poison"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-10T09:03:32.529Z"
     }
   ],
   "pokemon": {
@@ -1338,6 +1337,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:58:35.084Z",
       "lastPulledAt": "2026-09-16T16:58:35.084Z"
+    },
+    "588": {
+      "id": 588,
+      "name": "karrablast",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-12T08:02:27.799Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T08:02:27.799Z",
+      "lastPulledAt": "2026-10-12T08:02:27.799Z"
     },
     "611": {
       "id": 611,
