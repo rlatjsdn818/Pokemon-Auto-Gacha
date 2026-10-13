@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 150,
-  "updatedAt": "2026-10-13T03:54:54.008Z",
+  "totalPulls": 151,
+  "updatedAt": "2026-10-13T11:16:04.948Z",
   "lastPull": {
-    "id": 414,
-    "name": "mothim",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+    "id": 638,
+    "name": "cobalion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
     "types": [
-      "bug",
-      "flying"
+      "steel",
+      "fighting"
     ],
-    "totalStats": 424,
-    "grade": "R",
-    "pulledAt": "2026-10-13T03:54:54.008Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-13T11:16:04.948Z"
   },
   "pulls": [
+    {
+      "id": 638,
+      "name": "cobalion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
+      "types": [
+        "steel",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T11:16:04.948Z"
+    },
     {
       "id": 414,
       "name": "mothim",
@@ -117,18 +129,6 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-10-11T07:13:47.813Z"
-    },
-    {
-      "id": 1016,
-      "name": "fezandipiti",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
-      "types": [
-        "poison",
-        "fairy"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T01:13:22.786Z"
     }
   ],
   "pokemon": {
@@ -1431,6 +1431,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T00:43:11.295Z",
       "lastPulledAt": "2026-10-04T00:43:11.295Z"
+    },
+    "638": {
+      "id": 638,
+      "name": "cobalion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
+      "types": [
+        "steel",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T11:16:04.948Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T11:16:04.948Z",
+      "lastPulledAt": "2026-10-13T11:16:04.948Z"
     },
     "645": {
       "id": 645,
