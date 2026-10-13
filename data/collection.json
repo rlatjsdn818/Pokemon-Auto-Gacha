@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 151,
-  "updatedAt": "2026-10-13T11:16:04.948Z",
+  "totalPulls": 152,
+  "updatedAt": "2026-10-13T18:20:20.522Z",
   "lastPull": {
-    "id": 638,
-    "name": "cobalion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
+    "id": 467,
+    "name": "magmortar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
     "types": [
-      "steel",
-      "fighting"
+      "fire"
     ],
-    "totalStats": 580,
+    "totalStats": 540,
     "grade": "SR",
-    "pulledAt": "2026-10-13T11:16:04.948Z"
+    "pulledAt": "2026-10-13T18:20:20.522Z"
   },
   "pulls": [
+    {
+      "id": 467,
+      "name": "magmortar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T18:20:20.522Z"
+    },
     {
       "id": 638,
       "name": "cobalion",
@@ -117,18 +127,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-11T14:04:11.825Z"
-    },
-    {
-      "id": 1013,
-      "name": "sinistcha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 508,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T07:13:47.813Z"
     }
   ],
   "pokemon": {
@@ -1201,6 +1199,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T23:47:27.019Z",
       "lastPulledAt": "2026-09-17T23:47:27.019Z"
+    },
+    "467": {
+      "id": 467,
+      "name": "magmortar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T18:20:20.522Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T18:20:20.522Z",
+      "lastPulledAt": "2026-10-13T18:20:20.522Z"
     },
     "497": {
       "id": 497,
