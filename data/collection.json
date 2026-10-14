@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 154,
-  "updatedAt": "2026-10-14T01:34:23.488Z",
+  "totalPulls": 155,
+  "updatedAt": "2026-10-14T06:39:21.041Z",
   "lastPull": {
-    "id": 965,
-    "name": "varoom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+    "id": 1017,
+    "name": "ogerpon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
     "types": [
-      "steel",
-      "poison"
+      "grass"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-14T01:34:23.488Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-10-14T06:39:21.041Z"
   },
   "pulls": [
+    {
+      "id": 1017,
+      "name": "ogerpon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T06:39:21.041Z"
+    },
     {
       "id": 965,
       "name": "varoom",
@@ -117,17 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-12T01:42:04.135Z"
-    },
-    {
-      "id": 377,
-      "name": "regirock",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T22:30:24.773Z"
     }
   ],
   "pokemon": {
@@ -2334,6 +2333,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T01:13:22.786Z",
       "lastPulledAt": "2026-10-11T01:13:22.786Z"
+    },
+    "1017": {
+      "id": 1017,
+      "name": "ogerpon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T06:39:21.041Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T06:39:21.041Z",
+      "lastPulledAt": "2026-10-14T06:39:21.041Z"
     }
   },
   "typeTotals": {
