@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 157,
-  "updatedAt": "2026-10-14T17:23:24.049Z",
+  "totalPulls": 158,
+  "updatedAt": "2026-10-14T20:49:13.584Z",
   "lastPull": {
-    "id": 164,
-    "name": "noctowl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+    "id": 38,
+    "name": "ninetales",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
     "types": [
-      "normal",
-      "flying"
+      "fire"
     ],
-    "totalStats": 452,
-    "grade": "R",
-    "pulledAt": "2026-10-14T17:23:24.049Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-14T20:49:13.584Z"
   },
   "pulls": [
+    {
+      "id": 38,
+      "name": "ninetales",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T20:49:13.584Z"
+    },
     {
       "id": 164,
       "name": "noctowl",
@@ -119,17 +129,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-10-12T23:46:35.480Z"
-    },
-    {
-      "id": 999,
-      "name": "gimmighoul",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-12T17:46:23.401Z"
     }
   ],
   "pokemon": {
@@ -242,6 +241,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T21:21:33.071Z",
       "lastPulledAt": "2026-09-29T21:21:33.071Z"
+    },
+    "38": {
+      "id": 38,
+      "name": "ninetales",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T20:49:13.584Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T20:49:13.584Z",
+      "lastPulledAt": "2026-10-14T20:49:13.584Z"
     },
     "43": {
       "id": 43,
