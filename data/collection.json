@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 158,
-  "updatedAt": "2026-10-14T20:49:13.584Z",
+  "totalPulls": 159,
+  "updatedAt": "2026-10-14T23:29:11.417Z",
   "lastPull": {
-    "id": 38,
-    "name": "ninetales",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "id": 991,
+    "name": "iron-bundle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
     "types": [
-      "fire"
+      "ice",
+      "water"
     ],
-    "totalStats": 505,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-14T20:49:13.584Z"
+    "pulledAt": "2026-10-14T23:29:11.417Z"
   },
   "pulls": [
+    {
+      "id": 991,
+      "name": "iron-bundle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T23:29:11.417Z"
+    },
     {
       "id": 38,
       "name": "ninetales",
@@ -117,18 +130,6 @@
       "totalStats": 424,
       "grade": "R",
       "pulledAt": "2026-10-13T03:54:54.008Z"
-    },
-    {
-      "id": 416,
-      "name": "vespiquen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-10-12T23:46:35.480Z"
     }
   ],
   "pokemon": {
@@ -2255,6 +2256,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T09:31:19.689Z",
       "lastPulledAt": "2026-10-08T09:31:19.689Z"
+    },
+    "991": {
+      "id": 991,
+      "name": "iron-bundle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T23:29:11.417Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T23:29:11.417Z",
+      "lastPulledAt": "2026-10-14T23:29:11.417Z"
     },
     "995": {
       "id": 995,
