@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 156,
-  "updatedAt": "2026-10-14T12:20:27.947Z",
+  "totalPulls": 157,
+  "updatedAt": "2026-10-14T17:23:24.049Z",
   "lastPull": {
-    "id": 122,
-    "name": "mr-mime",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "id": 164,
+    "name": "noctowl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
     "types": [
-      "psychic",
-      "fairy"
+      "normal",
+      "flying"
     ],
-    "totalStats": 460,
+    "totalStats": 452,
     "grade": "R",
-    "pulledAt": "2026-10-14T12:20:27.947Z"
+    "pulledAt": "2026-10-14T17:23:24.049Z"
   },
   "pulls": [
+    {
+      "id": 164,
+      "name": "noctowl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-10-14T17:23:24.049Z"
+    },
     {
       "id": 122,
       "name": "mr-mime",
@@ -118,17 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-12T17:46:23.401Z"
-    },
-    {
-      "id": 588,
-      "name": "karrablast",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-10-12T08:02:27.799Z"
     }
   ],
   "pokemon": {
@@ -519,10 +520,10 @@
       "totalStats": 452,
       "grade": "R",
       "pulledAt": "2026-09-20T19:46:21.870Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:46:21.870Z",
-      "lastPulledAt": "2026-09-20T19:46:21.870Z"
+      "lastPulledAt": "2026-10-14T17:23:24.049Z"
     },
     "173": {
       "id": 173,
