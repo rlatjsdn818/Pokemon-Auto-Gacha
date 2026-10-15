@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 162,
-  "updatedAt": "2026-10-15T11:55:07.045Z",
+  "totalPulls": 163,
+  "updatedAt": "2026-10-15T15:56:18.813Z",
   "lastPull": {
-    "id": 398,
-    "name": "staraptor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+    "id": 890,
+    "name": "eternatus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
     "types": [
-      "normal",
-      "flying"
+      "poison",
+      "dragon"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-15T11:55:07.045Z"
+    "totalStats": 690,
+    "grade": "SSR",
+    "pulledAt": "2026-10-15T15:56:18.813Z"
   },
   "pulls": [
+    {
+      "id": 890,
+      "name": "eternatus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 690,
+      "grade": "SSR",
+      "pulledAt": "2026-10-15T15:56:18.813Z"
+    },
     {
       "id": 398,
       "name": "staraptor",
@@ -119,17 +131,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-14T01:34:23.488Z"
-    },
-    {
-      "id": 350,
-      "name": "milotic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-13T22:57:50.058Z"
     }
   ],
   "pokemon": {
@@ -2133,6 +2134,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:13:44.804Z",
       "lastPulledAt": "2026-09-20T01:13:44.804Z"
+    },
+    "890": {
+      "id": 890,
+      "name": "eternatus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 690,
+      "grade": "SSR",
+      "pulledAt": "2026-10-15T15:56:18.813Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T15:56:18.813Z",
+      "lastPulledAt": "2026-10-15T15:56:18.813Z"
     },
     "899": {
       "id": 899,
