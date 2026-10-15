@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 163,
-  "updatedAt": "2026-10-15T15:56:18.813Z",
+  "totalPulls": 164,
+  "updatedAt": "2026-10-15T19:36:04.856Z",
   "lastPull": {
-    "id": 890,
-    "name": "eternatus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+    "id": 935,
+    "name": "charcadet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
     "types": [
-      "poison",
-      "dragon"
+      "fire"
     ],
-    "totalStats": 690,
-    "grade": "SSR",
-    "pulledAt": "2026-10-15T15:56:18.813Z"
+    "totalStats": 255,
+    "grade": "N",
+    "pulledAt": "2026-10-15T19:36:04.856Z"
   },
   "pulls": [
+    {
+      "id": 935,
+      "name": "charcadet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-10-15T19:36:04.856Z"
+    },
     {
       "id": 890,
       "name": "eternatus",
@@ -119,18 +129,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-14T06:39:21.041Z"
-    },
-    {
-      "id": 965,
-      "name": "varoom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
-      "types": [
-        "steel",
-        "poison"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-14T01:34:23.488Z"
     }
   ],
   "pokemon": {
@@ -2227,6 +2225,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:58:07.594Z",
       "lastPulledAt": "2026-09-24T17:58:07.594Z"
+    },
+    "935": {
+      "id": 935,
+      "name": "charcadet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-10-15T19:36:04.856Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T19:36:04.856Z",
+      "lastPulledAt": "2026-10-15T19:36:04.856Z"
     },
     "943": {
       "id": 943,
