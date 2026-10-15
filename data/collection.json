@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 159,
-  "updatedAt": "2026-10-14T23:29:11.417Z",
+  "totalPulls": 160,
+  "updatedAt": "2026-10-15T01:40:49.436Z",
   "lastPull": {
-    "id": 991,
-    "name": "iron-bundle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+    "id": 373,
+    "name": "salamence",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
     "types": [
-      "ice",
-      "water"
+      "dragon",
+      "flying"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-14T23:29:11.417Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-15T01:40:49.436Z"
   },
   "pulls": [
+    {
+      "id": 373,
+      "name": "salamence",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-15T01:40:49.436Z"
+    },
     {
       "id": 991,
       "name": "iron-bundle",
@@ -118,18 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-13T11:16:04.948Z"
-    },
-    {
-      "id": 414,
-      "name": "mothim",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 424,
-      "grade": "R",
-      "pulledAt": "2026-10-13T03:54:54.008Z"
     }
   ],
   "pokemon": {
@@ -908,6 +908,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:03:38.840Z",
       "lastPulledAt": "2026-09-19T19:03:38.840Z"
+    },
+    "373": {
+      "id": 373,
+      "name": "salamence",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-15T01:40:49.436Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T01:40:49.436Z",
+      "lastPulledAt": "2026-10-15T01:40:49.436Z"
     },
     "377": {
       "id": 377,
