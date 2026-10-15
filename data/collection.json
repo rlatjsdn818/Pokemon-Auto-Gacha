@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 161,
-  "updatedAt": "2026-10-15T06:28:58.186Z",
+  "totalPulls": 162,
+  "updatedAt": "2026-10-15T11:55:07.045Z",
   "lastPull": {
-    "id": 612,
-    "name": "haxorus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "id": 398,
+    "name": "staraptor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
     "types": [
-      "dragon"
+      "normal",
+      "flying"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T06:28:58.186Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-15T11:55:07.045Z"
   },
   "pulls": [
+    {
+      "id": 398,
+      "name": "staraptor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-15T11:55:07.045Z"
+    },
     {
       "id": 612,
       "name": "haxorus",
@@ -117,17 +130,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-13T22:57:50.058Z"
-    },
-    {
-      "id": 467,
-      "name": "magmortar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-13T18:20:20.522Z"
     }
   ],
   "pokemon": {
@@ -999,6 +1001,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T12:44:54.630Z",
       "lastPulledAt": "2026-10-03T12:44:54.630Z"
+    },
+    "398": {
+      "id": 398,
+      "name": "staraptor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-15T11:55:07.045Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T11:55:07.045Z",
+      "lastPulledAt": "2026-10-15T11:55:07.045Z"
     },
     "399": {
       "id": 399,
