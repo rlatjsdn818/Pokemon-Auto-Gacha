@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 160,
-  "updatedAt": "2026-10-15T01:40:49.436Z",
+  "totalPulls": 161,
+  "updatedAt": "2026-10-15T06:28:58.186Z",
   "lastPull": {
-    "id": 373,
-    "name": "salamence",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "id": 612,
+    "name": "haxorus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
     "types": [
-      "dragon",
-      "flying"
+      "dragon"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-15T01:40:49.436Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-10-15T06:28:58.186Z"
   },
   "pulls": [
+    {
+      "id": 612,
+      "name": "haxorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T06:28:58.186Z"
+    },
     {
       "id": 373,
       "name": "salamence",
@@ -118,18 +128,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-13T18:20:20.522Z"
-    },
-    {
-      "id": 638,
-      "name": "cobalion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
-      "types": [
-        "steel",
-        "fighting"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-13T11:16:04.948Z"
     }
   ],
   "pokemon": {
@@ -1463,6 +1461,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T16:52:51.245Z",
       "lastPulledAt": "2026-10-08T16:52:51.245Z"
+    },
+    "612": {
+      "id": 612,
+      "name": "haxorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T06:28:58.186Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T06:28:58.186Z",
+      "lastPulledAt": "2026-10-15T06:28:58.186Z"
     },
     "621": {
       "id": 621,
