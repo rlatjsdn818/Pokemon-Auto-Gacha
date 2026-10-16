@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 168,
-  "updatedAt": "2026-10-16T09:41:26.238Z",
+  "totalPulls": 169,
+  "updatedAt": "2026-10-16T14:17:57.102Z",
   "lastPull": {
-    "id": 974,
-    "name": "cetoddle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+    "id": 213,
+    "name": "shuckle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
     "types": [
-      "ice"
+      "bug",
+      "rock"
     ],
-    "totalStats": 334,
-    "grade": "N",
-    "pulledAt": "2026-10-16T09:41:26.238Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-16T14:17:57.102Z"
   },
   "pulls": [
+    {
+      "id": 213,
+      "name": "shuckle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T14:17:57.102Z"
+    },
     {
       "id": 974,
       "name": "cetoddle",
@@ -118,18 +131,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-15T01:40:49.436Z"
-    },
-    {
-      "id": 991,
-      "name": "iron-bundle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
-      "types": [
-        "ice",
-        "water"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-14T23:29:11.417Z"
     }
   ],
   "pokemon": {
@@ -631,6 +632,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T00:50:50.081Z",
       "lastPulledAt": "2026-09-28T00:50:50.081Z"
+    },
+    "213": {
+      "id": 213,
+      "name": "shuckle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T14:17:57.102Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T14:17:57.102Z",
+      "lastPulledAt": "2026-10-16T14:17:57.102Z"
     },
     "230": {
       "id": 230,
