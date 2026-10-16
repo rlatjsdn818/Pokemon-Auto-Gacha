@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 170,
-  "updatedAt": "2026-10-16T18:07:40.271Z",
+  "totalPulls": 171,
+  "updatedAt": "2026-10-16T21:00:23.118Z",
   "lastPull": {
-    "id": 637,
-    "name": "volcarona",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "id": 661,
+    "name": "fletchling",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
     "types": [
-      "bug",
-      "fire"
+      "normal",
+      "flying"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-10-16T18:07:40.271Z"
+    "totalStats": 278,
+    "grade": "N",
+    "pulledAt": "2026-10-16T21:00:23.118Z"
   },
   "pulls": [
+    {
+      "id": 661,
+      "name": "fletchling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 278,
+      "grade": "N",
+      "pulledAt": "2026-10-16T21:00:23.118Z"
+    },
     {
       "id": 637,
       "name": "volcarona",
@@ -120,17 +132,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-15T11:55:07.045Z"
-    },
-    {
-      "id": 612,
-      "name": "haxorus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T06:28:58.186Z"
     }
   ],
   "pokemon": {
@@ -1636,6 +1637,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T23:23:08.212Z",
       "lastPulledAt": "2026-10-07T23:23:08.212Z"
+    },
+    "661": {
+      "id": 661,
+      "name": "fletchling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 278,
+      "grade": "N",
+      "pulledAt": "2026-10-16T21:00:23.118Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T21:00:23.118Z",
+      "lastPulledAt": "2026-10-16T21:00:23.118Z"
     },
     "668": {
       "id": 668,
