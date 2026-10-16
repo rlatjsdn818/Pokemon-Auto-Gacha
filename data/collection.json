@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 166,
-  "updatedAt": "2026-10-16T00:43:47.896Z",
+  "totalPulls": 167,
+  "updatedAt": "2026-10-16T05:05:53.697Z",
   "lastPull": {
-    "id": 758,
-    "name": "salazzle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
+    "id": 709,
+    "name": "trevenant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
     "types": [
-      "poison",
-      "fire"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 480,
+    "totalStats": 474,
     "grade": "R",
-    "pulledAt": "2026-10-16T00:43:47.896Z"
+    "pulledAt": "2026-10-16T05:05:53.697Z"
   },
   "pulls": [
+    {
+      "id": 709,
+      "name": "trevenant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-10-16T05:05:53.697Z"
+    },
     {
       "id": 758,
       "name": "salazzle",
@@ -119,18 +131,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-14T20:49:13.584Z"
-    },
-    {
-      "id": 164,
-      "name": "noctowl",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 452,
-      "grade": "R",
-      "pulledAt": "2026-10-14T17:23:24.049Z"
     }
   ],
   "pokemon": {
@@ -1697,6 +1697,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T20:14:19.860Z",
       "lastPulledAt": "2026-09-28T20:14:19.860Z"
+    },
+    "709": {
+      "id": 709,
+      "name": "trevenant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-10-16T05:05:53.697Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T05:05:53.697Z",
+      "lastPulledAt": "2026-10-16T05:05:53.697Z"
     },
     "710": {
       "id": 710,
