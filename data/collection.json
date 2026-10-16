@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 165,
-  "updatedAt": "2026-10-15T22:39:20.137Z",
+  "totalPulls": 166,
+  "updatedAt": "2026-10-16T00:43:47.896Z",
   "lastPull": {
-    "id": 902,
-    "name": "basculegion-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+    "id": 758,
+    "name": "salazzle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
     "types": [
-      "water",
-      "ghost"
+      "poison",
+      "fire"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T22:39:20.137Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-16T00:43:47.896Z"
   },
   "pulls": [
+    {
+      "id": 758,
+      "name": "salazzle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-16T00:43:47.896Z"
+    },
     {
       "id": 902,
       "name": "basculegion-male",
@@ -119,18 +131,6 @@
       "totalStats": 452,
       "grade": "R",
       "pulledAt": "2026-10-14T17:23:24.049Z"
-    },
-    {
-      "id": 122,
-      "name": "mr-mime",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-14T12:20:27.947Z"
     }
   ],
   "pokemon": {
@@ -1806,6 +1806,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T09:33:02.464Z",
       "lastPulledAt": "2026-09-26T09:33:02.464Z"
+    },
+    "758": {
+      "id": 758,
+      "name": "salazzle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-16T00:43:47.896Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T00:43:47.896Z",
+      "lastPulledAt": "2026-10-16T00:43:47.896Z"
     },
     "761": {
       "id": 761,
