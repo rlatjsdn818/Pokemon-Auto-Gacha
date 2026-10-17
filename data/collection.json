@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 173,
-  "updatedAt": "2026-10-17T01:25:17.341Z",
+  "totalPulls": 174,
+  "updatedAt": "2026-10-17T05:46:38.906Z",
   "lastPull": {
-    "id": 913,
-    "name": "quaxwell",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+    "id": 23,
+    "name": "ekans",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
     "types": [
-      "water"
+      "poison"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-17T01:25:17.341Z"
+    "totalStats": 288,
+    "grade": "N",
+    "pulledAt": "2026-10-17T05:46:38.906Z"
   },
   "pulls": [
+    {
+      "id": 23,
+      "name": "ekans",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-10-17T05:46:38.906Z"
+    },
     {
       "id": 913,
       "name": "quaxwell",
@@ -119,17 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-15T22:39:20.137Z"
-    },
-    {
-      "id": 935,
-      "name": "charcadet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 255,
-      "grade": "N",
-      "pulledAt": "2026-10-15T19:36:04.856Z"
     }
   ],
   "pokemon": {
@@ -211,6 +211,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T18:30:28.133Z",
       "lastPulledAt": "2026-09-18T18:30:28.133Z"
+    },
+    "23": {
+      "id": 23,
+      "name": "ekans",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-10-17T05:46:38.906Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T05:46:38.906Z",
+      "lastPulledAt": "2026-10-17T05:46:38.906Z"
     },
     "26": {
       "id": 26,
