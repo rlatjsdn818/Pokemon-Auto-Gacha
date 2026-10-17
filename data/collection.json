@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 177,
-  "updatedAt": "2026-10-17T16:26:30.388Z",
+  "totalPulls": 178,
+  "updatedAt": "2026-10-17T18:40:29.026Z",
   "lastPull": {
-    "id": 607,
-    "name": "litwick",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "id": 398,
+    "name": "staraptor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
     "types": [
-      "ghost",
-      "fire"
+      "normal",
+      "flying"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-10-17T16:26:30.388Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-17T18:40:29.026Z"
   },
   "pulls": [
+    {
+      "id": 398,
+      "name": "staraptor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-17T18:40:29.026Z"
+    },
     {
       "id": 607,
       "name": "litwick",
@@ -119,17 +131,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-16T14:17:57.102Z"
-    },
-    {
-      "id": 974,
-      "name": "cetoddle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 334,
-      "grade": "N",
-      "pulledAt": "2026-10-16T09:41:26.238Z"
     }
   ],
   "pokemon": {
@@ -1060,10 +1061,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-15T11:55:07.045Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T11:55:07.045Z",
-      "lastPulledAt": "2026-10-15T11:55:07.045Z"
+      "lastPulledAt": "2026-10-17T18:40:29.026Z"
     },
     "399": {
       "id": 399,
