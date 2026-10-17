@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 176,
-  "updatedAt": "2026-10-17T13:14:41.283Z",
+  "totalPulls": 177,
+  "updatedAt": "2026-10-17T16:26:30.388Z",
   "lastPull": {
-    "id": 811,
-    "name": "thwackey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+    "id": 607,
+    "name": "litwick",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
     "types": [
-      "grass"
+      "ghost",
+      "fire"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-17T13:14:41.283Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-10-17T16:26:30.388Z"
   },
   "pulls": [
+    {
+      "id": 607,
+      "name": "litwick",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-17T16:26:30.388Z"
+    },
     {
       "id": 811,
       "name": "thwackey",
@@ -117,18 +130,6 @@
       "totalStats": 334,
       "grade": "N",
       "pulledAt": "2026-10-16T09:41:26.238Z"
-    },
-    {
-      "id": 709,
-      "name": "trevenant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-10-16T05:05:53.697Z"
     }
   ],
   "pokemon": {
@@ -1510,6 +1511,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T08:02:27.799Z",
       "lastPulledAt": "2026-10-12T08:02:27.799Z"
+    },
+    "607": {
+      "id": 607,
+      "name": "litwick",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-17T16:26:30.388Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T16:26:30.388Z",
+      "lastPulledAt": "2026-10-17T16:26:30.388Z"
     },
     "611": {
       "id": 611,
