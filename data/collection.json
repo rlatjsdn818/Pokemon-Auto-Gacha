@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 175,
-  "updatedAt": "2026-10-17T09:42:47.912Z",
+  "totalPulls": 176,
+  "updatedAt": "2026-10-17T13:14:41.283Z",
   "lastPull": {
-    "id": 1013,
-    "name": "sinistcha",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+    "id": 811,
+    "name": "thwackey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
     "types": [
-      "grass",
-      "ghost"
+      "grass"
     ],
-    "totalStats": 508,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T09:42:47.912Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-17T13:14:41.283Z"
   },
   "pulls": [
+    {
+      "id": 811,
+      "name": "thwackey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-17T13:14:41.283Z"
+    },
     {
       "id": 1013,
       "name": "sinistcha",
@@ -119,18 +129,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-10-16T05:05:53.697Z"
-    },
-    {
-      "id": 758,
-      "name": "salazzle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
-      "types": [
-        "poison",
-        "fire"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-16T00:43:47.896Z"
     }
   ],
   "pokemon": {
@@ -2012,6 +2010,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T21:08:16.963Z",
       "lastPulledAt": "2026-09-24T21:08:16.963Z"
+    },
+    "811": {
+      "id": 811,
+      "name": "thwackey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-17T13:14:41.283Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T13:14:41.283Z",
+      "lastPulledAt": "2026-10-17T13:14:41.283Z"
     },
     "812": {
       "id": 812,
