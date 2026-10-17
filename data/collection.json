@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 174,
-  "updatedAt": "2026-10-17T05:46:38.906Z",
+  "totalPulls": 175,
+  "updatedAt": "2026-10-17T09:42:47.912Z",
   "lastPull": {
-    "id": 23,
-    "name": "ekans",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "id": 1013,
+    "name": "sinistcha",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
     "types": [
-      "poison"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 288,
-    "grade": "N",
-    "pulledAt": "2026-10-17T05:46:38.906Z"
+    "totalStats": 508,
+    "grade": "SR",
+    "pulledAt": "2026-10-17T09:42:47.912Z"
   },
   "pulls": [
+    {
+      "id": 1013,
+      "name": "sinistcha",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 508,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T09:42:47.912Z"
+    },
     {
       "id": 23,
       "name": "ekans",
@@ -118,18 +131,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-16T00:43:47.896Z"
-    },
-    {
-      "id": 902,
-      "name": "basculegion-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
-      "types": [
-        "water",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T22:39:20.137Z"
     }
   ],
   "pokemon": {
@@ -2582,10 +2583,10 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-10-11T07:13:47.813Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T07:13:47.813Z",
-      "lastPulledAt": "2026-10-11T07:13:47.813Z"
+      "lastPulledAt": "2026-10-17T09:42:47.912Z"
     },
     "1014": {
       "id": 1014,
