@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 172,
-  "updatedAt": "2026-10-16T23:28:58.985Z",
+  "totalPulls": 173,
+  "updatedAt": "2026-10-17T01:25:17.341Z",
   "lastPull": {
-    "id": 207,
-    "name": "gligar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
+    "id": 913,
+    "name": "quaxwell",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
     "types": [
-      "ground",
-      "flying"
+      "water"
     ],
-    "totalStats": 430,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-10-16T23:28:58.985Z"
+    "pulledAt": "2026-10-17T01:25:17.341Z"
   },
   "pulls": [
+    {
+      "id": 913,
+      "name": "quaxwell",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-17T01:25:17.341Z"
+    },
     {
       "id": 207,
       "name": "gligar",
@@ -120,18 +130,6 @@
       "totalStats": 255,
       "grade": "N",
       "pulledAt": "2026-10-15T19:36:04.856Z"
-    },
-    {
-      "id": 890,
-      "name": "eternatus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
-      "types": [
-        "poison",
-        "dragon"
-      ],
-      "totalStats": 690,
-      "grade": "SSR",
-      "pulledAt": "2026-10-15T15:56:18.813Z"
     }
   ],
   "pokemon": {
@@ -2294,6 +2292,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T02:19:00.210Z",
       "lastPulledAt": "2026-10-06T02:19:00.210Z"
+    },
+    "913": {
+      "id": 913,
+      "name": "quaxwell",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-17T01:25:17.341Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T01:25:17.341Z",
+      "lastPulledAt": "2026-10-17T01:25:17.341Z"
     },
     "926": {
       "id": 926,
