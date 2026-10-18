@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 186,
-  "updatedAt": "2026-10-18T18:54:26.063Z",
+  "totalPulls": 187,
+  "updatedAt": "2026-10-18T21:10:28.103Z",
   "lastPull": {
-    "id": 27,
-    "name": "sandshrew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "id": 210,
+    "name": "granbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
     "types": [
-      "ground"
+      "fairy"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-18T18:54:26.063Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-10-18T21:10:28.103Z"
   },
   "pulls": [
+    {
+      "id": 210,
+      "name": "granbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-18T21:10:28.103Z"
+    },
     {
       "id": 27,
       "name": "sandshrew",
@@ -117,18 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-17T18:40:29.026Z"
-    },
-    {
-      "id": 607,
-      "name": "litwick",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
-      "types": [
-        "ghost",
-        "fire"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-10-17T16:26:30.388Z"
     }
   ],
   "pokemon": {
@@ -672,10 +671,10 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-28T00:50:50.081Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T00:50:50.081Z",
-      "lastPulledAt": "2026-09-28T00:50:50.081Z"
+      "lastPulledAt": "2026-10-18T21:10:28.103Z"
     },
     "213": {
       "id": 213,
