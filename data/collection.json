@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 185,
-  "updatedAt": "2026-10-18T16:39:56.019Z",
+  "totalPulls": 186,
+  "updatedAt": "2026-10-18T18:54:26.063Z",
   "lastPull": {
-    "id": 782,
-    "name": "jangmo-o",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
+    "id": 27,
+    "name": "sandshrew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
     "types": [
-      "dragon"
+      "ground"
     ],
     "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-10-18T16:39:56.019Z"
+    "pulledAt": "2026-10-18T18:54:26.063Z"
   },
   "pulls": [
+    {
+      "id": 27,
+      "name": "sandshrew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-18T18:54:26.063Z"
+    },
     {
       "id": 782,
       "name": "jangmo-o",
@@ -118,17 +129,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-10-17T16:26:30.388Z"
-    },
-    {
-      "id": 811,
-      "name": "thwackey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-17T13:14:41.283Z"
     }
   ],
   "pokemon": {
@@ -240,6 +240,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T05:58:03.897Z",
       "lastPulledAt": "2026-09-27T05:58:03.897Z"
+    },
+    "27": {
+      "id": 27,
+      "name": "sandshrew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-18T18:54:26.063Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T18:54:26.063Z",
+      "lastPulledAt": "2026-10-18T18:54:26.063Z"
     },
     "34": {
       "id": 34,
