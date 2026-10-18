@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 180,
-  "updatedAt": "2026-10-17T22:55:53.027Z",
+  "totalPulls": 181,
+  "updatedAt": "2026-10-18T00:30:42.940Z",
   "lastPull": {
-    "id": 215,
-    "name": "sneasel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+    "id": 661,
+    "name": "fletchling",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
     "types": [
-      "dark",
-      "ice"
+      "normal",
+      "flying"
     ],
-    "totalStats": 430,
-    "grade": "R",
-    "pulledAt": "2026-10-17T22:55:53.027Z"
+    "totalStats": 278,
+    "grade": "N",
+    "pulledAt": "2026-10-18T00:30:42.940Z"
   },
   "pulls": [
+    {
+      "id": 661,
+      "name": "fletchling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 278,
+      "grade": "N",
+      "pulledAt": "2026-10-18T00:30:42.940Z"
+    },
     {
       "id": 215,
       "name": "sneasel",
@@ -119,18 +131,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-10-16T23:28:58.985Z"
-    },
-    {
-      "id": 661,
-      "name": "fletchling",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 278,
-      "grade": "N",
-      "pulledAt": "2026-10-16T21:00:23.118Z"
     }
   ],
   "pokemon": {
@@ -1727,10 +1727,10 @@
       "totalStats": 278,
       "grade": "N",
       "pulledAt": "2026-10-16T21:00:23.118Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T21:00:23.118Z",
-      "lastPulledAt": "2026-10-16T21:00:23.118Z"
+      "lastPulledAt": "2026-10-18T00:30:42.940Z"
     },
     "668": {
       "id": 668,
