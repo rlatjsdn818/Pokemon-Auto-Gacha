@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 187,
-  "updatedAt": "2026-10-18T21:10:28.103Z",
+  "totalPulls": 188,
+  "updatedAt": "2026-10-18T23:14:28.245Z",
   "lastPull": {
-    "id": 210,
-    "name": "granbull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "id": 801,
+    "name": "magearna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
     "types": [
+      "steel",
       "fairy"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-10-18T21:10:28.103Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-18T23:14:28.245Z"
   },
   "pulls": [
+    {
+      "id": 801,
+      "name": "magearna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-18T23:14:28.245Z"
+    },
     {
       "id": 210,
       "name": "granbull",
@@ -116,18 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-17T20:59:24.808Z"
-    },
-    {
-      "id": 398,
-      "name": "staraptor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-17T18:40:29.026Z"
     }
   ],
   "pokemon": {
@@ -2098,10 +2099,10 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-25T13:38:55.115Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T13:38:55.115Z",
-      "lastPulledAt": "2026-09-25T13:38:55.115Z"
+      "lastPulledAt": "2026-10-18T23:14:28.245Z"
     },
     "804": {
       "id": 804,
