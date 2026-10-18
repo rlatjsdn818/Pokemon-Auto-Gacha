@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 182,
-  "updatedAt": "2026-10-18T05:03:31.354Z",
+  "totalPulls": 183,
+  "updatedAt": "2026-10-18T09:28:52.415Z",
   "lastPull": {
-    "id": 279,
-    "name": "pelipper",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+    "id": 234,
+    "name": "stantler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
     "types": [
-      "water",
-      "flying"
+      "normal"
     ],
-    "totalStats": 440,
+    "totalStats": 465,
     "grade": "R",
-    "pulledAt": "2026-10-18T05:03:31.354Z"
+    "pulledAt": "2026-10-18T09:28:52.415Z"
   },
   "pulls": [
+    {
+      "id": 234,
+      "name": "stantler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-18T09:28:52.415Z"
+    },
     {
       "id": 279,
       "name": "pelipper",
@@ -120,17 +130,6 @@
       "totalStats": 288,
       "grade": "N",
       "pulledAt": "2026-10-17T05:46:38.906Z"
-    },
-    {
-      "id": 913,
-      "name": "quaxwell",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-17T01:25:17.341Z"
     }
   ],
   "pokemon": {
@@ -726,6 +725,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T23:05:47.759Z",
       "lastPulledAt": "2026-10-01T23:05:47.759Z"
+    },
+    "234": {
+      "id": 234,
+      "name": "stantler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-18T09:28:52.415Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T09:28:52.415Z",
+      "lastPulledAt": "2026-10-18T09:28:52.415Z"
     },
     "237": {
       "id": 237,
