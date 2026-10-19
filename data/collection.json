@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 192,
-  "updatedAt": "2026-10-19T19:24:01.063Z",
+  "totalPulls": 193,
+  "updatedAt": "2026-10-19T22:57:36.041Z",
   "lastPull": {
-    "id": 570,
-    "name": "zorua",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+    "id": 448,
+    "name": "lucario",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
     "types": [
-      "dark"
+      "fighting",
+      "steel"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-19T19:24:01.063Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-19T22:57:36.041Z"
   },
   "pulls": [
+    {
+      "id": 448,
+      "name": "lucario",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T22:57:36.041Z"
+    },
     {
       "id": 570,
       "name": "zorua",
@@ -115,17 +128,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-18T13:26:09.804Z"
-    },
-    {
-      "id": 234,
-      "name": "stantler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-10-18T09:28:52.415Z"
     }
   ],
   "pokemon": {
@@ -1325,6 +1327,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T13:45:35.941Z",
       "lastPulledAt": "2026-09-24T13:45:35.941Z"
+    },
+    "448": {
+      "id": 448,
+      "name": "lucario",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T22:57:36.041Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T22:57:36.041Z",
+      "lastPulledAt": "2026-10-19T22:57:36.041Z"
     },
     "449": {
       "id": 449,
