@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 189,
-  "updatedAt": "2026-10-19T01:17:31.038Z",
+  "totalPulls": 190,
+  "updatedAt": "2026-10-19T06:16:50.612Z",
   "lastPull": {
-    "id": 763,
-    "name": "tsareena",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
+    "id": 226,
+    "name": "mantine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
     "types": [
-      "grass"
+      "water",
+      "flying"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-19T01:17:31.038Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-19T06:16:50.612Z"
   },
   "pulls": [
+    {
+      "id": 226,
+      "name": "mantine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-19T06:16:50.612Z"
+    },
     {
       "id": 763,
       "name": "tsareena",
@@ -115,18 +128,6 @@
       "totalStats": 278,
       "grade": "N",
       "pulledAt": "2026-10-18T00:30:42.940Z"
-    },
-    {
-      "id": 215,
-      "name": "sneasel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
-      "types": [
-        "dark",
-        "ice"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-10-17T22:55:53.027Z"
     }
   ],
   "pokemon": {
@@ -706,6 +707,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T22:55:53.027Z",
       "lastPulledAt": "2026-10-17T22:55:53.027Z"
+    },
+    "226": {
+      "id": 226,
+      "name": "mantine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-19T06:16:50.612Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T06:16:50.612Z",
+      "lastPulledAt": "2026-10-19T06:16:50.612Z"
     },
     "230": {
       "id": 230,
