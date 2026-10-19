@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 190,
-  "updatedAt": "2026-10-19T06:16:50.612Z",
+  "totalPulls": 191,
+  "updatedAt": "2026-10-19T13:25:53.346Z",
   "lastPull": {
-    "id": 226,
-    "name": "mantine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+    "id": 319,
+    "name": "sharpedo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
     "types": [
       "water",
-      "flying"
+      "dark"
     ],
-    "totalStats": 485,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-10-19T06:16:50.612Z"
+    "pulledAt": "2026-10-19T13:25:53.346Z"
   },
   "pulls": [
+    {
+      "id": 319,
+      "name": "sharpedo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-19T13:25:53.346Z"
+    },
     {
       "id": 226,
       "name": "mantine",
@@ -116,18 +128,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-18T05:03:31.354Z"
-    },
-    {
-      "id": 661,
-      "name": "fletchling",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 278,
-      "grade": "N",
-      "pulledAt": "2026-10-18T00:30:42.940Z"
     }
   ],
   "pokemon": {
@@ -938,6 +938,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T18:57:38.749Z",
       "lastPulledAt": "2026-09-17T18:57:38.749Z"
+    },
+    "319": {
+      "id": 319,
+      "name": "sharpedo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-19T13:25:53.346Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T13:25:53.346Z",
+      "lastPulledAt": "2026-10-19T13:25:53.346Z"
     },
     "322": {
       "id": 322,
