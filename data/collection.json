@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 188,
-  "updatedAt": "2026-10-18T23:14:28.245Z",
+  "totalPulls": 189,
+  "updatedAt": "2026-10-19T01:17:31.038Z",
   "lastPull": {
-    "id": 801,
-    "name": "magearna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
+    "id": 763,
+    "name": "tsareena",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
     "types": [
-      "steel",
-      "fairy"
+      "grass"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-18T23:14:28.245Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-19T01:17:31.038Z"
   },
   "pulls": [
+    {
+      "id": 763,
+      "name": "tsareena",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T01:17:31.038Z"
+    },
     {
       "id": 801,
       "name": "magearna",
@@ -117,18 +127,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-10-17T22:55:53.027Z"
-    },
-    {
-      "id": 246,
-      "name": "larvitar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-17T20:59:24.808Z"
     }
   ],
   "pokemon": {
@@ -2024,6 +2022,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T11:46:50.641Z",
       "lastPulledAt": "2026-09-29T11:46:50.641Z"
+    },
+    "763": {
+      "id": 763,
+      "name": "tsareena",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T01:17:31.038Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T01:17:31.038Z",
+      "lastPulledAt": "2026-10-19T01:17:31.038Z"
     },
     "780": {
       "id": 780,
