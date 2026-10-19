@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 191,
-  "updatedAt": "2026-10-19T13:25:53.346Z",
+  "totalPulls": 192,
+  "updatedAt": "2026-10-19T19:24:01.063Z",
   "lastPull": {
-    "id": 319,
-    "name": "sharpedo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+    "id": 570,
+    "name": "zorua",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
     "types": [
-      "water",
       "dark"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-10-19T13:25:53.346Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-19T19:24:01.063Z"
   },
   "pulls": [
+    {
+      "id": 570,
+      "name": "zorua",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-19T19:24:01.063Z"
+    },
     {
       "id": 319,
       "name": "sharpedo",
@@ -116,18 +126,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-10-18T09:28:52.415Z"
-    },
-    {
-      "id": 279,
-      "name": "pelipper",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-10-18T05:03:31.354Z"
     }
   ],
   "pokemon": {
@@ -1559,6 +1557,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T00:54:33.801Z",
       "lastPulledAt": "2026-09-27T00:54:33.801Z"
+    },
+    "570": {
+      "id": 570,
+      "name": "zorua",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-19T19:24:01.063Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T19:24:01.063Z",
+      "lastPulledAt": "2026-10-19T19:24:01.063Z"
     },
     "573": {
       "id": 573,
