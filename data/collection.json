@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 194,
-  "updatedAt": "2026-10-20T01:30:59.953Z",
+  "totalPulls": 195,
+  "updatedAt": "2026-10-20T06:31:17.746Z",
   "lastPull": {
-    "id": 823,
-    "name": "corviknight",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "id": 613,
+    "name": "cubchoo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
     "types": [
-      "flying",
-      "steel"
+      "ice"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-20T01:30:59.953Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-20T06:31:17.746Z"
   },
   "pulls": [
+    {
+      "id": 613,
+      "name": "cubchoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-20T06:31:17.746Z"
+    },
     {
       "id": 823,
       "name": "corviknight",
@@ -118,17 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-18T18:54:26.063Z"
-    },
-    {
-      "id": 782,
-      "name": "jangmo-o",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-18T16:39:56.019Z"
     }
   ],
   "pokemon": {
@@ -1697,6 +1696,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T06:28:58.186Z",
       "lastPulledAt": "2026-10-15T06:28:58.186Z"
+    },
+    "613": {
+      "id": 613,
+      "name": "cubchoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-20T06:31:17.746Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T06:31:17.746Z",
+      "lastPulledAt": "2026-10-20T06:31:17.746Z"
     },
     "621": {
       "id": 621,
