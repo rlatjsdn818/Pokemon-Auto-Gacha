@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 196,
-  "updatedAt": "2026-10-20T12:02:22.446Z",
+  "totalPulls": 197,
+  "updatedAt": "2026-10-20T16:50:57.694Z",
   "lastPull": {
-    "id": 346,
-    "name": "cradily",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+    "id": 921,
+    "name": "pawmi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
     "types": [
-      "rock",
-      "grass"
+      "electric"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-20T12:02:22.446Z"
+    "totalStats": 240,
+    "grade": "N",
+    "pulledAt": "2026-10-20T16:50:57.694Z"
   },
   "pulls": [
+    {
+      "id": 921,
+      "name": "pawmi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-10-20T16:50:57.694Z"
+    },
     {
       "id": 346,
       "name": "cradily",
@@ -119,17 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-18T23:14:28.245Z"
-    },
-    {
-      "id": 210,
-      "name": "granbull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-10-18T21:10:28.103Z"
     }
   ],
   "pokemon": {
@@ -2586,6 +2585,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T01:25:17.341Z",
       "lastPulledAt": "2026-10-17T01:25:17.341Z"
+    },
+    "921": {
+      "id": 921,
+      "name": "pawmi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-10-20T16:50:57.694Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T16:50:57.694Z",
+      "lastPulledAt": "2026-10-20T16:50:57.694Z"
     },
     "926": {
       "id": 926,
