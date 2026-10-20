@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 197,
-  "updatedAt": "2026-10-20T16:50:57.694Z",
+  "totalPulls": 198,
+  "updatedAt": "2026-10-20T20:12:35.062Z",
   "lastPull": {
-    "id": 921,
-    "name": "pawmi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+    "id": 804,
+    "name": "naganadel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
     "types": [
-      "electric"
+      "poison",
+      "dragon"
     ],
-    "totalStats": 240,
-    "grade": "N",
-    "pulledAt": "2026-10-20T16:50:57.694Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-10-20T20:12:35.062Z"
   },
   "pulls": [
+    {
+      "id": 804,
+      "name": "naganadel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T20:12:35.062Z"
+    },
     {
       "id": 921,
       "name": "pawmi",
@@ -117,18 +130,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-19T01:17:31.038Z"
-    },
-    {
-      "id": 801,
-      "name": "magearna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
-      "types": [
-        "steel",
-        "fairy"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-18T23:14:28.245Z"
     }
   ],
   "pokemon": {
@@ -2224,10 +2225,10 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-09-24T21:08:16.963Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T21:08:16.963Z",
-      "lastPulledAt": "2026-09-24T21:08:16.963Z"
+      "lastPulledAt": "2026-10-20T20:12:35.062Z"
     },
     "811": {
       "id": 811,
