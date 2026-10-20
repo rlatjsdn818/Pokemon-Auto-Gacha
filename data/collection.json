@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 195,
-  "updatedAt": "2026-10-20T06:31:17.746Z",
+  "totalPulls": 196,
+  "updatedAt": "2026-10-20T12:02:22.446Z",
   "lastPull": {
-    "id": 613,
-    "name": "cubchoo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+    "id": 346,
+    "name": "cradily",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
     "types": [
-      "ice"
+      "rock",
+      "grass"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-20T06:31:17.746Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-20T12:02:22.446Z"
   },
   "pulls": [
+    {
+      "id": 346,
+      "name": "cradily",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-20T12:02:22.446Z"
+    },
     {
       "id": 613,
       "name": "cubchoo",
@@ -117,17 +130,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-10-18T21:10:28.103Z"
-    },
-    {
-      "id": 27,
-      "name": "sandshrew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-18T18:54:26.063Z"
     }
   ],
   "pokemon": {
@@ -1002,6 +1004,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:42:37.663Z",
       "lastPulledAt": "2026-09-20T17:42:37.663Z"
+    },
+    "346": {
+      "id": 346,
+      "name": "cradily",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-20T12:02:22.446Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T12:02:22.446Z",
+      "lastPulledAt": "2026-10-20T12:02:22.446Z"
     },
     "350": {
       "id": 350,
