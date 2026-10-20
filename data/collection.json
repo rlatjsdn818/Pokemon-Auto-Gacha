@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 193,
-  "updatedAt": "2026-10-19T22:57:36.041Z",
+  "totalPulls": 194,
+  "updatedAt": "2026-10-20T01:30:59.953Z",
   "lastPull": {
-    "id": 448,
-    "name": "lucario",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "id": 823,
+    "name": "corviknight",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
     "types": [
-      "fighting",
+      "flying",
       "steel"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-19T22:57:36.041Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-20T01:30:59.953Z"
   },
   "pulls": [
+    {
+      "id": 823,
+      "name": "corviknight",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-20T01:30:59.953Z"
+    },
     {
       "id": 448,
       "name": "lucario",
@@ -117,17 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-18T16:39:56.019Z"
-    },
-    {
-      "id": 831,
-      "name": "wooloo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-18T13:26:09.804Z"
     }
   ],
   "pokemon": {
@@ -2241,6 +2242,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:50:36.132Z",
       "lastPulledAt": "2026-09-19T21:26:06.719Z"
+    },
+    "823": {
+      "id": 823,
+      "name": "corviknight",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-20T01:30:59.953Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T01:30:59.953Z",
+      "lastPulledAt": "2026-10-20T01:30:59.953Z"
     },
     "824": {
       "id": 824,
