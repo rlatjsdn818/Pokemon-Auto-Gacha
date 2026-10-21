@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 203,
-  "updatedAt": "2026-10-21T17:17:22.346Z",
+  "totalPulls": 204,
+  "updatedAt": "2026-10-21T20:40:12.430Z",
   "lastPull": {
-    "id": 244,
-    "name": "entei",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+    "id": 797,
+    "name": "celesteela",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
     "types": [
-      "fire"
+      "steel",
+      "flying"
     ],
-    "totalStats": 580,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-21T17:17:22.346Z"
+    "pulledAt": "2026-10-21T20:40:12.430Z"
   },
   "pulls": [
+    {
+      "id": 797,
+      "name": "celesteela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T20:40:12.430Z"
+    },
     {
       "id": 244,
       "name": "entei",
@@ -116,18 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-20T06:31:17.746Z"
-    },
-    {
-      "id": 823,
-      "name": "corviknight",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
-      "types": [
-        "flying",
-        "steel"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-20T01:30:59.953Z"
     }
   ],
   "pokemon": {
@@ -2257,6 +2258,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T12:36:54.347Z",
       "lastPulledAt": "2026-10-04T12:36:54.347Z"
+    },
+    "797": {
+      "id": 797,
+      "name": "celesteela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T20:40:12.430Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T20:40:12.430Z",
+      "lastPulledAt": "2026-10-21T20:40:12.430Z"
     },
     "801": {
       "id": 801,
