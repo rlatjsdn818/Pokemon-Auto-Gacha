@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 204,
-  "updatedAt": "2026-10-21T20:40:12.430Z",
+  "totalPulls": 205,
+  "updatedAt": "2026-10-21T23:40:00.294Z",
   "lastPull": {
-    "id": 797,
-    "name": "celesteela",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+    "id": 759,
+    "name": "stufful",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
     "types": [
-      "steel",
-      "flying"
+      "normal",
+      "fighting"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-21T20:40:12.430Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-10-21T23:40:00.294Z"
   },
   "pulls": [
+    {
+      "id": 759,
+      "name": "stufful",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-21T23:40:00.294Z"
+    },
     {
       "id": 797,
       "name": "celesteela",
@@ -118,17 +130,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-20T12:02:22.446Z"
-    },
-    {
-      "id": 613,
-      "name": "cubchoo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-20T06:31:17.746Z"
     }
   ],
   "pokemon": {
@@ -2165,6 +2166,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T00:43:47.896Z",
       "lastPulledAt": "2026-10-16T00:43:47.896Z"
+    },
+    "759": {
+      "id": 759,
+      "name": "stufful",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-21T23:40:00.294Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T23:40:00.294Z",
+      "lastPulledAt": "2026-10-21T23:40:00.294Z"
     },
     "761": {
       "id": 761,
