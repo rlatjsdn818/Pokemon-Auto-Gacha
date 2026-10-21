@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 202,
-  "updatedAt": "2026-10-21T12:17:13.944Z",
+  "totalPulls": 203,
+  "updatedAt": "2026-10-21T17:17:22.346Z",
   "lastPull": {
-    "id": 570,
-    "name": "zorua",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+    "id": 244,
+    "name": "entei",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
     "types": [
-      "dark"
+      "fire"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-21T12:17:13.944Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-21T17:17:22.346Z"
   },
   "pulls": [
+    {
+      "id": 244,
+      "name": "entei",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T17:17:22.346Z"
+    },
     {
       "id": 570,
       "name": "zorua",
@@ -117,18 +128,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-20T01:30:59.953Z"
-    },
-    {
-      "id": 448,
-      "name": "lucario",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
-      "types": [
-        "fighting",
-        "steel"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T22:57:36.041Z"
     }
   ],
   "pokemon": {
@@ -801,6 +800,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T20:02:45.090Z",
       "lastPulledAt": "2026-09-27T15:42:31.900Z"
+    },
+    "244": {
+      "id": 244,
+      "name": "entei",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T17:17:22.346Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T17:17:22.346Z",
+      "lastPulledAt": "2026-10-21T17:17:22.346Z"
     },
     "246": {
       "id": 246,
