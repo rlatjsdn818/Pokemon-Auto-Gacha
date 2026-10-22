@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 208,
-  "updatedAt": "2026-10-22T12:30:33.261Z",
+  "totalPulls": 209,
+  "updatedAt": "2026-10-22T17:33:57.050Z",
   "lastPull": {
-    "id": 545,
-    "name": "scolipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+    "id": 77,
+    "name": "ponyta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
     "types": [
-      "bug",
-      "poison"
+      "fire"
     ],
-    "totalStats": 485,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-10-22T12:30:33.261Z"
+    "pulledAt": "2026-10-22T17:33:57.050Z"
   },
   "pulls": [
+    {
+      "id": 77,
+      "name": "ponyta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-22T17:33:57.050Z"
+    },
     {
       "id": 545,
       "name": "scolipede",
@@ -118,18 +128,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-10-21T01:36:42.339Z"
-    },
-    {
-      "id": 199,
-      "name": "slowking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-20T23:11:09.448Z"
     }
   ],
   "pokemon": {
@@ -350,6 +348,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T05:46:40.467Z",
       "lastPulledAt": "2026-10-07T05:46:40.467Z"
+    },
+    "77": {
+      "id": 77,
+      "name": "ponyta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-22T17:33:57.050Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T17:33:57.050Z",
+      "lastPulledAt": "2026-10-22T17:33:57.050Z"
     },
     "86": {
       "id": 86,
