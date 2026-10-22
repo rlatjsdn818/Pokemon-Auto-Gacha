@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 207,
-  "updatedAt": "2026-10-22T06:48:06.551Z",
+  "totalPulls": 208,
+  "updatedAt": "2026-10-22T12:30:33.261Z",
   "lastPull": {
-    "id": 297,
-    "name": "hariyama",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+    "id": 545,
+    "name": "scolipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
     "types": [
-      "fighting"
+      "bug",
+      "poison"
     ],
-    "totalStats": 474,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-10-22T06:48:06.551Z"
+    "pulledAt": "2026-10-22T12:30:33.261Z"
   },
   "pulls": [
+    {
+      "id": 545,
+      "name": "scolipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-22T12:30:33.261Z"
+    },
     {
       "id": 297,
       "name": "hariyama",
@@ -117,18 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-20T23:11:09.448Z"
-    },
-    {
-      "id": 804,
-      "name": "naganadel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
-      "types": [
-        "poison",
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T20:12:35.062Z"
     }
   ],
   "pokemon": {
@@ -1590,6 +1591,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T06:31:23.902Z",
       "lastPulledAt": "2026-10-21T06:31:23.902Z"
+    },
+    "545": {
+      "id": 545,
+      "name": "scolipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-22T12:30:33.261Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T12:30:33.261Z",
+      "lastPulledAt": "2026-10-22T12:30:33.261Z"
     },
     "546": {
       "id": 546,
