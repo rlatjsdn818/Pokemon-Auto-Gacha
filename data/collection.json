@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 210,
-  "updatedAt": "2026-10-22T20:44:52.699Z",
+  "totalPulls": 211,
+  "updatedAt": "2026-10-22T23:37:21.734Z",
   "lastPull": {
-    "id": 917,
-    "name": "tarountula",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
+    "id": 519,
+    "name": "pidove",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
     "types": [
-      "bug"
+      "normal",
+      "flying"
     ],
-    "totalStats": 210,
+    "totalStats": 264,
     "grade": "N",
-    "pulledAt": "2026-10-22T20:44:52.699Z"
+    "pulledAt": "2026-10-22T23:37:21.734Z"
   },
   "pulls": [
+    {
+      "id": 519,
+      "name": "pidove",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 264,
+      "grade": "N",
+      "pulledAt": "2026-10-22T23:37:21.734Z"
+    },
     {
       "id": 917,
       "name": "tarountula",
@@ -116,17 +129,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-21T12:17:13.944Z"
-    },
-    {
-      "id": 511,
-      "name": "pansage",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 316,
-      "grade": "N",
-      "pulledAt": "2026-10-21T06:31:23.902Z"
     }
   ],
   "pokemon": {
@@ -1603,6 +1605,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T06:31:23.902Z",
       "lastPulledAt": "2026-10-21T06:31:23.902Z"
+    },
+    "519": {
+      "id": 519,
+      "name": "pidove",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 264,
+      "grade": "N",
+      "pulledAt": "2026-10-22T23:37:21.734Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T23:37:21.734Z",
+      "lastPulledAt": "2026-10-22T23:37:21.734Z"
     },
     "545": {
       "id": 545,
