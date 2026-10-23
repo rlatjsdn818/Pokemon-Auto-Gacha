@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 211,
-  "updatedAt": "2026-10-22T23:37:21.734Z",
+  "totalPulls": 212,
+  "updatedAt": "2026-10-23T01:53:19.636Z",
   "lastPull": {
-    "id": 519,
-    "name": "pidove",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+    "id": 916,
+    "name": "oinkologne-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
     "types": [
-      "normal",
-      "flying"
+      "normal"
     ],
-    "totalStats": 264,
-    "grade": "N",
-    "pulledAt": "2026-10-22T23:37:21.734Z"
+    "totalStats": 489,
+    "grade": "R",
+    "pulledAt": "2026-10-23T01:53:19.636Z"
   },
   "pulls": [
+    {
+      "id": 916,
+      "name": "oinkologne-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-10-23T01:53:19.636Z"
+    },
     {
       "id": 519,
       "name": "pidove",
@@ -118,17 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-21T17:17:22.346Z"
-    },
-    {
-      "id": 570,
-      "name": "zorua",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-21T12:17:13.944Z"
     }
   ],
   "pokemon": {
@@ -2757,6 +2756,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T01:25:17.341Z",
       "lastPulledAt": "2026-10-17T01:25:17.341Z"
+    },
+    "916": {
+      "id": 916,
+      "name": "oinkologne-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-10-23T01:53:19.636Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T01:53:19.636Z",
+      "lastPulledAt": "2026-10-23T01:53:19.636Z"
     },
     "917": {
       "id": 917,
