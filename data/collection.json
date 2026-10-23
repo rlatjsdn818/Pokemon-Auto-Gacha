@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 212,
-  "updatedAt": "2026-10-23T01:53:19.636Z",
+  "totalPulls": 213,
+  "updatedAt": "2026-10-23T06:42:26.639Z",
   "lastPull": {
-    "id": 916,
-    "name": "oinkologne-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+    "id": 77,
+    "name": "ponyta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
     "types": [
-      "normal"
+      "fire"
     ],
-    "totalStats": 489,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-10-23T01:53:19.636Z"
+    "pulledAt": "2026-10-23T06:42:26.639Z"
   },
   "pulls": [
+    {
+      "id": 77,
+      "name": "ponyta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-23T06:42:26.639Z"
+    },
     {
       "id": 916,
       "name": "oinkologne-male",
@@ -117,17 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-21T20:40:12.430Z"
-    },
-    {
-      "id": 244,
-      "name": "entei",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-21T17:17:22.346Z"
     }
   ],
   "pokemon": {
@@ -359,10 +359,10 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-22T17:33:57.050Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T17:33:57.050Z",
-      "lastPulledAt": "2026-10-22T17:33:57.050Z"
+      "lastPulledAt": "2026-10-23T06:42:26.639Z"
     },
     "86": {
       "id": 86,
