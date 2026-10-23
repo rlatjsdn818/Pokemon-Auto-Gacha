@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 213,
-  "updatedAt": "2026-10-23T06:42:26.639Z",
+  "totalPulls": 214,
+  "updatedAt": "2026-10-23T12:09:36.721Z",
   "lastPull": {
-    "id": 77,
-    "name": "ponyta",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+    "id": 1004,
+    "name": "chi-yu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
     "types": [
+      "dark",
       "fire"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-23T06:42:26.639Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-23T12:09:36.721Z"
   },
   "pulls": [
+    {
+      "id": 1004,
+      "name": "chi-yu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T12:09:36.721Z"
+    },
     {
       "id": 77,
       "name": "ponyta",
@@ -116,18 +129,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-21T23:40:00.294Z"
-    },
-    {
-      "id": 797,
-      "name": "celesteela",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
-      "types": [
-        "steel",
-        "flying"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-21T20:40:12.430Z"
     }
   ],
   "pokemon": {
@@ -3045,10 +3046,10 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-22T01:12:38.714Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:12:38.714Z",
-      "lastPulledAt": "2026-09-22T01:12:38.714Z"
+      "lastPulledAt": "2026-10-23T12:09:36.721Z"
     },
     "1013": {
       "id": 1013,
