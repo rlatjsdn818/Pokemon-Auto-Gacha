@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 219,
-  "updatedAt": "2026-10-24T06:25:14.788Z",
+  "totalPulls": 220,
+  "updatedAt": "2026-10-24T11:20:41.692Z",
   "lastPull": {
-    "id": 213,
-    "name": "shuckle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+    "id": 17,
+    "name": "pidgeotto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
     "types": [
-      "bug",
-      "rock"
+      "normal",
+      "flying"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-24T06:25:14.788Z"
+    "totalStats": 349,
+    "grade": "N",
+    "pulledAt": "2026-10-24T11:20:41.692Z"
   },
   "pulls": [
+    {
+      "id": 17,
+      "name": "pidgeotto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 349,
+      "grade": "N",
+      "pulledAt": "2026-10-24T11:20:41.692Z"
+    },
     {
       "id": 213,
       "name": "shuckle",
@@ -117,17 +129,6 @@
       "totalStats": 264,
       "grade": "N",
       "pulledAt": "2026-10-22T23:37:21.734Z"
-    },
-    {
-      "id": 917,
-      "name": "tarountula",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-10-22T20:44:52.699Z"
     }
   ],
   "pokemon": {
@@ -189,10 +190,10 @@
       "totalStats": 349,
       "grade": "N",
       "pulledAt": "2026-09-30T00:36:30.353Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T00:36:30.353Z",
-      "lastPulledAt": "2026-09-30T00:36:30.353Z"
+      "lastPulledAt": "2026-10-24T11:20:41.692Z"
     },
     "22": {
       "id": 22,
