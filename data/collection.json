@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 221,
-  "updatedAt": "2026-10-24T14:41:43.272Z",
+  "totalPulls": 222,
+  "updatedAt": "2026-10-24T17:36:58.792Z",
   "lastPull": {
-    "id": 595,
-    "name": "joltik",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+    "id": 942,
+    "name": "maschiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
     "types": [
-      "bug",
-      "electric"
+      "dark"
     ],
-    "totalStats": 319,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-10-24T14:41:43.272Z"
+    "pulledAt": "2026-10-24T17:36:58.792Z"
   },
   "pulls": [
+    {
+      "id": 942,
+      "name": "maschiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-24T17:36:58.792Z"
+    },
     {
       "id": 595,
       "name": "joltik",
@@ -118,17 +128,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-23T06:42:26.639Z"
-    },
-    {
-      "id": 916,
-      "name": "oinkologne-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 489,
-      "grade": "R",
-      "pulledAt": "2026-10-23T01:53:19.636Z"
     }
   ],
   "pokemon": {
@@ -2910,6 +2909,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T19:36:04.856Z",
       "lastPulledAt": "2026-10-15T19:36:04.856Z"
+    },
+    "942": {
+      "id": 942,
+      "name": "maschiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-24T17:36:58.792Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T17:36:58.792Z",
+      "lastPulledAt": "2026-10-24T17:36:58.792Z"
     },
     "943": {
       "id": 943,
