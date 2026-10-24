@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 223,
-  "updatedAt": "2026-10-24T19:44:28.316Z",
+  "totalPulls": 224,
+  "updatedAt": "2026-10-24T21:55:22.127Z",
   "lastPull": {
-    "id": 789,
-    "name": "cosmog",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
+    "id": 467,
+    "name": "magmortar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
     "types": [
-      "psychic"
+      "fire"
     ],
-    "totalStats": 200,
-    "grade": "N",
-    "pulledAt": "2026-10-24T19:44:28.316Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-10-24T21:55:22.127Z"
   },
   "pulls": [
+    {
+      "id": 467,
+      "name": "magmortar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T21:55:22.127Z"
+    },
     {
       "id": 789,
       "name": "cosmog",
@@ -116,18 +127,6 @@
       "totalStats": 521,
       "grade": "SR",
       "pulledAt": "2026-10-23T17:01:15.630Z"
-    },
-    {
-      "id": 1004,
-      "name": "chi-yu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
-      "types": [
-        "dark",
-        "fire"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T12:09:36.721Z"
     }
   ],
   "pokemon": {
@@ -1556,10 +1555,10 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-13T18:20:20.522Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T18:20:20.522Z",
-      "lastPulledAt": "2026-10-13T18:20:20.522Z"
+      "lastPulledAt": "2026-10-24T21:55:22.127Z"
     },
     "477": {
       "id": 477,
