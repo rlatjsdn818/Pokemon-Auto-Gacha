@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 229,
-  "updatedAt": "2026-10-25T16:50:22.020Z",
+  "totalPulls": 230,
+  "updatedAt": "2026-10-25T19:22:37.195Z",
   "lastPull": {
-    "id": 752,
-    "name": "araquanid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
+    "id": 97,
+    "name": "hypno",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
     "types": [
-      "water",
-      "bug"
+      "psychic"
     ],
-    "totalStats": 454,
+    "totalStats": 483,
     "grade": "R",
-    "pulledAt": "2026-10-25T16:50:22.020Z"
+    "pulledAt": "2026-10-25T19:22:37.195Z"
   },
   "pulls": [
+    {
+      "id": 97,
+      "name": "hypno",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-10-25T19:22:37.195Z"
+    },
     {
       "id": 752,
       "name": "araquanid",
@@ -118,18 +128,6 @@
       "totalStats": 319,
       "grade": "N",
       "pulledAt": "2026-10-24T14:41:43.272Z"
-    },
-    {
-      "id": 17,
-      "name": "pidgeotto",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 349,
-      "grade": "N",
-      "pulledAt": "2026-10-24T11:20:41.692Z"
     }
   ],
   "pokemon": {
@@ -380,6 +378,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T00:35:08.646Z",
       "lastPulledAt": "2026-09-23T00:35:08.646Z"
+    },
+    "97": {
+      "id": 97,
+      "name": "hypno",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-10-25T19:22:37.195Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T19:22:37.195Z",
+      "lastPulledAt": "2026-10-25T19:22:37.195Z"
     },
     "99": {
       "id": 99,
