@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 225,
-  "updatedAt": "2026-10-24T23:51:56.507Z",
+  "totalPulls": 226,
+  "updatedAt": "2026-10-25T02:13:48.541Z",
   "lastPull": {
-    "id": 254,
-    "name": "sceptile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
+    "id": 638,
+    "name": "cobalion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
     "types": [
-      "grass"
+      "steel",
+      "fighting"
     ],
-    "totalStats": 530,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-10-24T23:51:56.507Z"
+    "pulledAt": "2026-10-25T02:13:48.541Z"
   },
   "pulls": [
+    {
+      "id": 638,
+      "name": "cobalion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
+      "types": [
+        "steel",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T02:13:48.541Z"
+    },
     {
       "id": 254,
       "name": "sceptile",
@@ -115,18 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-23T23:16:07.433Z"
-    },
-    {
-      "id": 411,
-      "name": "bastiodon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
-      "types": [
-        "rock",
-        "steel"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-23T20:20:33.543Z"
     }
   ],
   "pokemon": {
@@ -1987,10 +1988,10 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-13T11:16:04.948Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T11:16:04.948Z",
-      "lastPulledAt": "2026-10-13T11:16:04.948Z"
+      "lastPulledAt": "2026-10-25T02:13:48.541Z"
     },
     "645": {
       "id": 645,
