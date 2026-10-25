@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 227,
-  "updatedAt": "2026-10-25T07:36:22.927Z",
+  "totalPulls": 228,
+  "updatedAt": "2026-10-25T12:44:12.449Z",
   "lastPull": {
-    "id": 168,
-    "name": "ariados",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+    "id": 461,
+    "name": "weavile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
     "types": [
-      "bug",
-      "poison"
+      "dark",
+      "ice"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-10-25T07:36:22.927Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-25T12:44:12.449Z"
   },
   "pulls": [
+    {
+      "id": 461,
+      "name": "weavile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T12:44:12.449Z"
+    },
     {
       "id": 168,
       "name": "ariados",
@@ -118,17 +130,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-24T06:25:14.788Z"
-    },
-    {
-      "id": 497,
-      "name": "serperior",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 528,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T01:37:31.882Z"
     }
   ],
   "pokemon": {
@@ -1543,10 +1544,10 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-20T14:49:09.319Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T14:49:09.319Z",
-      "lastPulledAt": "2026-09-20T14:49:09.319Z"
+      "lastPulledAt": "2026-10-25T12:44:12.449Z"
     },
     "465": {
       "id": 465,
