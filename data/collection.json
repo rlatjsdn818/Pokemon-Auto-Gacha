@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 230,
-  "updatedAt": "2026-10-25T19:22:37.195Z",
+  "totalPulls": 231,
+  "updatedAt": "2026-10-25T21:56:42.432Z",
   "lastPull": {
-    "id": 97,
-    "name": "hypno",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+    "id": 942,
+    "name": "maschiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
     "types": [
-      "psychic"
+      "dark"
     ],
-    "totalStats": 483,
-    "grade": "R",
-    "pulledAt": "2026-10-25T19:22:37.195Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-10-25T21:56:42.432Z"
   },
   "pulls": [
+    {
+      "id": 942,
+      "name": "maschiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-25T21:56:42.432Z"
+    },
     {
       "id": 97,
       "name": "hypno",
@@ -116,18 +127,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-24T17:36:58.792Z"
-    },
-    {
-      "id": 595,
-      "name": "joltik",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
-      "types": [
-        "bug",
-        "electric"
-      ],
-      "totalStats": 319,
-      "grade": "N",
-      "pulledAt": "2026-10-24T14:41:43.272Z"
     }
   ],
   "pokemon": {
@@ -2981,10 +2980,10 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-24T17:36:58.792Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T17:36:58.792Z",
-      "lastPulledAt": "2026-10-24T17:36:58.792Z"
+      "lastPulledAt": "2026-10-25T21:56:42.432Z"
     },
     "943": {
       "id": 943,
