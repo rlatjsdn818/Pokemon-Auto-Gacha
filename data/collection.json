@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 228,
-  "updatedAt": "2026-10-25T12:44:12.449Z",
+  "totalPulls": 229,
+  "updatedAt": "2026-10-25T16:50:22.020Z",
   "lastPull": {
-    "id": 461,
-    "name": "weavile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "id": 752,
+    "name": "araquanid",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
     "types": [
-      "dark",
-      "ice"
+      "water",
+      "bug"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T12:44:12.449Z"
+    "totalStats": 454,
+    "grade": "R",
+    "pulledAt": "2026-10-25T16:50:22.020Z"
   },
   "pulls": [
+    {
+      "id": 752,
+      "name": "araquanid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 454,
+      "grade": "R",
+      "pulledAt": "2026-10-25T16:50:22.020Z"
+    },
     {
       "id": 461,
       "name": "weavile",
@@ -118,18 +130,6 @@
       "totalStats": 349,
       "grade": "N",
       "pulledAt": "2026-10-24T11:20:41.692Z"
-    },
-    {
-      "id": 213,
-      "name": "shuckle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
-      "types": [
-        "bug",
-        "rock"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T06:25:14.788Z"
     }
   ],
   "pokemon": {
@@ -2286,10 +2286,10 @@
       "totalStats": 454,
       "grade": "R",
       "pulledAt": "2026-09-17T00:46:09.331Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:46:09.331Z",
-      "lastPulledAt": "2026-09-17T00:46:09.331Z"
+      "lastPulledAt": "2026-10-25T16:50:22.020Z"
     },
     "756": {
       "id": 756,
