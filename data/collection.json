@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 233,
-  "updatedAt": "2026-10-26T01:45:42.087Z",
+  "totalPulls": 234,
+  "updatedAt": "2026-10-26T07:01:15.495Z",
   "lastPull": {
-    "id": 456,
-    "name": "finneon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
+    "id": 918,
+    "name": "spidops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
     "types": [
-      "water"
+      "bug"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-26T01:45:42.087Z"
+    "totalStats": 404,
+    "grade": "R",
+    "pulledAt": "2026-10-26T07:01:15.495Z"
   },
   "pulls": [
+    {
+      "id": 918,
+      "name": "spidops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 404,
+      "grade": "R",
+      "pulledAt": "2026-10-26T07:01:15.495Z"
+    },
     {
       "id": 456,
       "name": "finneon",
@@ -116,17 +127,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-24T23:51:56.507Z"
-    },
-    {
-      "id": 467,
-      "name": "magmortar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T21:55:22.127Z"
     }
   ],
   "pokemon": {
@@ -2923,6 +2923,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T20:44:52.699Z",
       "lastPulledAt": "2026-10-22T20:44:52.699Z"
+    },
+    "918": {
+      "id": 918,
+      "name": "spidops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 404,
+      "grade": "R",
+      "pulledAt": "2026-10-26T07:01:15.495Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T07:01:15.495Z",
+      "lastPulledAt": "2026-10-26T07:01:15.495Z"
     },
     "921": {
       "id": 921,
