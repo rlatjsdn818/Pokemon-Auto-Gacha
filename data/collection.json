@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 235,
-  "updatedAt": "2026-10-26T14:08:02.559Z",
+  "totalPulls": 236,
+  "updatedAt": "2026-10-26T19:52:56.100Z",
   "lastPull": {
-    "id": 85,
-    "name": "dodrio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+    "id": 309,
+    "name": "electrike",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
     "types": [
-      "normal",
-      "flying"
+      "electric"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-10-26T14:08:02.559Z"
+    "totalStats": 295,
+    "grade": "N",
+    "pulledAt": "2026-10-26T19:52:56.100Z"
   },
   "pulls": [
+    {
+      "id": 309,
+      "name": "electrike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-26T19:52:56.100Z"
+    },
     {
       "id": 85,
       "name": "dodrio",
@@ -117,18 +127,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-10-25T07:36:22.927Z"
-    },
-    {
-      "id": 638,
-      "name": "cobalion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
-      "types": [
-        "steel",
-        "fighting"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-25T02:13:48.541Z"
     }
   ],
   "pokemon": {
@@ -1048,6 +1046,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T06:48:06.551Z",
       "lastPulledAt": "2026-10-22T06:48:06.551Z"
+    },
+    "309": {
+      "id": 309,
+      "name": "electrike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-26T19:52:56.100Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T19:52:56.100Z",
+      "lastPulledAt": "2026-10-26T19:52:56.100Z"
     },
     "312": {
       "id": 312,
