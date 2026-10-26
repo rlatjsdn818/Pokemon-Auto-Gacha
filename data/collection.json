@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 234,
-  "updatedAt": "2026-10-26T07:01:15.495Z",
+  "totalPulls": 235,
+  "updatedAt": "2026-10-26T14:08:02.559Z",
   "lastPull": {
-    "id": 918,
-    "name": "spidops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+    "id": 85,
+    "name": "dodrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
     "types": [
-      "bug"
+      "normal",
+      "flying"
     ],
-    "totalStats": 404,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-10-26T07:01:15.495Z"
+    "pulledAt": "2026-10-26T14:08:02.559Z"
   },
   "pulls": [
+    {
+      "id": 85,
+      "name": "dodrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-26T14:08:02.559Z"
+    },
     {
       "id": 918,
       "name": "spidops",
@@ -116,17 +129,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-25T02:13:48.541Z"
-    },
-    {
-      "id": 254,
-      "name": "sceptile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T23:51:56.507Z"
     }
   ],
   "pokemon": {
@@ -362,6 +364,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T17:33:57.050Z",
       "lastPulledAt": "2026-10-23T06:42:26.639Z"
+    },
+    "85": {
+      "id": 85,
+      "name": "dodrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-26T14:08:02.559Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T14:08:02.559Z",
+      "lastPulledAt": "2026-10-26T14:08:02.559Z"
     },
     "86": {
       "id": 86,
