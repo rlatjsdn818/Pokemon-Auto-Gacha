@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 241,
-  "updatedAt": "2026-10-27T18:59:52.594Z",
+  "totalPulls": 242,
+  "updatedAt": "2026-10-27T22:52:40.583Z",
   "lastPull": {
-    "id": 62,
-    "name": "poliwrath",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "id": 814,
+    "name": "raboot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
     "types": [
-      "water",
-      "fighting"
+      "fire"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-27T18:59:52.594Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-27T22:52:40.583Z"
   },
   "pulls": [
+    {
+      "id": 814,
+      "name": "raboot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-27T22:52:40.583Z"
+    },
     {
       "id": 62,
       "name": "poliwrath",
@@ -118,17 +128,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-26T01:45:42.087Z"
-    },
-    {
-      "id": 481,
-      "name": "mesprit",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-25T23:42:37.906Z"
     }
   ],
   "pokemon": {
@@ -2662,6 +2661,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:52:44.106Z",
       "lastPulledAt": "2026-09-20T21:52:44.106Z"
+    },
+    "814": {
+      "id": 814,
+      "name": "raboot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-27T22:52:40.583Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T22:52:40.583Z",
+      "lastPulledAt": "2026-10-27T22:52:40.583Z"
     },
     "820": {
       "id": 820,
