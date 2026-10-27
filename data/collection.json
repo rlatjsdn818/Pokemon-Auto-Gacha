@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 238,
-  "updatedAt": "2026-10-27T02:15:37.785Z",
+  "totalPulls": 239,
+  "updatedAt": "2026-10-27T07:54:38.056Z",
   "lastPull": {
-    "id": 769,
-    "name": "sandygast",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
+    "id": 370,
+    "name": "luvdisc",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
     "types": [
-      "ghost",
-      "ground"
+      "water"
     ],
-    "totalStats": 320,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-10-27T02:15:37.785Z"
+    "pulledAt": "2026-10-27T07:54:38.056Z"
   },
   "pulls": [
+    {
+      "id": 370,
+      "name": "luvdisc",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-27T07:54:38.056Z"
+    },
     {
       "id": 769,
       "name": "sandygast",
@@ -116,18 +126,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-10-25T19:22:37.195Z"
-    },
-    {
-      "id": 752,
-      "name": "araquanid",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
-      "types": [
-        "water",
-        "bug"
-      ],
-      "totalStats": 454,
-      "grade": "R",
-      "pulledAt": "2026-10-25T16:50:22.020Z"
     }
   ],
   "pokemon": {
@@ -1249,6 +1247,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:03:38.840Z",
       "lastPulledAt": "2026-09-19T19:03:38.840Z"
+    },
+    "370": {
+      "id": 370,
+      "name": "luvdisc",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-27T07:54:38.056Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T07:54:38.056Z",
+      "lastPulledAt": "2026-10-27T07:54:38.056Z"
     },
     "373": {
       "id": 373,
