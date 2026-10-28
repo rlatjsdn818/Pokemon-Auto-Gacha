@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 246,
-  "updatedAt": "2026-10-28T19:49:09.254Z",
+  "totalPulls": 247,
+  "updatedAt": "2026-10-28T23:38:12.431Z",
   "lastPull": {
-    "id": 355,
-    "name": "duskull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "id": 278,
+    "name": "wingull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
     "types": [
-      "ghost"
+      "water",
+      "flying"
     ],
-    "totalStats": 295,
+    "totalStats": 270,
     "grade": "N",
-    "pulledAt": "2026-10-28T19:49:09.254Z"
+    "pulledAt": "2026-10-28T23:38:12.431Z"
   },
   "pulls": [
+    {
+      "id": 278,
+      "name": "wingull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-28T23:38:12.431Z"
+    },
     {
       "id": 355,
       "name": "duskull",
@@ -117,18 +130,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-27T02:15:37.785Z"
-    },
-    {
-      "id": 47,
-      "name": "parasect",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-26T23:27:05.449Z"
     }
   ],
   "pokemon": {
@@ -1034,6 +1035,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T06:23:05.133Z",
       "lastPulledAt": "2026-10-04T06:23:05.133Z"
+    },
+    "278": {
+      "id": 278,
+      "name": "wingull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-28T23:38:12.431Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T23:38:12.431Z",
+      "lastPulledAt": "2026-10-28T23:38:12.431Z"
     },
     "279": {
       "id": 279,
