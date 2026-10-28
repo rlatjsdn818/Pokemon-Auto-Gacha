@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 242,
-  "updatedAt": "2026-10-27T22:52:40.583Z",
+  "totalPulls": 243,
+  "updatedAt": "2026-10-28T01:54:25.538Z",
   "lastPull": {
-    "id": 814,
-    "name": "raboot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "id": 319,
+    "name": "sharpedo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
     "types": [
-      "fire"
+      "water",
+      "dark"
     ],
-    "totalStats": 420,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-10-27T22:52:40.583Z"
+    "pulledAt": "2026-10-28T01:54:25.538Z"
   },
   "pulls": [
+    {
+      "id": 319,
+      "name": "sharpedo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-28T01:54:25.538Z"
+    },
     {
       "id": 814,
       "name": "raboot",
@@ -117,17 +130,6 @@
       "totalStats": 404,
       "grade": "R",
       "pulledAt": "2026-10-26T07:01:15.495Z"
-    },
-    {
-      "id": 456,
-      "name": "finneon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-26T01:45:42.087Z"
     }
   ],
   "pokemon": {
@@ -1136,10 +1138,10 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-10-19T13:25:53.346Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T13:25:53.346Z",
-      "lastPulledAt": "2026-10-19T13:25:53.346Z"
+      "lastPulledAt": "2026-10-28T01:54:25.538Z"
     },
     "322": {
       "id": 322,
