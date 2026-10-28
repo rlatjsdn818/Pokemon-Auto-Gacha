@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 244,
-  "updatedAt": "2026-10-28T07:42:25.906Z",
+  "totalPulls": 245,
+  "updatedAt": "2026-10-28T14:31:39.923Z",
   "lastPull": {
-    "id": 723,
-    "name": "dartrix",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+    "id": 196,
+    "name": "espeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
     "types": [
-      "grass",
-      "flying"
+      "psychic"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-28T07:42:25.906Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-28T14:31:39.923Z"
   },
   "pulls": [
+    {
+      "id": 196,
+      "name": "espeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T14:31:39.923Z"
+    },
     {
       "id": 723,
       "name": "dartrix",
@@ -119,18 +129,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-10-26T19:52:56.100Z"
-    },
-    {
-      "id": 85,
-      "name": "dodrio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-26T14:08:02.559Z"
     }
   ],
   "pokemon": {
@@ -726,6 +724,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:16:26.852Z",
       "lastPulledAt": "2026-09-22T06:16:26.852Z"
+    },
+    "196": {
+      "id": 196,
+      "name": "espeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T14:31:39.923Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T14:31:39.923Z",
+      "lastPulledAt": "2026-10-28T14:31:39.923Z"
     },
     "199": {
       "id": 199,
