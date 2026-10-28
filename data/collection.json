@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 245,
-  "updatedAt": "2026-10-28T14:31:39.923Z",
+  "totalPulls": 246,
+  "updatedAt": "2026-10-28T19:49:09.254Z",
   "lastPull": {
-    "id": 196,
-    "name": "espeon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "id": 355,
+    "name": "duskull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
     "types": [
-      "psychic"
+      "ghost"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-28T14:31:39.923Z"
+    "totalStats": 295,
+    "grade": "N",
+    "pulledAt": "2026-10-28T19:49:09.254Z"
   },
   "pulls": [
+    {
+      "id": 355,
+      "name": "duskull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-28T19:49:09.254Z"
+    },
     {
       "id": 196,
       "name": "espeon",
@@ -118,17 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-26T23:27:05.449Z"
-    },
-    {
-      "id": 309,
-      "name": "electrike",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-10-26T19:52:56.100Z"
     }
   ],
   "pokemon": {
@@ -1246,10 +1246,10 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-09-29T05:55:15.051Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T05:55:15.051Z",
-      "lastPulledAt": "2026-09-29T05:55:15.051Z"
+      "lastPulledAt": "2026-10-28T19:49:09.254Z"
     },
     "363": {
       "id": 363,
