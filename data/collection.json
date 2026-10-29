@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 250,
-  "updatedAt": "2026-10-29T15:49:29.846Z",
+  "totalPulls": 251,
+  "updatedAt": "2026-10-29T20:40:32.456Z",
   "lastPull": {
-    "id": 191,
-    "name": "sunkern",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+    "id": 333,
+    "name": "swablu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
     "types": [
-      "grass"
+      "normal",
+      "flying"
     ],
-    "totalStats": 180,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-10-29T15:49:29.846Z"
+    "pulledAt": "2026-10-29T20:40:32.456Z"
   },
   "pulls": [
+    {
+      "id": 333,
+      "name": "swablu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-29T20:40:32.456Z"
+    },
     {
       "id": 191,
       "name": "sunkern",
@@ -117,18 +130,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-27T22:52:40.583Z"
-    },
-    {
-      "id": 62,
-      "name": "poliwrath",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-27T18:59:52.594Z"
     }
   ],
   "pokemon": {
@@ -1219,6 +1220,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:28:48.402Z",
       "lastPulledAt": "2026-09-17T05:28:48.402Z"
+    },
+    "333": {
+      "id": 333,
+      "name": "swablu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-29T20:40:32.456Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T20:40:32.456Z",
+      "lastPulledAt": "2026-10-29T20:40:32.456Z"
     },
     "340": {
       "id": 340,
