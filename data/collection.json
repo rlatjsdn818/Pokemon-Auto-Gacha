@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 255,
-  "updatedAt": "2026-10-30T18:14:38.469Z",
+  "totalPulls": 256,
+  "updatedAt": "2026-10-30T22:22:43.653Z",
   "lastPull": {
-    "id": 55,
-    "name": "golduck",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "id": 651,
+    "name": "quilladin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
     "types": [
-      "water"
+      "grass"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-30T18:14:38.469Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-30T22:22:43.653Z"
   },
   "pulls": [
+    {
+      "id": 651,
+      "name": "quilladin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-30T22:22:43.653Z"
+    },
     {
       "id": 55,
       "name": "golduck",
@@ -117,17 +128,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-28T23:38:12.431Z"
-    },
-    {
-      "id": 355,
-      "name": "duskull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-10-28T19:49:09.254Z"
     }
   ],
   "pokemon": {
@@ -2282,10 +2282,10 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-02T19:39:08.660Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T19:39:08.660Z",
-      "lastPulledAt": "2026-10-02T19:39:08.660Z"
+      "lastPulledAt": "2026-10-30T22:22:43.653Z"
     },
     "653": {
       "id": 653,
