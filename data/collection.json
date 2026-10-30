@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 254,
-  "updatedAt": "2026-10-30T12:43:59.511Z",
+  "totalPulls": 255,
+  "updatedAt": "2026-10-30T18:14:38.469Z",
   "lastPull": {
-    "id": 1016,
-    "name": "fezandipiti",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
+    "id": 55,
+    "name": "golduck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
     "types": [
-      "poison",
-      "fairy"
+      "water"
     ],
-    "totalStats": 555,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-10-30T12:43:59.511Z"
+    "pulledAt": "2026-10-30T18:14:38.469Z"
   },
   "pulls": [
+    {
+      "id": 55,
+      "name": "golduck",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T18:14:38.469Z"
+    },
     {
       "id": 1016,
       "name": "fezandipiti",
@@ -118,17 +128,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-10-28T19:49:09.254Z"
-    },
-    {
-      "id": 196,
-      "name": "espeon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-28T14:31:39.923Z"
     }
   ],
   "pokemon": {
@@ -350,6 +349,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T23:27:05.449Z",
       "lastPulledAt": "2026-10-26T23:27:05.449Z"
+    },
+    "55": {
+      "id": 55,
+      "name": "golduck",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T18:14:38.469Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T18:14:38.469Z",
+      "lastPulledAt": "2026-10-30T18:14:38.469Z"
     },
     "62": {
       "id": 62,
