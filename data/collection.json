@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 256,
-  "updatedAt": "2026-10-30T22:22:43.653Z",
+  "totalPulls": 257,
+  "updatedAt": "2026-10-31T01:41:23.011Z",
   "lastPull": {
-    "id": 651,
-    "name": "quilladin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+    "id": 595,
+    "name": "joltik",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
     "types": [
-      "grass"
+      "bug",
+      "electric"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-30T22:22:43.653Z"
+    "totalStats": 319,
+    "grade": "N",
+    "pulledAt": "2026-10-31T01:41:23.011Z"
   },
   "pulls": [
+    {
+      "id": 595,
+      "name": "joltik",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "totalStats": 319,
+      "grade": "N",
+      "pulledAt": "2026-10-31T01:41:23.011Z"
+    },
     {
       "id": 651,
       "name": "quilladin",
@@ -116,18 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-29T02:48:46.635Z"
-    },
-    {
-      "id": 278,
-      "name": "wingull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-28T23:38:12.431Z"
     }
   ],
   "pokemon": {
@@ -2095,10 +2096,10 @@
       "totalStats": 319,
       "grade": "N",
       "pulledAt": "2026-10-24T14:41:43.272Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T14:41:43.272Z",
-      "lastPulledAt": "2026-10-24T14:41:43.272Z"
+      "lastPulledAt": "2026-10-31T01:41:23.011Z"
     },
     "597": {
       "id": 597,
