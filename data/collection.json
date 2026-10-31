@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 258,
-  "updatedAt": "2026-10-31T07:31:19.044Z",
+  "totalPulls": 259,
+  "updatedAt": "2026-10-31T13:49:26.639Z",
   "lastPull": {
-    "id": 237,
-    "name": "hitmontop",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+    "id": 394,
+    "name": "prinplup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
     "types": [
-      "fighting"
+      "water"
     ],
-    "totalStats": 455,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-31T07:31:19.044Z"
+    "pulledAt": "2026-10-31T13:49:26.639Z"
   },
   "pulls": [
+    {
+      "id": 394,
+      "name": "prinplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-31T13:49:26.639Z"
+    },
     {
       "id": 237,
       "name": "hitmontop",
@@ -115,18 +126,6 @@
       "totalStats": 180,
       "grade": "N",
       "pulledAt": "2026-10-29T15:49:29.846Z"
-    },
-    {
-      "id": 597,
-      "name": "ferroseed",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
-      "types": [
-        "grass",
-        "steel"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-29T08:57:42.204Z"
     }
   ],
   "pokemon": {
@@ -1449,6 +1448,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T19:28:24.517Z",
       "lastPulledAt": "2026-10-03T19:28:24.517Z"
+    },
+    "394": {
+      "id": 394,
+      "name": "prinplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-31T13:49:26.639Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T13:49:26.639Z",
+      "lastPulledAt": "2026-10-31T13:49:26.639Z"
     },
     "397": {
       "id": 397,
