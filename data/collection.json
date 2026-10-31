@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 257,
-  "updatedAt": "2026-10-31T01:41:23.011Z",
+  "totalPulls": 258,
+  "updatedAt": "2026-10-31T07:31:19.044Z",
   "lastPull": {
-    "id": 595,
-    "name": "joltik",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+    "id": 237,
+    "name": "hitmontop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
     "types": [
-      "bug",
-      "electric"
+      "fighting"
     ],
-    "totalStats": 319,
-    "grade": "N",
-    "pulledAt": "2026-10-31T01:41:23.011Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-10-31T07:31:19.044Z"
   },
   "pulls": [
+    {
+      "id": 237,
+      "name": "hitmontop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-31T07:31:19.044Z"
+    },
     {
       "id": 595,
       "name": "joltik",
@@ -117,18 +127,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-29T08:57:42.204Z"
-    },
-    {
-      "id": 124,
-      "name": "jynx",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
-      "types": [
-        "ice",
-        "psychic"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-29T02:48:46.635Z"
     }
   ],
   "pokemon": {
@@ -968,10 +966,10 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-26T20:02:45.090Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T20:02:45.090Z",
-      "lastPulledAt": "2026-09-27T15:42:31.900Z"
+      "lastPulledAt": "2026-10-31T07:31:19.044Z"
     },
     "244": {
       "id": 244,
