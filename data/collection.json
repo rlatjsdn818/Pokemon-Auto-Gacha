@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 263,
-  "updatedAt": "2026-11-01T03:53:31.320Z",
+  "totalPulls": 264,
+  "updatedAt": "2026-11-01T10:53:30.083Z",
   "lastPull": {
-    "id": 742,
-    "name": "cutiefly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+    "id": 803,
+    "name": "poipole",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png",
     "types": [
-      "bug",
-      "fairy"
+      "poison"
     ],
-    "totalStats": 304,
-    "grade": "N",
-    "pulledAt": "2026-11-01T03:53:31.320Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-11-01T10:53:30.083Z"
   },
   "pulls": [
+    {
+      "id": 803,
+      "name": "poipole",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-01T10:53:30.083Z"
+    },
     {
       "id": 742,
       "name": "cutiefly",
@@ -117,18 +127,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-30T18:14:38.469Z"
-    },
-    {
-      "id": 1016,
-      "name": "fezandipiti",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
-      "types": [
-        "poison",
-        "fairy"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-10-30T12:43:59.511Z"
     }
   ],
   "pokemon": {
@@ -2802,6 +2800,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T13:38:55.115Z",
       "lastPulledAt": "2026-10-18T23:14:28.245Z"
+    },
+    "803": {
+      "id": 803,
+      "name": "poipole",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-01T10:53:30.083Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T10:53:30.083Z",
+      "lastPulledAt": "2026-11-01T10:53:30.083Z"
     },
     "804": {
       "id": 804,
