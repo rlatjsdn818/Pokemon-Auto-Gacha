@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 267,
-  "updatedAt": "2026-11-02T00:02:31.336Z",
+  "totalPulls": 268,
+  "updatedAt": "2026-11-02T05:50:56.390Z",
   "lastPull": {
-    "id": 834,
-    "name": "drednaw",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+    "id": 501,
+    "name": "oshawott",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
     "types": [
-      "water",
-      "rock"
+      "water"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-11-02T00:02:31.336Z"
+    "totalStats": 308,
+    "grade": "N",
+    "pulledAt": "2026-11-02T05:50:56.390Z"
   },
   "pulls": [
+    {
+      "id": 501,
+      "name": "oshawott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-11-02T05:50:56.390Z"
+    },
     {
       "id": 834,
       "name": "drednaw",
@@ -118,17 +128,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-31T13:49:26.639Z"
-    },
-    {
-      "id": 237,
-      "name": "hitmontop",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-31T07:31:19.044Z"
     }
   ],
   "pokemon": {
@@ -1868,6 +1867,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T07:43:57.298Z",
       "lastPulledAt": "2026-10-24T01:37:31.882Z"
+    },
+    "501": {
+      "id": 501,
+      "name": "oshawott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-11-02T05:50:56.390Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T05:50:56.390Z",
+      "lastPulledAt": "2026-11-02T05:50:56.390Z"
     },
     "506": {
       "id": 506,
