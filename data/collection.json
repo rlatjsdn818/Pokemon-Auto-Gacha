@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 269,
-  "updatedAt": "2026-11-02T14:09:03.836Z",
+  "totalPulls": 270,
+  "updatedAt": "2026-11-02T22:45:09.503Z",
   "lastPull": {
-    "id": 243,
-    "name": "raikou",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+    "id": 533,
+    "name": "gurdurr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
     "types": [
-      "electric"
+      "fighting"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-02T14:09:03.836Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-02T22:45:09.503Z"
   },
   "pulls": [
+    {
+      "id": 533,
+      "name": "gurdurr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-02T22:45:09.503Z"
+    },
     {
       "id": 243,
       "name": "raikou",
@@ -116,18 +127,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-31T20:58:41.715Z"
-    },
-    {
-      "id": 959,
-      "name": "tinkaton",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
-      "types": [
-        "fairy",
-        "steel"
-      ],
-      "totalStats": 506,
-      "grade": "SR",
-      "pulledAt": "2026-10-31T17:58:11.919Z"
     }
   ],
   "pokemon": {
@@ -1958,6 +1957,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T23:37:21.734Z",
       "lastPulledAt": "2026-10-22T23:37:21.734Z"
+    },
+    "533": {
+      "id": 533,
+      "name": "gurdurr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-02T22:45:09.503Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T22:45:09.503Z",
+      "lastPulledAt": "2026-11-02T22:45:09.503Z"
     },
     "545": {
       "id": 545,
