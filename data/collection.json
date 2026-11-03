@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 272,
-  "updatedAt": "2026-11-03T11:22:30.516Z",
+  "totalPulls": 273,
+  "updatedAt": "2026-11-03T18:31:33.543Z",
   "lastPull": {
-    "id": 942,
-    "name": "maschiff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+    "id": 166,
+    "name": "ledian",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
     "types": [
-      "dark"
+      "bug",
+      "flying"
     ],
-    "totalStats": 340,
+    "totalStats": 390,
     "grade": "N",
-    "pulledAt": "2026-11-03T11:22:30.516Z"
+    "pulledAt": "2026-11-03T18:31:33.543Z"
   },
   "pulls": [
+    {
+      "id": 166,
+      "name": "ledian",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-03T18:31:33.543Z"
+    },
     {
       "id": 942,
       "name": "maschiff",
@@ -114,18 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-01T10:53:30.083Z"
-    },
-    {
-      "id": 742,
-      "name": "cutiefly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
-      "types": [
-        "bug",
-        "fairy"
-      ],
-      "totalStats": 304,
-      "grade": "N",
-      "pulledAt": "2026-11-01T03:53:31.320Z"
     }
   ],
   "pokemon": {
@@ -674,6 +675,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:46:21.870Z",
       "lastPulledAt": "2026-10-14T17:23:24.049Z"
+    },
+    "166": {
+      "id": 166,
+      "name": "ledian",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-03T18:31:33.543Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T18:31:33.543Z",
+      "lastPulledAt": "2026-11-03T18:31:33.543Z"
     },
     "168": {
       "id": 168,
