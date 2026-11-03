@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 270,
-  "updatedAt": "2026-11-02T22:45:09.503Z",
+  "totalPulls": 271,
+  "updatedAt": "2026-11-03T03:43:19.694Z",
   "lastPull": {
-    "id": 533,
-    "name": "gurdurr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+    "id": 863,
+    "name": "perrserker",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
     "types": [
-      "fighting"
+      "steel"
     ],
-    "totalStats": 405,
+    "totalStats": 440,
     "grade": "R",
-    "pulledAt": "2026-11-02T22:45:09.503Z"
+    "pulledAt": "2026-11-03T03:43:19.694Z"
   },
   "pulls": [
+    {
+      "id": 863,
+      "name": "perrserker",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-03T03:43:19.694Z"
+    },
     {
       "id": 533,
       "name": "gurdurr",
@@ -115,18 +126,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-31T23:56:59.574Z"
-    },
-    {
-      "id": 841,
-      "name": "flapple",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-31T20:58:41.715Z"
     }
   ],
   "pokemon": {
@@ -3138,6 +3137,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T01:13:45.747Z",
       "lastPulledAt": "2026-10-05T01:13:45.747Z"
+    },
+    "863": {
+      "id": 863,
+      "name": "perrserker",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-03T03:43:19.694Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T03:43:19.694Z",
+      "lastPulledAt": "2026-11-03T03:43:19.694Z"
     },
     "866": {
       "id": 866,
