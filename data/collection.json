@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 271,
-  "updatedAt": "2026-11-03T03:43:19.694Z",
+  "totalPulls": 272,
+  "updatedAt": "2026-11-03T11:22:30.516Z",
   "lastPull": {
-    "id": 863,
-    "name": "perrserker",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+    "id": 942,
+    "name": "maschiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
     "types": [
-      "steel"
+      "dark"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-11-03T03:43:19.694Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-11-03T11:22:30.516Z"
   },
   "pulls": [
+    {
+      "id": 942,
+      "name": "maschiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-03T11:22:30.516Z"
+    },
     {
       "id": 863,
       "name": "perrserker",
@@ -115,17 +126,6 @@
       "totalStats": 304,
       "grade": "N",
       "pulledAt": "2026-11-01T03:53:31.320Z"
-    },
-    {
-      "id": 492,
-      "name": "shaymin-land",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-31T23:56:59.574Z"
     }
   ],
   "pokemon": {
@@ -3441,10 +3441,10 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-24T17:36:58.792Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T17:36:58.792Z",
-      "lastPulledAt": "2026-10-25T21:56:42.432Z"
+      "lastPulledAt": "2026-11-03T11:22:30.516Z"
     },
     "943": {
       "id": 943,
