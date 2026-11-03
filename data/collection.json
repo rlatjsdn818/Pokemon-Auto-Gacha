@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 273,
-  "updatedAt": "2026-11-03T18:31:33.543Z",
+  "totalPulls": 274,
+  "updatedAt": "2026-11-03T23:37:41.162Z",
   "lastPull": {
-    "id": 166,
-    "name": "ledian",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+    "id": 132,
+    "name": "ditto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
     "types": [
-      "bug",
-      "flying"
+      "normal"
     ],
-    "totalStats": 390,
+    "totalStats": 288,
     "grade": "N",
-    "pulledAt": "2026-11-03T18:31:33.543Z"
+    "pulledAt": "2026-11-03T23:37:41.162Z"
   },
   "pulls": [
+    {
+      "id": 132,
+      "name": "ditto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-03T23:37:41.162Z"
+    },
     {
       "id": 166,
       "name": "ledian",
@@ -116,17 +126,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-01T16:56:50.768Z"
-    },
-    {
-      "id": 803,
-      "name": "poipole",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-11-01T10:53:30.083Z"
     }
   ],
   "pokemon": {
@@ -580,6 +579,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T02:48:46.635Z",
       "lastPulledAt": "2026-10-29T02:48:46.635Z"
+    },
+    "132": {
+      "id": 132,
+      "name": "ditto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-03T23:37:41.162Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T23:37:41.162Z",
+      "lastPulledAt": "2026-11-03T23:37:41.162Z"
     },
     "139": {
       "id": 139,
