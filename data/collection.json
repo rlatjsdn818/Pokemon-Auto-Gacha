@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 275,
-  "updatedAt": "2026-11-04T03:12:24.436Z",
+  "totalPulls": 276,
+  "updatedAt": "2026-11-04T10:57:50.716Z",
   "lastPull": {
-    "id": 163,
-    "name": "hoothoot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+    "id": 300,
+    "name": "skitty",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
     "types": [
-      "normal",
-      "flying"
+      "normal"
     ],
-    "totalStats": 262,
+    "totalStats": 260,
     "grade": "N",
-    "pulledAt": "2026-11-04T03:12:24.436Z"
+    "pulledAt": "2026-11-04T10:57:50.716Z"
   },
   "pulls": [
+    {
+      "id": 300,
+      "name": "skitty",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-11-04T10:57:50.716Z"
+    },
     {
       "id": 163,
       "name": "hoothoot",
@@ -116,18 +126,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-02T00:02:31.336Z"
-    },
-    {
-      "id": 937,
-      "name": "ceruledge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
-      "types": [
-        "fire",
-        "ghost"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-01T20:55:27.126Z"
     }
   ],
   "pokemon": {
@@ -1218,6 +1216,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T06:48:06.551Z",
       "lastPulledAt": "2026-10-22T06:48:06.551Z"
+    },
+    "300": {
+      "id": 300,
+      "name": "skitty",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-11-04T10:57:50.716Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T10:57:50.716Z",
+      "lastPulledAt": "2026-11-04T10:57:50.716Z"
     },
     "309": {
       "id": 309,
