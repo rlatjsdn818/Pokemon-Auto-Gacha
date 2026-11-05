@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 280,
-  "updatedAt": "2026-11-05T12:13:42.774Z",
+  "totalPulls": 281,
+  "updatedAt": "2026-11-05T19:58:14.014Z",
   "lastPull": {
-    "id": 461,
-    "name": "weavile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "id": 16,
+    "name": "pidgey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
     "types": [
-      "dark",
-      "ice"
+      "normal",
+      "flying"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-11-05T12:13:42.774Z"
+    "totalStats": 251,
+    "grade": "N",
+    "pulledAt": "2026-11-05T19:58:14.014Z"
   },
   "pulls": [
+    {
+      "id": 16,
+      "name": "pidgey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 251,
+      "grade": "N",
+      "pulledAt": "2026-11-05T19:58:14.014Z"
+    },
     {
       "id": 461,
       "name": "weavile",
@@ -117,17 +129,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-11-03T11:22:30.516Z"
-    },
-    {
-      "id": 863,
-      "name": "perrserker",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-11-03T03:43:19.694Z"
     }
   ],
   "pokemon": {
@@ -173,10 +174,10 @@
       "totalStats": 251,
       "grade": "N",
       "pulledAt": "2026-09-22T11:43:48.628Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T11:43:48.628Z",
-      "lastPulledAt": "2026-09-22T11:43:48.628Z"
+      "lastPulledAt": "2026-11-05T19:58:14.014Z"
     },
     "17": {
       "id": 17,
