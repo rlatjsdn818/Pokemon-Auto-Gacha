@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 283,
-  "updatedAt": "2026-11-06T07:25:41.328Z",
+  "totalPulls": 284,
+  "updatedAt": "2026-11-06T15:13:47.656Z",
   "lastPull": {
-    "id": 100,
-    "name": "voltorb",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "id": 97,
+    "name": "hypno",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
     "types": [
-      "electric"
+      "psychic"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-11-06T07:25:41.328Z"
+    "totalStats": 483,
+    "grade": "R",
+    "pulledAt": "2026-11-06T15:13:47.656Z"
   },
   "pulls": [
+    {
+      "id": 97,
+      "name": "hypno",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-11-06T15:13:47.656Z"
+    },
     {
       "id": 100,
       "name": "voltorb",
@@ -117,17 +128,6 @@
       "totalStats": 262,
       "grade": "N",
       "pulledAt": "2026-11-04T03:12:24.436Z"
-    },
-    {
-      "id": 132,
-      "name": "ditto",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 288,
-      "grade": "N",
-      "pulledAt": "2026-11-03T23:37:41.162Z"
     }
   ],
   "pokemon": {
@@ -467,10 +467,10 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-10-25T19:22:37.195Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T19:22:37.195Z",
-      "lastPulledAt": "2026-10-25T19:22:37.195Z"
+      "lastPulledAt": "2026-11-06T15:13:47.656Z"
     },
     "99": {
       "id": 99,
