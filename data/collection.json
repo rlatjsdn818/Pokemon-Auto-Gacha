@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 284,
-  "updatedAt": "2026-11-06T15:13:47.656Z",
+  "totalPulls": 285,
+  "updatedAt": "2026-11-06T20:54:44.704Z",
   "lastPull": {
-    "id": 97,
-    "name": "hypno",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+    "id": 605,
+    "name": "elgyem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
     "types": [
       "psychic"
     ],
-    "totalStats": 483,
-    "grade": "R",
-    "pulledAt": "2026-11-06T15:13:47.656Z"
+    "totalStats": 335,
+    "grade": "N",
+    "pulledAt": "2026-11-06T20:54:44.704Z"
   },
   "pulls": [
+    {
+      "id": 605,
+      "name": "elgyem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-11-06T20:54:44.704Z"
+    },
     {
       "id": 97,
       "name": "hypno",
@@ -116,18 +127,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-11-04T10:57:50.716Z"
-    },
-    {
-      "id": 163,
-      "name": "hoothoot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 262,
-      "grade": "N",
-      "pulledAt": "2026-11-04T03:12:24.436Z"
     }
   ],
   "pokemon": {
@@ -2298,6 +2297,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T08:57:42.204Z",
       "lastPulledAt": "2026-10-29T08:57:42.204Z"
+    },
+    "605": {
+      "id": 605,
+      "name": "elgyem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-11-06T20:54:44.704Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T20:54:44.704Z",
+      "lastPulledAt": "2026-11-06T20:54:44.704Z"
     },
     "607": {
       "id": 607,
