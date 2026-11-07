@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 286,
-  "updatedAt": "2026-11-07T00:30:00.797Z",
+  "totalPulls": 287,
+  "updatedAt": "2026-11-07T06:25:46.853Z",
   "lastPull": {
-    "id": 177,
-    "name": "natu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+    "id": 727,
+    "name": "incineroar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
     "types": [
-      "psychic",
-      "flying"
+      "fire",
+      "dark"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-11-07T00:30:00.797Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-07T06:25:46.853Z"
   },
   "pulls": [
+    {
+      "id": 727,
+      "name": "incineroar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
+      "types": [
+        "fire",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T06:25:46.853Z"
+    },
     {
       "id": 177,
       "name": "natu",
@@ -117,18 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-04T23:50:31.007Z"
-    },
-    {
-      "id": 581,
-      "name": "swanna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 473,
-      "grade": "R",
-      "pulledAt": "2026-11-04T18:26:41.214Z"
     }
   ],
   "pokemon": {
@@ -2673,6 +2673,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T07:42:25.906Z",
       "lastPulledAt": "2026-10-28T07:42:25.906Z"
+    },
+    "727": {
+      "id": 727,
+      "name": "incineroar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
+      "types": [
+        "fire",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T06:25:46.853Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T06:25:46.853Z",
+      "lastPulledAt": "2026-11-07T06:25:46.853Z"
     },
     "728": {
       "id": 728,
