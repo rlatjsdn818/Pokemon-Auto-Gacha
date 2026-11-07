@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 288,
-  "updatedAt": "2026-11-07T13:22:20.264Z",
+  "totalPulls": 289,
+  "updatedAt": "2026-11-07T18:07:40.985Z",
   "lastPull": {
-    "id": 925,
-    "name": "maushold-family-of-four",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+    "id": 884,
+    "name": "duraludon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
     "types": [
-      "normal"
+      "steel",
+      "dragon"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-11-07T13:22:20.264Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-11-07T18:07:40.985Z"
   },
   "pulls": [
+    {
+      "id": 884,
+      "name": "duraludon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T18:07:40.985Z"
+    },
     {
       "id": 925,
       "name": "maushold-family-of-four",
@@ -117,17 +130,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-05T12:13:42.774Z"
-    },
-    {
-      "id": 285,
-      "name": "shroomish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-11-05T04:09:25.396Z"
     }
   ],
   "pokemon": {
@@ -3356,6 +3358,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:13:44.804Z",
       "lastPulledAt": "2026-09-20T01:13:44.804Z"
+    },
+    "884": {
+      "id": 884,
+      "name": "duraludon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T18:07:40.985Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T18:07:40.985Z",
+      "lastPulledAt": "2026-11-07T18:07:40.985Z"
     },
     "890": {
       "id": 890,
