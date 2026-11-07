@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 285,
-  "updatedAt": "2026-11-06T20:54:44.704Z",
+  "totalPulls": 286,
+  "updatedAt": "2026-11-07T00:30:00.797Z",
   "lastPull": {
-    "id": 605,
-    "name": "elgyem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+    "id": 177,
+    "name": "natu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
     "types": [
-      "psychic"
+      "psychic",
+      "flying"
     ],
-    "totalStats": 335,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-11-06T20:54:44.704Z"
+    "pulledAt": "2026-11-07T00:30:00.797Z"
   },
   "pulls": [
+    {
+      "id": 177,
+      "name": "natu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-07T00:30:00.797Z"
+    },
     {
       "id": 605,
       "name": "elgyem",
@@ -116,17 +129,6 @@
       "totalStats": 473,
       "grade": "R",
       "pulledAt": "2026-11-04T18:26:41.214Z"
-    },
-    {
-      "id": 300,
-      "name": "skitty",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 260,
-      "grade": "N",
-      "pulledAt": "2026-11-04T10:57:50.716Z"
     }
   ],
   "pokemon": {
@@ -796,10 +798,10 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-22T01:50:30.431Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T01:50:30.431Z",
-      "lastPulledAt": "2026-10-22T01:50:30.431Z"
+      "lastPulledAt": "2026-11-07T00:30:00.797Z"
     },
     "190": {
       "id": 190,
