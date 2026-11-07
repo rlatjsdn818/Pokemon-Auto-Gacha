@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 287,
-  "updatedAt": "2026-11-07T06:25:46.853Z",
+  "totalPulls": 288,
+  "updatedAt": "2026-11-07T13:22:20.264Z",
   "lastPull": {
-    "id": 727,
-    "name": "incineroar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
+    "id": 925,
+    "name": "maushold-family-of-four",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
     "types": [
-      "fire",
-      "dark"
+      "normal"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-07T06:25:46.853Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-11-07T13:22:20.264Z"
   },
   "pulls": [
+    {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-07T13:22:20.264Z"
+    },
     {
       "id": 727,
       "name": "incineroar",
@@ -118,17 +128,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-11-05T04:09:25.396Z"
-    },
-    {
-      "id": 56,
-      "name": "mankey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-04T23:50:31.007Z"
     }
   ],
   "pokemon": {
@@ -3511,6 +3510,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-06T00:43:47.199Z",
       "lastPulledAt": "2026-11-06T00:43:47.199Z"
+    },
+    "925": {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-07T13:22:20.264Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T13:22:20.264Z",
+      "lastPulledAt": "2026-11-07T13:22:20.264Z"
     },
     "926": {
       "id": 926,
