@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 292,
-  "updatedAt": "2026-11-08T06:49:13.077Z",
+  "totalPulls": 293,
+  "updatedAt": "2026-11-08T13:54:34.377Z",
   "lastPull": {
-    "id": 693,
-    "name": "clawitzer",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+    "id": 216,
+    "name": "teddiursa",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T06:49:13.077Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-11-08T13:54:34.377Z"
   },
   "pulls": [
+    {
+      "id": 216,
+      "name": "teddiursa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-08T13:54:34.377Z"
+    },
     {
       "id": 693,
       "name": "clawitzer",
@@ -115,17 +126,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-11-06T15:13:47.656Z"
-    },
-    {
-      "id": 100,
-      "name": "voltorb",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-11-06T07:25:41.328Z"
     }
   ],
   "pokemon": {
@@ -954,6 +954,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T22:55:53.027Z",
       "lastPulledAt": "2026-10-17T22:55:53.027Z"
+    },
+    "216": {
+      "id": 216,
+      "name": "teddiursa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-08T13:54:34.377Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T13:54:34.377Z",
+      "lastPulledAt": "2026-11-08T13:54:34.377Z"
     },
     "226": {
       "id": 226,
