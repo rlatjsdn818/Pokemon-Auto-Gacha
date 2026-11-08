@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 294,
-  "updatedAt": "2026-11-08T18:34:30.117Z",
+  "totalPulls": 295,
+  "updatedAt": "2026-11-08T22:25:21.594Z",
   "lastPull": {
-    "id": 31,
-    "name": "nidoqueen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "id": 313,
+    "name": "volbeat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
     "types": [
-      "poison",
-      "ground"
+      "bug"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T18:34:30.117Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-11-08T22:25:21.594Z"
   },
   "pulls": [
+    {
+      "id": 313,
+      "name": "volbeat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-08T22:25:21.594Z"
+    },
     {
       "id": 31,
       "name": "nidoqueen",
@@ -117,17 +127,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-11-07T00:30:00.797Z"
-    },
-    {
-      "id": 605,
-      "name": "elgyem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-11-06T20:54:44.704Z"
     }
   ],
   "pokemon": {
@@ -1324,6 +1323,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T09:53:46.208Z",
       "lastPulledAt": "2026-09-23T09:53:46.208Z"
+    },
+    "313": {
+      "id": 313,
+      "name": "volbeat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-08T22:25:21.594Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T22:25:21.594Z",
+      "lastPulledAt": "2026-11-08T22:25:21.594Z"
     },
     "317": {
       "id": 317,
