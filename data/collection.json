@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 297,
-  "updatedAt": "2026-11-09T08:42:06.165Z",
+  "totalPulls": 298,
+  "updatedAt": "2026-11-09T19:11:33.203Z",
   "lastPull": {
-    "id": 845,
-    "name": "cramorant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+    "id": 1005,
+    "name": "roaring-moon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
     "types": [
-      "flying",
-      "water"
+      "dragon",
+      "dark"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-11-09T08:42:06.165Z"
+    "totalStats": 590,
+    "grade": "SR",
+    "pulledAt": "2026-11-09T19:11:33.203Z"
   },
   "pulls": [
+    {
+      "id": 1005,
+      "name": "roaring-moon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
+      "types": [
+        "dragon",
+        "dark"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T19:11:33.203Z"
+    },
     {
       "id": 845,
       "name": "cramorant",
@@ -116,17 +128,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-11-07T18:07:40.985Z"
-    },
-    {
-      "id": 925,
-      "name": "maushold-family-of-four",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-07T13:22:20.264Z"
     }
   ],
   "pokemon": {
@@ -3956,6 +3957,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:12:38.714Z",
       "lastPulledAt": "2026-10-23T12:09:36.721Z"
+    },
+    "1005": {
+      "id": 1005,
+      "name": "roaring-moon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
+      "types": [
+        "dragon",
+        "dark"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T19:11:33.203Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T19:11:33.203Z",
+      "lastPulledAt": "2026-11-09T19:11:33.203Z"
     },
     "1013": {
       "id": 1013,
