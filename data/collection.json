@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 296,
-  "updatedAt": "2026-11-09T01:47:35.648Z",
+  "totalPulls": 297,
+  "updatedAt": "2026-11-09T08:42:06.165Z",
   "lastPull": {
-    "id": 182,
-    "name": "bellossom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+    "id": 845,
+    "name": "cramorant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
     "types": [
-      "grass"
+      "flying",
+      "water"
     ],
-    "totalStats": 490,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-11-09T01:47:35.648Z"
+    "pulledAt": "2026-11-09T08:42:06.165Z"
   },
   "pulls": [
+    {
+      "id": 845,
+      "name": "cramorant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-09T08:42:06.165Z"
+    },
     {
       "id": 182,
       "name": "bellossom",
@@ -114,18 +127,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-07T13:22:20.264Z"
-    },
-    {
-      "id": 727,
-      "name": "incineroar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
-      "types": [
-        "fire",
-        "dark"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T06:25:46.853Z"
     }
   ],
   "pokemon": {
@@ -3331,10 +3332,10 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-19T10:06:02.679Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T10:06:02.679Z",
-      "lastPulledAt": "2026-09-19T10:06:02.679Z"
+      "lastPulledAt": "2026-11-09T08:42:06.165Z"
     },
     "856": {
       "id": 856,
