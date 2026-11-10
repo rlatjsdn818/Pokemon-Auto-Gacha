@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 298,
-  "updatedAt": "2026-11-09T19:11:33.203Z",
+  "totalPulls": 299,
+  "updatedAt": "2026-11-10T02:09:54.715Z",
   "lastPull": {
-    "id": 1005,
-    "name": "roaring-moon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
+    "id": 1024,
+    "name": "terapagos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
     "types": [
-      "dragon",
-      "dark"
+      "normal"
     ],
-    "totalStats": 590,
-    "grade": "SR",
-    "pulledAt": "2026-11-09T19:11:33.203Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-11-10T02:09:54.715Z"
   },
   "pulls": [
+    {
+      "id": 1024,
+      "name": "terapagos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-10T02:09:54.715Z"
+    },
     {
       "id": 1005,
       "name": "roaring-moon",
@@ -116,18 +126,6 @@
       "totalStats": 316,
       "grade": "N",
       "pulledAt": "2026-11-07T21:44:37.997Z"
-    },
-    {
-      "id": 884,
-      "name": "duraludon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
-      "types": [
-        "steel",
-        "dragon"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T18:07:40.985Z"
     }
   ],
   "pokemon": {
@@ -4036,6 +4034,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T06:39:21.041Z",
       "lastPulledAt": "2026-10-14T06:39:21.041Z"
+    },
+    "1024": {
+      "id": 1024,
+      "name": "terapagos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-10T02:09:54.715Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T02:09:54.715Z",
+      "lastPulledAt": "2026-11-10T02:09:54.715Z"
     }
   },
   "typeTotals": {
