@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 299,
-  "updatedAt": "2026-11-10T02:09:54.715Z",
+  "totalPulls": 300,
+  "updatedAt": "2026-11-10T09:42:17.758Z",
   "lastPull": {
-    "id": 1024,
-    "name": "terapagos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+    "id": 484,
+    "name": "palkia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
     "types": [
-      "normal"
+      "water",
+      "dragon"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-11-10T02:09:54.715Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-10T09:42:17.758Z"
   },
   "pulls": [
+    {
+      "id": 484,
+      "name": "palkia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-10T09:42:17.758Z"
+    },
     {
       "id": 1024,
       "name": "terapagos",
@@ -115,17 +128,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-11-08T00:55:20.402Z"
-    },
-    {
-      "id": 515,
-      "name": "panpour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 316,
-      "grade": "N",
-      "pulledAt": "2026-11-07T21:44:37.997Z"
     }
   ],
   "pokemon": {
@@ -2018,6 +2020,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T23:42:37.906Z",
       "lastPulledAt": "2026-10-25T23:42:37.906Z"
+    },
+    "484": {
+      "id": 484,
+      "name": "palkia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-10T09:42:17.758Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T09:42:17.758Z",
+      "lastPulledAt": "2026-11-10T09:42:17.758Z"
     },
     "492": {
       "id": 492,
