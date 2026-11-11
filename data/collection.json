@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 304,
-  "updatedAt": "2026-11-11T09:14:07.010Z",
+  "totalPulls": 305,
+  "updatedAt": "2026-11-11T17:09:31.979Z",
   "lastPull": {
-    "id": 654,
-    "name": "braixen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+    "id": 525,
+    "name": "boldore",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
     "types": [
-      "fire"
+      "rock"
     ],
-    "totalStats": 409,
-    "grade": "R",
-    "pulledAt": "2026-11-11T09:14:07.010Z"
+    "totalStats": 390,
+    "grade": "N",
+    "pulledAt": "2026-11-11T17:09:31.979Z"
   },
   "pulls": [
+    {
+      "id": 525,
+      "name": "boldore",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-11T17:09:31.979Z"
+    },
     {
       "id": 654,
       "name": "braixen",
@@ -115,17 +126,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-09T01:47:35.648Z"
-    },
-    {
-      "id": 313,
-      "name": "volbeat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-11-08T22:25:21.594Z"
     }
   ],
   "pokemon": {
@@ -2200,6 +2200,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T23:37:21.734Z",
       "lastPulledAt": "2026-10-22T23:37:21.734Z"
+    },
+    "525": {
+      "id": 525,
+      "name": "boldore",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-11T17:09:31.979Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T17:09:31.979Z",
+      "lastPulledAt": "2026-11-11T17:09:31.979Z"
     },
     "533": {
       "id": 533,
