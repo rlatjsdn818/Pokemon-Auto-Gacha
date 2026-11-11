@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 302,
-  "updatedAt": "2026-11-10T22:24:42.320Z",
+  "totalPulls": 303,
+  "updatedAt": "2026-11-11T02:01:25.688Z",
   "lastPull": {
-    "id": 265,
-    "name": "wurmple",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+    "id": 126,
+    "name": "magmar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
     "types": [
-      "bug"
+      "fire"
     ],
-    "totalStats": 195,
-    "grade": "N",
-    "pulledAt": "2026-11-10T22:24:42.320Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-11-11T02:01:25.688Z"
   },
   "pulls": [
+    {
+      "id": 126,
+      "name": "magmar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-11T02:01:25.688Z"
+    },
     {
       "id": 265,
       "name": "wurmple",
@@ -116,17 +127,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-08T18:34:30.117Z"
-    },
-    {
-      "id": 216,
-      "name": "teddiursa",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-11-08T13:54:34.377Z"
     }
   ],
   "pokemon": {
@@ -611,6 +611,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T02:48:46.635Z",
       "lastPulledAt": "2026-10-29T02:48:46.635Z"
+    },
+    "126": {
+      "id": 126,
+      "name": "magmar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-11T02:01:25.688Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T02:01:25.688Z",
+      "lastPulledAt": "2026-11-11T02:01:25.688Z"
     },
     "132": {
       "id": 132,
