@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 305,
-  "updatedAt": "2026-11-11T17:09:31.979Z",
+  "totalPulls": 306,
+  "updatedAt": "2026-11-11T23:26:40.364Z",
   "lastPull": {
-    "id": 525,
-    "name": "boldore",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+    "id": 1008,
+    "name": "miraidon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
     "types": [
-      "rock"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 390,
-    "grade": "N",
-    "pulledAt": "2026-11-11T17:09:31.979Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-11-11T23:26:40.364Z"
   },
   "pulls": [
+    {
+      "id": 1008,
+      "name": "miraidon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-11-11T23:26:40.364Z"
+    },
     {
       "id": 525,
       "name": "boldore",
@@ -115,17 +128,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-11-09T08:42:06.165Z"
-    },
-    {
-      "id": 182,
-      "name": "bellossom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-09T01:47:35.648Z"
     }
   ],
   "pokemon": {
@@ -4062,6 +4064,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-09T19:11:33.203Z",
       "lastPulledAt": "2026-11-09T19:11:33.203Z"
+    },
+    "1008": {
+      "id": 1008,
+      "name": "miraidon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-11-11T23:26:40.364Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T23:26:40.364Z",
+      "lastPulledAt": "2026-11-11T23:26:40.364Z"
     },
     "1013": {
       "id": 1013,
