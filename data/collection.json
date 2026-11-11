@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 303,
-  "updatedAt": "2026-11-11T02:01:25.688Z",
+  "totalPulls": 304,
+  "updatedAt": "2026-11-11T09:14:07.010Z",
   "lastPull": {
-    "id": 126,
-    "name": "magmar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "id": 654,
+    "name": "braixen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
     "types": [
       "fire"
     ],
-    "totalStats": 495,
+    "totalStats": 409,
     "grade": "R",
-    "pulledAt": "2026-11-11T02:01:25.688Z"
+    "pulledAt": "2026-11-11T09:14:07.010Z"
   },
   "pulls": [
+    {
+      "id": 654,
+      "name": "braixen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 409,
+      "grade": "R",
+      "pulledAt": "2026-11-11T09:14:07.010Z"
+    },
     {
       "id": 126,
       "name": "magmar",
@@ -115,18 +126,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-11-08T22:25:21.594Z"
-    },
-    {
-      "id": 31,
-      "name": "nidoqueen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
-      "types": [
-        "poison",
-        "ground"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T18:34:30.117Z"
     }
   ],
   "pokemon": {
@@ -2650,6 +2649,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T06:35:03.956Z",
       "lastPulledAt": "2026-09-18T06:35:03.956Z"
+    },
+    "654": {
+      "id": 654,
+      "name": "braixen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 409,
+      "grade": "R",
+      "pulledAt": "2026-11-11T09:14:07.010Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T09:14:07.010Z",
+      "lastPulledAt": "2026-11-11T09:14:07.010Z"
     },
     "655": {
       "id": 655,
