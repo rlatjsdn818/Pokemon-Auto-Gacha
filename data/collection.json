@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 307,
-  "updatedAt": "2026-11-12T03:58:49.266Z",
+  "totalPulls": 308,
+  "updatedAt": "2026-11-12T12:13:44.420Z",
   "lastPull": {
-    "id": 89,
-    "name": "muk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "id": 33,
+    "name": "nidorino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
     "types": [
       "poison"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-12T03:58:49.266Z"
+    "totalStats": 365,
+    "grade": "N",
+    "pulledAt": "2026-11-12T12:13:44.420Z"
   },
   "pulls": [
+    {
+      "id": 33,
+      "name": "nidorino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-11-12T12:13:44.420Z"
+    },
     {
       "id": 89,
       "name": "muk",
@@ -114,18 +125,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-11-10T02:09:54.715Z"
-    },
-    {
-      "id": 1005,
-      "name": "roaring-moon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
-      "types": [
-        "dragon",
-        "dark"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-11-09T19:11:33.203Z"
     }
   ],
   "pokemon": {
@@ -268,6 +267,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-08T18:34:30.117Z",
       "lastPulledAt": "2026-11-08T18:34:30.117Z"
+    },
+    "33": {
+      "id": 33,
+      "name": "nidorino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-11-12T12:13:44.420Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T12:13:44.420Z",
+      "lastPulledAt": "2026-11-12T12:13:44.420Z"
     },
     "34": {
       "id": 34,
