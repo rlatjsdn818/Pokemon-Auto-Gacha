@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 306,
-  "updatedAt": "2026-11-11T23:26:40.364Z",
+  "totalPulls": 307,
+  "updatedAt": "2026-11-12T03:58:49.266Z",
   "lastPull": {
-    "id": 1008,
-    "name": "miraidon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+    "id": 89,
+    "name": "muk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
     "types": [
-      "electric",
-      "dragon"
+      "poison"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-11-11T23:26:40.364Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-12T03:58:49.266Z"
   },
   "pulls": [
+    {
+      "id": 89,
+      "name": "muk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-12T03:58:49.266Z"
+    },
     {
       "id": 1008,
       "name": "miraidon",
@@ -116,18 +126,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-11-09T19:11:33.203Z"
-    },
-    {
-      "id": 845,
-      "name": "cramorant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
-      "types": [
-        "flying",
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-11-09T08:42:06.165Z"
     }
   ],
   "pokemon": {
@@ -472,6 +470,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T00:35:08.646Z",
       "lastPulledAt": "2026-09-23T00:35:08.646Z"
+    },
+    "89": {
+      "id": 89,
+      "name": "muk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-12T03:58:49.266Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T03:58:49.266Z",
+      "lastPulledAt": "2026-11-12T03:58:49.266Z"
     },
     "97": {
       "id": 97,
