@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 309,
-  "updatedAt": "2026-11-12T19:55:41.881Z",
+  "totalPulls": 310,
+  "updatedAt": "2026-11-13T00:48:25.981Z",
   "lastPull": {
-    "id": 774,
-    "name": "minior-red-meteor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "id": 914,
+    "name": "quaquaval",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
     "types": [
-      "rock",
-      "flying"
+      "water",
+      "fighting"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-11-12T19:55:41.881Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-13T00:48:25.981Z"
   },
   "pulls": [
+    {
+      "id": 914,
+      "name": "quaquaval",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T00:48:25.981Z"
+    },
     {
       "id": 774,
       "name": "minior-red-meteor",
@@ -115,18 +127,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-10T17:18:34.943Z"
-    },
-    {
-      "id": 484,
-      "name": "palkia",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
-      "types": [
-        "water",
-        "dragon"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-10T09:42:17.758Z"
     }
   ],
   "pokemon": {
@@ -3692,6 +3692,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T01:25:17.341Z",
       "lastPulledAt": "2026-10-17T01:25:17.341Z"
+    },
+    "914": {
+      "id": 914,
+      "name": "quaquaval",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T00:48:25.981Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T00:48:25.981Z",
+      "lastPulledAt": "2026-11-13T00:48:25.981Z"
     },
     "916": {
       "id": 916,
