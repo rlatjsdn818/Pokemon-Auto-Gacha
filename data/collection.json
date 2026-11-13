@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 311,
-  "updatedAt": "2026-11-13T07:23:18.205Z",
+  "totalPulls": 312,
+  "updatedAt": "2026-11-13T15:32:11.907Z",
   "lastPull": {
-    "id": 4,
-    "name": "charmander",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "id": 504,
+    "name": "patrat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
     "types": [
-      "fire"
+      "normal"
     ],
-    "totalStats": 309,
+    "totalStats": 255,
     "grade": "N",
-    "pulledAt": "2026-11-13T07:23:18.205Z"
+    "pulledAt": "2026-11-13T15:32:11.907Z"
   },
   "pulls": [
+    {
+      "id": 504,
+      "name": "patrat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-11-13T15:32:11.907Z"
+    },
     {
       "id": 4,
       "name": "charmander",
@@ -115,17 +126,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-11-11T02:01:25.688Z"
-    },
-    {
-      "id": 265,
-      "name": "wurmple",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 195,
-      "grade": "N",
-      "pulledAt": "2026-11-10T22:24:42.320Z"
     }
   ],
   "pokemon": {
@@ -2169,6 +2169,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-02T05:50:56.390Z",
       "lastPulledAt": "2026-11-02T05:50:56.390Z"
+    },
+    "504": {
+      "id": 504,
+      "name": "patrat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-11-13T15:32:11.907Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T15:32:11.907Z",
+      "lastPulledAt": "2026-11-13T15:32:11.907Z"
     },
     "506": {
       "id": 506,
