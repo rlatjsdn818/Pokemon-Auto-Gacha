@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 312,
-  "updatedAt": "2026-11-13T15:32:11.907Z",
+  "totalPulls": 313,
+  "updatedAt": "2026-11-13T21:34:13.923Z",
   "lastPull": {
-    "id": 504,
-    "name": "patrat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
+    "id": 477,
+    "name": "dusknoir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
     "types": [
-      "normal"
+      "ghost"
     ],
-    "totalStats": 255,
-    "grade": "N",
-    "pulledAt": "2026-11-13T15:32:11.907Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-13T21:34:13.923Z"
   },
   "pulls": [
+    {
+      "id": 477,
+      "name": "dusknoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T21:34:13.923Z"
+    },
     {
       "id": 504,
       "name": "patrat",
@@ -115,17 +126,6 @@
       "totalStats": 409,
       "grade": "R",
       "pulledAt": "2026-11-11T09:14:07.010Z"
-    },
-    {
-      "id": 126,
-      "name": "magmar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-11-11T02:01:25.688Z"
     }
   ],
   "pokemon": {
@@ -2089,10 +2089,10 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-23T23:16:07.433Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T23:16:07.433Z",
-      "lastPulledAt": "2026-10-23T23:16:07.433Z"
+      "lastPulledAt": "2026-11-13T21:34:13.923Z"
     },
     "481": {
       "id": 481,
