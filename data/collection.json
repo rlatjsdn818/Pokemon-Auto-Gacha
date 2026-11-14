@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 313,
-  "updatedAt": "2026-11-13T21:34:13.923Z",
+  "totalPulls": 314,
+  "updatedAt": "2026-11-14T01:42:12.906Z",
   "lastPull": {
-    "id": 477,
-    "name": "dusknoir",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+    "id": 815,
+    "name": "cinderace",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
     "types": [
-      "ghost"
+      "fire"
     ],
-    "totalStats": 525,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-11-13T21:34:13.923Z"
+    "pulledAt": "2026-11-14T01:42:12.906Z"
   },
   "pulls": [
+    {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T01:42:12.906Z"
+    },
     {
       "id": 477,
       "name": "dusknoir",
@@ -115,17 +126,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-11-11T17:09:31.979Z"
-    },
-    {
-      "id": 654,
-      "name": "braixen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 409,
-      "grade": "R",
-      "pulledAt": "2026-11-11T09:14:07.010Z"
     }
   ],
   "pokemon": {
@@ -3332,6 +3332,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-27T22:52:40.583Z",
       "lastPulledAt": "2026-10-27T22:52:40.583Z"
+    },
+    "815": {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T01:42:12.906Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T01:42:12.906Z",
+      "lastPulledAt": "2026-11-14T01:42:12.906Z"
     },
     "818": {
       "id": 818,
