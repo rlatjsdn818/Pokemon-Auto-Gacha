@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 315,
-  "updatedAt": "2026-11-14T08:03:12.555Z",
+  "totalPulls": 316,
+  "updatedAt": "2026-11-14T14:57:55.017Z",
   "lastPull": {
-    "id": 324,
-    "name": "torkoal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "id": 109,
+    "name": "koffing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
     "types": [
-      "fire"
+      "poison"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-11-14T08:03:12.555Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-11-14T14:57:55.017Z"
   },
   "pulls": [
+    {
+      "id": 109,
+      "name": "koffing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-14T14:57:55.017Z"
+    },
     {
       "id": 324,
       "name": "torkoal",
@@ -114,18 +125,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-12T03:58:49.266Z"
-    },
-    {
-      "id": 1008,
-      "name": "miraidon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-11-11T23:26:40.364Z"
     }
   ],
   "pokemon": {
@@ -576,6 +575,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T06:18:54.587Z",
       "lastPulledAt": "2026-09-20T06:18:54.587Z"
+    },
+    "109": {
+      "id": 109,
+      "name": "koffing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-14T14:57:55.017Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T14:57:55.017Z",
+      "lastPulledAt": "2026-11-14T14:57:55.017Z"
     },
     "112": {
       "id": 112,
