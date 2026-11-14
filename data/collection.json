@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 317,
-  "updatedAt": "2026-11-14T19:41:02.673Z",
+  "totalPulls": 318,
+  "updatedAt": "2026-11-14T23:24:22.599Z",
   "lastPull": {
-    "id": 1013,
-    "name": "sinistcha",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+    "id": 569,
+    "name": "garbodor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
     "types": [
-      "grass",
-      "ghost"
+      "poison"
     ],
-    "totalStats": 508,
-    "grade": "SR",
-    "pulledAt": "2026-11-14T19:41:02.673Z"
+    "totalStats": 474,
+    "grade": "R",
+    "pulledAt": "2026-11-14T23:24:22.599Z"
   },
   "pulls": [
+    {
+      "id": 569,
+      "name": "garbodor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-11-14T23:24:22.599Z"
+    },
     {
       "id": 1013,
       "name": "sinistcha",
@@ -116,17 +126,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-11-12T19:55:41.881Z"
-    },
-    {
-      "id": 33,
-      "name": "nidorino",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-11-12T12:13:44.420Z"
     }
   ],
   "pokemon": {
@@ -2431,6 +2430,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T00:54:33.801Z",
       "lastPulledAt": "2026-09-27T00:54:33.801Z"
+    },
+    "569": {
+      "id": 569,
+      "name": "garbodor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-11-14T23:24:22.599Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T23:24:22.599Z",
+      "lastPulledAt": "2026-11-14T23:24:22.599Z"
     },
     "570": {
       "id": 570,
