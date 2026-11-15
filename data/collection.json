@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 318,
-  "updatedAt": "2026-11-14T23:24:22.599Z",
+  "totalPulls": 319,
+  "updatedAt": "2026-11-15T02:53:25.453Z",
   "lastPull": {
-    "id": 569,
-    "name": "garbodor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+    "id": 695,
+    "name": "heliolisk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
     "types": [
-      "poison"
+      "electric",
+      "normal"
     ],
-    "totalStats": 474,
+    "totalStats": 481,
     "grade": "R",
-    "pulledAt": "2026-11-14T23:24:22.599Z"
+    "pulledAt": "2026-11-15T02:53:25.453Z"
   },
   "pulls": [
+    {
+      "id": 695,
+      "name": "heliolisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-11-15T02:53:25.453Z"
+    },
     {
       "id": 569,
       "name": "garbodor",
@@ -114,18 +127,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-13T00:48:25.981Z"
-    },
-    {
-      "id": 774,
-      "name": "minior-red-meteor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
-      "types": [
-        "rock",
-        "flying"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-11-12T19:55:41.881Z"
     }
   ],
   "pokemon": {
@@ -2908,6 +2909,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-08T06:49:13.077Z",
       "lastPulledAt": "2026-11-08T06:49:13.077Z"
+    },
+    "695": {
+      "id": 695,
+      "name": "heliolisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-11-15T02:53:25.453Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T02:53:25.453Z",
+      "lastPulledAt": "2026-11-15T02:53:25.453Z"
     },
     "696": {
       "id": 696,
