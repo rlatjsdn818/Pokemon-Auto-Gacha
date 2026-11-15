@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 319,
-  "updatedAt": "2026-11-15T02:53:25.453Z",
+  "totalPulls": 320,
+  "updatedAt": "2026-11-15T10:07:50.460Z",
   "lastPull": {
-    "id": 695,
-    "name": "heliolisk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+    "id": 114,
+    "name": "tangela",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
     "types": [
-      "electric",
-      "normal"
+      "grass"
     ],
-    "totalStats": 481,
+    "totalStats": 435,
     "grade": "R",
-    "pulledAt": "2026-11-15T02:53:25.453Z"
+    "pulledAt": "2026-11-15T10:07:50.460Z"
   },
   "pulls": [
+    {
+      "id": 114,
+      "name": "tangela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-11-15T10:07:50.460Z"
+    },
     {
       "id": 695,
       "name": "heliolisk",
@@ -115,18 +125,6 @@
       "totalStats": 309,
       "grade": "N",
       "pulledAt": "2026-11-13T07:23:18.205Z"
-    },
-    {
-      "id": 914,
-      "name": "quaquaval",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-13T00:48:25.981Z"
     }
   ],
   "pokemon": {
@@ -608,6 +606,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T23:51:20.977Z",
       "lastPulledAt": "2026-09-24T23:51:20.977Z"
+    },
+    "114": {
+      "id": 114,
+      "name": "tangela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-11-15T10:07:50.460Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T10:07:50.460Z",
+      "lastPulledAt": "2026-11-15T10:07:50.460Z"
     },
     "115": {
       "id": 115,
