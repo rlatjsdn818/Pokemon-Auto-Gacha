@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 322,
-  "updatedAt": "2026-11-15T21:40:56.483Z",
+  "totalPulls": 323,
+  "updatedAt": "2026-11-16T01:25:02.332Z",
   "lastPull": {
-    "id": 2,
-    "name": "ivysaur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "id": 619,
+    "name": "mienfoo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
     "types": [
-      "grass",
-      "poison"
+      "fighting"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-15T21:40:56.483Z"
+    "totalStats": 350,
+    "grade": "N",
+    "pulledAt": "2026-11-16T01:25:02.332Z"
   },
   "pulls": [
+    {
+      "id": 619,
+      "name": "mienfoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-16T01:25:02.332Z"
+    },
     {
       "id": 2,
       "name": "ivysaur",
@@ -117,17 +127,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-14T01:42:12.906Z"
-    },
-    {
-      "id": 477,
-      "name": "dusknoir",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-13T21:34:13.923Z"
     }
   ],
   "pokemon": {
@@ -2677,6 +2676,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T06:31:17.746Z",
       "lastPulledAt": "2026-10-20T06:31:17.746Z"
+    },
+    "619": {
+      "id": 619,
+      "name": "mienfoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-16T01:25:02.332Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T01:25:02.332Z",
+      "lastPulledAt": "2026-11-16T01:25:02.332Z"
     },
     "621": {
       "id": 621,
