@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 324,
-  "updatedAt": "2026-11-16T08:09:04.422Z",
+  "totalPulls": 325,
+  "updatedAt": "2026-11-16T18:25:55.014Z",
   "lastPull": {
-    "id": 875,
-    "name": "eiscue-ice",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
+    "id": 950,
+    "name": "klawf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
     "types": [
-      "ice"
+      "rock"
     ],
-    "totalStats": 470,
+    "totalStats": 450,
     "grade": "R",
-    "pulledAt": "2026-11-16T08:09:04.422Z"
+    "pulledAt": "2026-11-16T18:25:55.014Z"
   },
   "pulls": [
+    {
+      "id": 950,
+      "name": "klawf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-16T18:25:55.014Z"
+    },
     {
       "id": 875,
       "name": "eiscue-ice",
@@ -116,17 +127,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-11-14T14:57:55.017Z"
-    },
-    {
-      "id": 324,
-      "name": "torkoal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-14T08:03:12.555Z"
     }
   ],
   "pokemon": {
@@ -4100,10 +4100,10 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-19T05:57:06.338Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:57:06.338Z",
-      "lastPulledAt": "2026-09-19T05:57:06.338Z"
+      "lastPulledAt": "2026-11-16T18:25:55.014Z"
     },
     "959": {
       "id": 959,
