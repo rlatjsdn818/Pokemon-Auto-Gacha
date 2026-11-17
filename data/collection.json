@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 326,
-  "updatedAt": "2026-11-17T01:55:34.494Z",
+  "totalPulls": 327,
+  "updatedAt": "2026-11-17T09:54:06.417Z",
   "lastPull": {
-    "id": 1013,
-    "name": "sinistcha",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+    "id": 334,
+    "name": "altaria",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
     "types": [
-      "grass",
-      "ghost"
+      "dragon",
+      "flying"
     ],
-    "totalStats": 508,
-    "grade": "SR",
-    "pulledAt": "2026-11-17T01:55:34.494Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-17T09:54:06.417Z"
   },
   "pulls": [
+    {
+      "id": 334,
+      "name": "altaria",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-17T09:54:06.417Z"
+    },
     {
       "id": 1013,
       "name": "sinistcha",
@@ -117,18 +129,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-11-14T23:24:22.599Z"
-    },
-    {
-      "id": 1013,
-      "name": "sinistcha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 508,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T19:41:02.673Z"
     }
   ],
   "pokemon": {
@@ -1569,6 +1569,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T20:40:32.456Z",
       "lastPulledAt": "2026-10-29T20:40:32.456Z"
+    },
+    "334": {
+      "id": 334,
+      "name": "altaria",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-17T09:54:06.417Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T09:54:06.417Z",
+      "lastPulledAt": "2026-11-17T09:54:06.417Z"
     },
     "340": {
       "id": 340,
