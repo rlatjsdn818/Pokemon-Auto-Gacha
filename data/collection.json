@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 327,
-  "updatedAt": "2026-11-17T09:54:06.417Z",
+  "totalPulls": 328,
+  "updatedAt": "2026-11-17T18:51:52.626Z",
   "lastPull": {
-    "id": 334,
-    "name": "altaria",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+    "id": 277,
+    "name": "swellow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
     "types": [
-      "dragon",
+      "normal",
       "flying"
     ],
-    "totalStats": 490,
+    "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-11-17T09:54:06.417Z"
+    "pulledAt": "2026-11-17T18:51:52.626Z"
   },
   "pulls": [
+    {
+      "id": 277,
+      "name": "swellow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-17T18:51:52.626Z"
+    },
     {
       "id": 334,
       "name": "altaria",
@@ -118,17 +130,6 @@
       "totalStats": 481,
       "grade": "R",
       "pulledAt": "2026-11-15T02:53:25.453Z"
-    },
-    {
-      "id": 569,
-      "name": "garbodor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-11-14T23:24:22.599Z"
     }
   ],
   "pokemon": {
@@ -1339,6 +1340,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T06:23:05.133Z",
       "lastPulledAt": "2026-10-04T06:23:05.133Z"
+    },
+    "277": {
+      "id": 277,
+      "name": "swellow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-17T18:51:52.626Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T18:51:52.626Z",
+      "lastPulledAt": "2026-11-17T18:51:52.626Z"
     },
     "278": {
       "id": 278,
