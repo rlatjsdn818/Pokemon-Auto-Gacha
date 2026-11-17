@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 325,
-  "updatedAt": "2026-11-16T18:25:55.014Z",
+  "totalPulls": 326,
+  "updatedAt": "2026-11-17T01:55:34.494Z",
   "lastPull": {
-    "id": 950,
-    "name": "klawf",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+    "id": 1013,
+    "name": "sinistcha",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
     "types": [
-      "rock"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-11-16T18:25:55.014Z"
+    "totalStats": 508,
+    "grade": "SR",
+    "pulledAt": "2026-11-17T01:55:34.494Z"
   },
   "pulls": [
+    {
+      "id": 1013,
+      "name": "sinistcha",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 508,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T01:55:34.494Z"
+    },
     {
       "id": 950,
       "name": "klawf",
@@ -116,17 +129,6 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-11-14T19:41:02.673Z"
-    },
-    {
-      "id": 109,
-      "name": "koffing",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-11-14T14:57:55.017Z"
     }
   ],
   "pokemon": {
@@ -4320,10 +4322,10 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-10-11T07:13:47.813Z",
-      "count": 3,
-      "fusionLevel": 0,
+      "count": 4,
+      "fusionLevel": 1,
       "firstPulledAt": "2026-10-11T07:13:47.813Z",
-      "lastPulledAt": "2026-11-14T19:41:02.673Z"
+      "lastPulledAt": "2026-11-17T01:55:34.494Z"
     },
     "1014": {
       "id": 1014,
