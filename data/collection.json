@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 330,
-  "updatedAt": "2026-11-18T08:44:15.683Z",
+  "totalPulls": 331,
+  "updatedAt": "2026-11-18T17:35:49.515Z",
   "lastPull": {
-    "id": 530,
-    "name": "excadrill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "id": 419,
+    "name": "floatzel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
     "types": [
-      "ground",
-      "steel"
+      "water"
     ],
-    "totalStats": 508,
-    "grade": "SR",
-    "pulledAt": "2026-11-18T08:44:15.683Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-11-18T17:35:49.515Z"
   },
   "pulls": [
+    {
+      "id": 419,
+      "name": "floatzel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-18T17:35:49.515Z"
+    },
     {
       "id": 530,
       "name": "excadrill",
@@ -119,18 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-15T21:40:56.483Z"
-    },
-    {
-      "id": 163,
-      "name": "hoothoot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 262,
-      "grade": "N",
-      "pulledAt": "2026-11-15T17:00:56.219Z"
     }
   ],
   "pokemon": {
@@ -1944,6 +1942,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T09:05:42.330Z",
       "lastPulledAt": "2026-10-06T09:05:42.330Z"
+    },
+    "419": {
+      "id": 419,
+      "name": "floatzel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-18T17:35:49.515Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T17:35:49.515Z",
+      "lastPulledAt": "2026-11-18T17:35:49.515Z"
     },
     "430": {
       "id": 430,
