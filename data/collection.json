@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 331,
-  "updatedAt": "2026-11-18T17:35:49.515Z",
+  "totalPulls": 332,
+  "updatedAt": "2026-11-18T23:32:39.328Z",
   "lastPull": {
-    "id": 419,
-    "name": "floatzel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+    "id": 682,
+    "name": "spritzee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
     "types": [
-      "water"
+      "fairy"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-11-18T17:35:49.515Z"
+    "totalStats": 341,
+    "grade": "N",
+    "pulledAt": "2026-11-18T23:32:39.328Z"
   },
   "pulls": [
+    {
+      "id": 682,
+      "name": "spritzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-11-18T23:32:39.328Z"
+    },
     {
       "id": 419,
       "name": "floatzel",
@@ -117,18 +128,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-11-16T01:25:02.332Z"
-    },
-    {
-      "id": 2,
-      "name": "ivysaur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-15T21:40:56.483Z"
     }
   ],
   "pokemon": {
@@ -2971,10 +2970,10 @@
       "totalStats": 341,
       "grade": "N",
       "pulledAt": "2026-09-19T01:16:22.069Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:16:22.069Z",
-      "lastPulledAt": "2026-09-19T01:16:22.069Z"
+      "lastPulledAt": "2026-11-18T23:32:39.328Z"
     },
     "683": {
       "id": 683,
