@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 328,
-  "updatedAt": "2026-11-17T18:51:52.626Z",
+  "totalPulls": 329,
+  "updatedAt": "2026-11-18T01:25:57.300Z",
   "lastPull": {
-    "id": 277,
-    "name": "swellow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+    "id": 723,
+    "name": "dartrix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
     "types": [
-      "normal",
+      "grass",
       "flying"
     ],
-    "totalStats": 455,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-11-17T18:51:52.626Z"
+    "pulledAt": "2026-11-18T01:25:57.300Z"
   },
   "pulls": [
+    {
+      "id": 723,
+      "name": "dartrix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-18T01:25:57.300Z"
+    },
     {
       "id": 277,
       "name": "swellow",
@@ -118,18 +130,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-11-15T10:07:50.460Z"
-    },
-    {
-      "id": 695,
-      "name": "heliolisk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
-      "types": [
-        "electric",
-        "normal"
-      ],
-      "totalStats": 481,
-      "grade": "R",
-      "pulledAt": "2026-11-15T02:53:25.453Z"
     }
   ],
   "pokemon": {
@@ -3066,10 +3066,10 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-28T07:42:25.906Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T07:42:25.906Z",
-      "lastPulledAt": "2026-10-28T07:42:25.906Z"
+      "lastPulledAt": "2026-11-18T01:25:57.300Z"
     },
     "727": {
       "id": 727,
