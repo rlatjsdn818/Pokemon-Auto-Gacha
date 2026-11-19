@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 333,
-  "updatedAt": "2026-11-19T04:27:14.642Z",
+  "totalPulls": 334,
+  "updatedAt": "2026-11-19T13:41:07.919Z",
   "lastPull": {
-    "id": 751,
-    "name": "dewpider",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+    "id": 726,
+    "name": "torracat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
     "types": [
-      "water",
-      "bug"
+      "fire"
     ],
-    "totalStats": 269,
-    "grade": "N",
-    "pulledAt": "2026-11-19T04:27:14.642Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-11-19T13:41:07.919Z"
   },
   "pulls": [
+    {
+      "id": 726,
+      "name": "torracat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-19T13:41:07.919Z"
+    },
     {
       "id": 751,
       "name": "dewpider",
@@ -119,17 +129,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-11-16T18:25:55.014Z"
-    },
-    {
-      "id": 875,
-      "name": "eiscue-ice",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-16T08:09:04.422Z"
     }
   ],
   "pokemon": {
@@ -3101,6 +3100,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T07:42:25.906Z",
       "lastPulledAt": "2026-11-18T01:25:57.300Z"
+    },
+    "726": {
+      "id": 726,
+      "name": "torracat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-19T13:41:07.919Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T13:41:07.919Z",
+      "lastPulledAt": "2026-11-19T13:41:07.919Z"
     },
     "727": {
       "id": 727,
