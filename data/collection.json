@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 337,
-  "updatedAt": "2026-11-20T10:32:56.494Z",
+  "totalPulls": 338,
+  "updatedAt": "2026-11-20T18:46:18.870Z",
   "lastPull": {
-    "id": 619,
-    "name": "mienfoo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
+    "id": 1024,
+    "name": "terapagos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
     "types": [
-      "fighting"
+      "normal"
     ],
-    "totalStats": 350,
-    "grade": "N",
-    "pulledAt": "2026-11-20T10:32:56.494Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-11-20T18:46:18.870Z"
   },
   "pulls": [
+    {
+      "id": 1024,
+      "name": "terapagos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-20T18:46:18.870Z"
+    },
     {
       "id": 619,
       "name": "mienfoo",
@@ -115,18 +126,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-18T01:25:57.300Z"
-    },
-    {
-      "id": 277,
-      "name": "swellow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-11-17T18:51:52.626Z"
     }
   ],
   "pokemon": {
@@ -4476,10 +4475,10 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-11-10T02:09:54.715Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-10T02:09:54.715Z",
-      "lastPulledAt": "2026-11-10T02:09:54.715Z"
+      "lastPulledAt": "2026-11-20T18:46:18.870Z"
     }
   },
   "typeTotals": {
