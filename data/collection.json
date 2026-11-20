@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 336,
-  "updatedAt": "2026-11-20T02:40:13.846Z",
+  "totalPulls": 337,
+  "updatedAt": "2026-11-20T10:32:56.494Z",
   "lastPull": {
-    "id": 210,
-    "name": "granbull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "id": 619,
+    "name": "mienfoo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
     "types": [
-      "fairy"
+      "fighting"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-11-20T02:40:13.846Z"
+    "totalStats": 350,
+    "grade": "N",
+    "pulledAt": "2026-11-20T10:32:56.494Z"
   },
   "pulls": [
+    {
+      "id": 619,
+      "name": "mienfoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-20T10:32:56.494Z"
+    },
     {
       "id": 210,
       "name": "granbull",
@@ -116,18 +127,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-11-17T18:51:52.626Z"
-    },
-    {
-      "id": 334,
-      "name": "altaria",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
-      "types": [
-        "dragon",
-        "flying"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-17T09:54:06.417Z"
     }
   ],
   "pokemon": {
@@ -2751,10 +2750,10 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-11-16T01:25:02.332Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-16T01:25:02.332Z",
-      "lastPulledAt": "2026-11-16T01:25:02.332Z"
+      "lastPulledAt": "2026-11-20T10:32:56.494Z"
     },
     "621": {
       "id": 621,
