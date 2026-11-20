@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 335,
-  "updatedAt": "2026-11-19T21:49:59.252Z",
+  "totalPulls": 336,
+  "updatedAt": "2026-11-20T02:40:13.846Z",
   "lastPull": {
-    "id": 1017,
-    "name": "ogerpon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+    "id": 210,
+    "name": "granbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
     "types": [
-      "grass"
+      "fairy"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-11-19T21:49:59.252Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-11-20T02:40:13.846Z"
   },
   "pulls": [
+    {
+      "id": 210,
+      "name": "granbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-20T02:40:13.846Z"
+    },
     {
       "id": 1017,
       "name": "ogerpon",
@@ -117,18 +128,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-17T09:54:06.417Z"
-    },
-    {
-      "id": 1013,
-      "name": "sinistcha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 508,
-      "grade": "SR",
-      "pulledAt": "2026-11-17T01:55:34.494Z"
     }
   ],
   "pokemon": {
@@ -1073,10 +1072,10 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-28T00:50:50.081Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T00:50:50.081Z",
-      "lastPulledAt": "2026-10-18T21:10:28.103Z"
+      "lastPulledAt": "2026-11-20T02:40:13.846Z"
     },
     "213": {
       "id": 213,
