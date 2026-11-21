@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 341,
-  "updatedAt": "2026-11-21T15:28:38.672Z",
+  "totalPulls": 342,
+  "updatedAt": "2026-11-21T20:58:55.947Z",
   "lastPull": {
-    "id": 997,
-    "name": "arctibax",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+    "id": 405,
+    "name": "luxray",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
     "types": [
-      "dragon",
-      "ice"
+      "electric"
     ],
-    "totalStats": 423,
-    "grade": "R",
-    "pulledAt": "2026-11-21T15:28:38.672Z"
+    "totalStats": 523,
+    "grade": "SR",
+    "pulledAt": "2026-11-21T20:58:55.947Z"
   },
   "pulls": [
+    {
+      "id": 405,
+      "name": "luxray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 523,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T20:58:55.947Z"
+    },
     {
       "id": 997,
       "name": "arctibax",
@@ -115,17 +125,6 @@
       "totalStats": 269,
       "grade": "N",
       "pulledAt": "2026-11-19T04:27:14.642Z"
-    },
-    {
-      "id": 682,
-      "name": "spritzee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 341,
-      "grade": "N",
-      "pulledAt": "2026-11-18T23:32:39.328Z"
     }
   ],
   "pokemon": {
@@ -1891,6 +1890,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T23:14:10.511Z",
       "lastPulledAt": "2026-10-02T23:14:10.511Z"
+    },
+    "405": {
+      "id": 405,
+      "name": "luxray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 523,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T20:58:55.947Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T20:58:55.947Z",
+      "lastPulledAt": "2026-11-21T20:58:55.947Z"
     },
     "411": {
       "id": 411,
