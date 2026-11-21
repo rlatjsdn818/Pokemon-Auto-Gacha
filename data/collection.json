@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 340,
-  "updatedAt": "2026-11-21T07:22:26.843Z",
+  "totalPulls": 341,
+  "updatedAt": "2026-11-21T15:28:38.672Z",
   "lastPull": {
-    "id": 669,
-    "name": "flabebe",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+    "id": 997,
+    "name": "arctibax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
     "types": [
-      "fairy"
+      "dragon",
+      "ice"
     ],
-    "totalStats": 303,
-    "grade": "N",
-    "pulledAt": "2026-11-21T07:22:26.843Z"
+    "totalStats": 423,
+    "grade": "R",
+    "pulledAt": "2026-11-21T15:28:38.672Z"
   },
   "pulls": [
+    {
+      "id": 997,
+      "name": "arctibax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-11-21T15:28:38.672Z"
+    },
     {
       "id": 669,
       "name": "flabebe",
@@ -113,17 +126,6 @@
       "totalStats": 341,
       "grade": "N",
       "pulledAt": "2026-11-18T23:32:39.328Z"
-    },
-    {
-      "id": 419,
-      "name": "floatzel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-11-18T17:35:49.515Z"
     }
   ],
   "pokemon": {
@@ -4350,6 +4352,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T15:15:33.617Z",
       "lastPulledAt": "2026-10-10T15:15:33.617Z"
+    },
+    "997": {
+      "id": 997,
+      "name": "arctibax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-11-21T15:28:38.672Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T15:28:38.672Z",
+      "lastPulledAt": "2026-11-21T15:28:38.672Z"
     },
     "999": {
       "id": 999,
