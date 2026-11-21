@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 339,
-  "updatedAt": "2026-11-21T00:18:43.813Z",
+  "totalPulls": 340,
+  "updatedAt": "2026-11-21T07:22:26.843Z",
   "lastPull": {
-    "id": 106,
-    "name": "hitmonlee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "id": 669,
+    "name": "flabebe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
     "types": [
-      "fighting"
+      "fairy"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-11-21T00:18:43.813Z"
+    "totalStats": 303,
+    "grade": "N",
+    "pulledAt": "2026-11-21T07:22:26.843Z"
   },
   "pulls": [
+    {
+      "id": 669,
+      "name": "flabebe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-11-21T07:22:26.843Z"
+    },
     {
       "id": 106,
       "name": "hitmonlee",
@@ -113,18 +124,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-11-18T17:35:49.515Z"
-    },
-    {
-      "id": 530,
-      "name": "excadrill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
-      "types": [
-        "ground",
-        "steel"
-      ],
-      "totalStats": 508,
-      "grade": "SR",
-      "pulledAt": "2026-11-18T08:44:15.683Z"
     }
   ],
   "pokemon": {
@@ -2955,6 +2954,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T13:43:46.339Z",
       "lastPulledAt": "2026-10-01T13:43:46.339Z"
+    },
+    "669": {
+      "id": 669,
+      "name": "flabebe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-11-21T07:22:26.843Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T07:22:26.843Z",
+      "lastPulledAt": "2026-11-21T07:22:26.843Z"
     },
     "680": {
       "id": 680,
