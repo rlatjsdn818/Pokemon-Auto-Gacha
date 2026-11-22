@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 345,
-  "updatedAt": "2026-11-22T15:41:53.484Z",
+  "totalPulls": 346,
+  "updatedAt": "2026-11-22T21:17:26.786Z",
   "lastPull": {
-    "id": 874,
-    "name": "stonjourner",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+    "id": 648,
+    "name": "meloetta-aria",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
     "types": [
-      "rock"
+      "normal",
+      "psychic"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-11-22T15:41:53.484Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-22T21:17:26.786Z"
   },
   "pulls": [
+    {
+      "id": 648,
+      "name": "meloetta-aria",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-22T21:17:26.786Z"
+    },
     {
       "id": 874,
       "name": "stonjourner",
@@ -114,17 +127,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-11-20T10:32:56.494Z"
-    },
-    {
-      "id": 210,
-      "name": "granbull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-11-20T02:40:13.846Z"
     }
   ],
   "pokemon": {
@@ -2893,6 +2895,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:10:29.088Z",
       "lastPulledAt": "2026-09-16T12:10:29.088Z"
+    },
+    "648": {
+      "id": 648,
+      "name": "meloetta-aria",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-22T21:17:26.786Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T21:17:26.786Z",
+      "lastPulledAt": "2026-11-22T21:17:26.786Z"
     },
     "651": {
       "id": 651,
