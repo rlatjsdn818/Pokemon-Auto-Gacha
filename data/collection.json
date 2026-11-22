@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 344,
-  "updatedAt": "2026-11-22T07:46:05.251Z",
+  "totalPulls": 345,
+  "updatedAt": "2026-11-22T15:41:53.484Z",
   "lastPull": {
-    "id": 547,
-    "name": "whimsicott",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
+    "id": 874,
+    "name": "stonjourner",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
     "types": [
-      "grass",
-      "fairy"
+      "rock"
     ],
-    "totalStats": 480,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-11-22T07:46:05.251Z"
+    "pulledAt": "2026-11-22T15:41:53.484Z"
   },
   "pulls": [
+    {
+      "id": 874,
+      "name": "stonjourner",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-22T15:41:53.484Z"
+    },
     {
       "id": 547,
       "name": "whimsicott",
@@ -115,17 +125,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-11-20T02:40:13.846Z"
-    },
-    {
-      "id": 1017,
-      "name": "ogerpon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-11-19T21:49:59.252Z"
     }
   ],
   "pokemon": {
@@ -3888,6 +3887,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-22T00:58:24.928Z",
       "lastPulledAt": "2026-11-22T00:58:24.928Z"
+    },
+    "874": {
+      "id": 874,
+      "name": "stonjourner",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-22T15:41:53.484Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T15:41:53.484Z",
+      "lastPulledAt": "2026-11-22T15:41:53.484Z"
     },
     "875": {
       "id": 875,
