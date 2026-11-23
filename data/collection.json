@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 346,
-  "updatedAt": "2026-11-22T21:17:26.786Z",
+  "totalPulls": 347,
+  "updatedAt": "2026-11-23T01:47:14.239Z",
   "lastPull": {
-    "id": 648,
-    "name": "meloetta-aria",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
+    "id": 155,
+    "name": "cyndaquil",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
     "types": [
-      "normal",
-      "psychic"
+      "fire"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-22T21:17:26.786Z"
+    "totalStats": 309,
+    "grade": "N",
+    "pulledAt": "2026-11-23T01:47:14.239Z"
   },
   "pulls": [
+    {
+      "id": 155,
+      "name": "cyndaquil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-11-23T01:47:14.239Z"
+    },
     {
       "id": 648,
       "name": "meloetta-aria",
@@ -116,17 +126,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-11-20T18:46:18.870Z"
-    },
-    {
-      "id": 619,
-      "name": "mienfoo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-11-20T10:32:56.494Z"
     }
   ],
   "pokemon": {
@@ -841,6 +840,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-10T17:18:34.943Z",
       "lastPulledAt": "2026-11-10T17:18:34.943Z"
+    },
+    "155": {
+      "id": 155,
+      "name": "cyndaquil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-11-23T01:47:14.239Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T01:47:14.239Z",
+      "lastPulledAt": "2026-11-23T01:47:14.239Z"
     },
     "163": {
       "id": 163,
