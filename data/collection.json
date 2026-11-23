@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 348,
-  "updatedAt": "2026-11-23T09:50:56.009Z",
+  "totalPulls": 349,
+  "updatedAt": "2026-11-23T21:48:55.266Z",
   "lastPull": {
-    "id": 673,
-    "name": "gogoat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+    "id": 275,
+    "name": "shiftry",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
     "types": [
-      "grass"
+      "grass",
+      "dark"
     ],
-    "totalStats": 531,
-    "grade": "SR",
-    "pulledAt": "2026-11-23T09:50:56.009Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-11-23T21:48:55.266Z"
   },
   "pulls": [
+    {
+      "id": 275,
+      "name": "shiftry",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-23T21:48:55.266Z"
+    },
     {
       "id": 673,
       "name": "gogoat",
@@ -115,17 +128,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-11-21T07:22:26.843Z"
-    },
-    {
-      "id": 106,
-      "name": "hitmonlee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-11-21T00:18:43.813Z"
     }
   ],
   "pokemon": {
@@ -1366,6 +1368,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T06:23:05.133Z",
       "lastPulledAt": "2026-10-04T06:23:05.133Z"
+    },
+    "275": {
+      "id": 275,
+      "name": "shiftry",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-23T21:48:55.266Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T21:48:55.266Z",
+      "lastPulledAt": "2026-11-23T21:48:55.266Z"
     },
     "277": {
       "id": 277,
