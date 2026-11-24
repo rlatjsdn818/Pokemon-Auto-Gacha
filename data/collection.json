@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 350,
-  "updatedAt": "2026-11-24T05:35:47.864Z",
+  "totalPulls": 351,
+  "updatedAt": "2026-11-24T16:18:44.085Z",
   "lastPull": {
-    "id": 806,
-    "name": "blacephalon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+    "id": 162,
+    "name": "furret",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
     "types": [
-      "fire",
-      "ghost"
+      "normal"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-24T05:35:47.864Z"
+    "totalStats": 415,
+    "grade": "R",
+    "pulledAt": "2026-11-24T16:18:44.085Z"
   },
   "pulls": [
+    {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-11-24T16:18:44.085Z"
+    },
     {
       "id": 806,
       "name": "blacephalon",
@@ -117,18 +127,6 @@
       "totalStats": 523,
       "grade": "SR",
       "pulledAt": "2026-11-21T20:58:55.947Z"
-    },
-    {
-      "id": 997,
-      "name": "arctibax",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
-      "types": [
-        "dragon",
-        "ice"
-      ],
-      "totalStats": 423,
-      "grade": "R",
-      "pulledAt": "2026-11-21T15:28:38.672Z"
     }
   ],
   "pokemon": {
@@ -858,6 +856,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-23T01:47:14.239Z",
       "lastPulledAt": "2026-11-23T01:47:14.239Z"
+    },
+    "162": {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-11-24T16:18:44.085Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T16:18:44.085Z",
+      "lastPulledAt": "2026-11-24T16:18:44.085Z"
     },
     "163": {
       "id": 163,
