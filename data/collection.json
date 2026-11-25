@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 353,
-  "updatedAt": "2026-11-25T09:22:09.371Z",
+  "totalPulls": 354,
+  "updatedAt": "2026-11-25T19:28:54.001Z",
   "lastPull": {
-    "id": 521,
-    "name": "unfezant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+    "id": 575,
+    "name": "gothorita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
     "types": [
-      "normal",
-      "flying"
+      "psychic"
     ],
-    "totalStats": 488,
-    "grade": "R",
-    "pulledAt": "2026-11-25T09:22:09.371Z"
+    "totalStats": 390,
+    "grade": "N",
+    "pulledAt": "2026-11-25T19:28:54.001Z"
   },
   "pulls": [
+    {
+      "id": 575,
+      "name": "gothorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-25T19:28:54.001Z"
+    },
     {
       "id": 521,
       "name": "unfezant",
@@ -117,18 +127,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-22T15:41:53.484Z"
-    },
-    {
-      "id": 547,
-      "name": "whimsicott",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
-      "types": [
-        "grass",
-        "fairy"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-22T07:46:05.251Z"
     }
   ],
   "pokemon": {
@@ -2695,6 +2693,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T04:47:26.746Z",
       "lastPulledAt": "2026-09-26T04:47:26.746Z"
+    },
+    "575": {
+      "id": 575,
+      "name": "gothorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-25T19:28:54.001Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T19:28:54.001Z",
+      "lastPulledAt": "2026-11-25T19:28:54.001Z"
     },
     "581": {
       "id": 581,
