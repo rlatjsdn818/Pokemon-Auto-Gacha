@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 352,
-  "updatedAt": "2026-11-25T00:51:02.124Z",
+  "totalPulls": 353,
+  "updatedAt": "2026-11-25T09:22:09.371Z",
   "lastPull": {
-    "id": 495,
-    "name": "snivy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
+    "id": 521,
+    "name": "unfezant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
     "types": [
-      "grass"
+      "normal",
+      "flying"
     ],
-    "totalStats": 308,
-    "grade": "N",
-    "pulledAt": "2026-11-25T00:51:02.124Z"
+    "totalStats": 488,
+    "grade": "R",
+    "pulledAt": "2026-11-25T09:22:09.371Z"
   },
   "pulls": [
+    {
+      "id": 521,
+      "name": "unfezant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 488,
+      "grade": "R",
+      "pulledAt": "2026-11-25T09:22:09.371Z"
+    },
     {
       "id": 495,
       "name": "snivy",
@@ -116,17 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-11-22T07:46:05.251Z"
-    },
-    {
-      "id": 871,
-      "name": "pincurchin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 435,
-      "grade": "R",
-      "pulledAt": "2026-11-22T00:58:24.928Z"
     }
   ],
   "pokemon": {
@@ -2460,6 +2462,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T23:37:21.734Z",
       "lastPulledAt": "2026-10-22T23:37:21.734Z"
+    },
+    "521": {
+      "id": 521,
+      "name": "unfezant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 488,
+      "grade": "R",
+      "pulledAt": "2026-11-25T09:22:09.371Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T09:22:09.371Z",
+      "lastPulledAt": "2026-11-25T09:22:09.371Z"
     },
     "525": {
       "id": 525,
