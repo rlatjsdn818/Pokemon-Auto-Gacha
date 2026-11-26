@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 355,
-  "updatedAt": "2026-11-26T02:22:22.707Z",
+  "totalPulls": 356,
+  "updatedAt": "2026-11-26T11:11:45.788Z",
   "lastPull": {
-    "id": 339,
-    "name": "barboach",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+    "id": 219,
+    "name": "magcargo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
     "types": [
-      "water",
-      "ground"
+      "fire",
+      "rock"
     ],
-    "totalStats": 288,
-    "grade": "N",
-    "pulledAt": "2026-11-26T02:22:22.707Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-11-26T11:11:45.788Z"
   },
   "pulls": [
+    {
+      "id": 219,
+      "name": "magcargo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-26T11:11:45.788Z"
+    },
     {
       "id": 339,
       "name": "barboach",
@@ -117,18 +129,6 @@
       "totalStats": 309,
       "grade": "N",
       "pulledAt": "2026-11-23T01:47:14.239Z"
-    },
-    {
-      "id": 648,
-      "name": "meloetta-aria",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-22T21:17:26.786Z"
     }
   ],
   "pokemon": {
@@ -1169,6 +1169,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-08T13:54:34.377Z",
       "lastPulledAt": "2026-11-08T13:54:34.377Z"
+    },
+    "219": {
+      "id": 219,
+      "name": "magcargo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-26T11:11:45.788Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T11:11:45.788Z",
+      "lastPulledAt": "2026-11-26T11:11:45.788Z"
     },
     "226": {
       "id": 226,
