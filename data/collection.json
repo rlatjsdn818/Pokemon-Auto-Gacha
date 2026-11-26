@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 356,
-  "updatedAt": "2026-11-26T11:11:45.788Z",
+  "totalPulls": 357,
+  "updatedAt": "2026-11-26T20:11:43.011Z",
   "lastPull": {
-    "id": 219,
-    "name": "magcargo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+    "id": 114,
+    "name": "tangela",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
     "types": [
-      "fire",
-      "rock"
+      "grass"
     ],
-    "totalStats": 430,
+    "totalStats": 435,
     "grade": "R",
-    "pulledAt": "2026-11-26T11:11:45.788Z"
+    "pulledAt": "2026-11-26T20:11:43.011Z"
   },
   "pulls": [
+    {
+      "id": 114,
+      "name": "tangela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-11-26T20:11:43.011Z"
+    },
     {
       "id": 219,
       "name": "magcargo",
@@ -118,17 +128,6 @@
       "totalStats": 531,
       "grade": "SR",
       "pulledAt": "2026-11-23T09:50:56.009Z"
-    },
-    {
-      "id": 155,
-      "name": "cyndaquil",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 309,
-      "grade": "N",
-      "pulledAt": "2026-11-23T01:47:14.239Z"
     }
   ],
   "pokemon": {
@@ -652,10 +651,10 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-11-15T10:07:50.460Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-15T10:07:50.460Z",
-      "lastPulledAt": "2026-11-15T10:07:50.460Z"
+      "lastPulledAt": "2026-11-26T20:11:43.011Z"
     },
     "115": {
       "id": 115,
