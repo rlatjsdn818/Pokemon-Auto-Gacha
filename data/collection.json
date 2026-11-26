@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 354,
-  "updatedAt": "2026-11-25T19:28:54.001Z",
+  "totalPulls": 355,
+  "updatedAt": "2026-11-26T02:22:22.707Z",
   "lastPull": {
-    "id": 575,
-    "name": "gothorita",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+    "id": 339,
+    "name": "barboach",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
     "types": [
-      "psychic"
+      "water",
+      "ground"
     ],
-    "totalStats": 390,
+    "totalStats": 288,
     "grade": "N",
-    "pulledAt": "2026-11-25T19:28:54.001Z"
+    "pulledAt": "2026-11-26T02:22:22.707Z"
   },
   "pulls": [
+    {
+      "id": 339,
+      "name": "barboach",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-26T02:22:22.707Z"
+    },
     {
       "id": 575,
       "name": "gothorita",
@@ -116,17 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-22T21:17:26.786Z"
-    },
-    {
-      "id": 874,
-      "name": "stonjourner",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-22T15:41:53.484Z"
     }
   ],
   "pokemon": {
@@ -1660,6 +1662,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-17T09:54:06.417Z",
       "lastPulledAt": "2026-11-17T09:54:06.417Z"
+    },
+    "339": {
+      "id": 339,
+      "name": "barboach",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-26T02:22:22.707Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T02:22:22.707Z",
+      "lastPulledAt": "2026-11-26T02:22:22.707Z"
     },
     "340": {
       "id": 340,
