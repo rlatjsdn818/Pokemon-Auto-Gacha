@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 358,
-  "updatedAt": "2026-11-27T02:51:49.583Z",
+  "totalPulls": 359,
+  "updatedAt": "2026-11-27T11:34:28.535Z",
   "lastPull": {
-    "id": 797,
-    "name": "celesteela",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+    "id": 777,
+    "name": "togedemaru",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
     "types": [
-      "steel",
-      "flying"
+      "electric",
+      "steel"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-27T02:51:49.583Z"
+    "totalStats": 435,
+    "grade": "R",
+    "pulledAt": "2026-11-27T11:34:28.535Z"
   },
   "pulls": [
+    {
+      "id": 777,
+      "name": "togedemaru",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-11-27T11:34:28.535Z"
+    },
     {
       "id": 797,
       "name": "celesteela",
@@ -118,18 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-24T05:35:47.864Z"
-    },
-    {
-      "id": 275,
-      "name": "shiftry",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-23T21:48:55.266Z"
     }
   ],
   "pokemon": {
@@ -3567,6 +3567,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-12T19:55:41.881Z",
       "lastPulledAt": "2026-11-12T19:55:41.881Z"
+    },
+    "777": {
+      "id": 777,
+      "name": "togedemaru",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-11-27T11:34:28.535Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T11:34:28.535Z",
+      "lastPulledAt": "2026-11-27T11:34:28.535Z"
     },
     "780": {
       "id": 780,
