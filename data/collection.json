@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 360,
-  "updatedAt": "2026-11-27T20:15:14.664Z",
+  "totalPulls": 361,
+  "updatedAt": "2026-11-28T02:42:25.431Z",
   "lastPull": {
-    "id": 536,
-    "name": "palpitoad",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
+    "id": 995,
+    "name": "iron-thorns",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
     "types": [
-      "water",
-      "ground"
+      "rock",
+      "electric"
     ],
-    "totalStats": 384,
-    "grade": "N",
-    "pulledAt": "2026-11-27T20:15:14.664Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-28T02:42:25.431Z"
   },
   "pulls": [
+    {
+      "id": 995,
+      "name": "iron-thorns",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-28T02:42:25.431Z"
+    },
     {
       "id": 536,
       "name": "palpitoad",
@@ -119,17 +131,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-11-25T00:51:02.124Z"
-    },
-    {
-      "id": 162,
-      "name": "furret",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 415,
-      "grade": "R",
-      "pulledAt": "2026-11-24T16:18:44.085Z"
     }
   ],
   "pokemon": {
@@ -4616,10 +4617,10 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-10T15:15:33.617Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T15:15:33.617Z",
-      "lastPulledAt": "2026-10-10T15:15:33.617Z"
+      "lastPulledAt": "2026-11-28T02:42:25.431Z"
     },
     "997": {
       "id": 997,
