@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 361,
-  "updatedAt": "2026-11-28T02:42:25.431Z",
+  "totalPulls": 362,
+  "updatedAt": "2026-11-28T10:54:44.859Z",
   "lastPull": {
-    "id": 995,
-    "name": "iron-thorns",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+    "id": 441,
+    "name": "chatot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
     "types": [
-      "rock",
-      "electric"
+      "normal",
+      "flying"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-28T02:42:25.431Z"
+    "totalStats": 411,
+    "grade": "R",
+    "pulledAt": "2026-11-28T10:54:44.859Z"
   },
   "pulls": [
+    {
+      "id": 441,
+      "name": "chatot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 411,
+      "grade": "R",
+      "pulledAt": "2026-11-28T10:54:44.859Z"
+    },
     {
       "id": 995,
       "name": "iron-thorns",
@@ -120,17 +132,6 @@
       "totalStats": 488,
       "grade": "R",
       "pulledAt": "2026-11-25T09:22:09.371Z"
-    },
-    {
-      "id": 495,
-      "name": "snivy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-11-25T00:51:02.124Z"
     }
   ],
   "pokemon": {
@@ -2140,10 +2141,10 @@
       "totalStats": 411,
       "grade": "R",
       "pulledAt": "2026-09-16T01:52:06.360Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:52:06.360Z",
-      "lastPulledAt": "2026-09-16T01:52:06.360Z"
+      "lastPulledAt": "2026-11-28T10:54:44.859Z"
     },
     "445": {
       "id": 445,
